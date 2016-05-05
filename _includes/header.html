@@ -21,9 +21,9 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.github.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.github.url }}">
 </head>
 <body>
 
@@ -35,8 +35,8 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="/index.html" class="logo">
-									<span class="symbol"><img src="/images/logo-sokol.jpg" alt="" /></span><span class="title">Sokol Šestajovice</span>
+								<a href="{{ site.github.url }}/index.html" class="logo">
+									<span class="symbol"><img src="{{ site.github.url }}/images/logo-sokol.jpg" alt="" /></span><span class="title">Sokol Šestajovice</span>
 								</a>
 
 							<!-- Nav -->

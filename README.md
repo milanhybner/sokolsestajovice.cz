@@ -1,1 +1,0 @@
-# sokolsestajovice.cz
