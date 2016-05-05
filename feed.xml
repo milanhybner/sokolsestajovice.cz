@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: null
 ---
@@ -26,5 +27,747 @@ layout: null
         {% endfor %}
       </item>
     {% endfor %}
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOKOL Šestajovice</title>
+    <description>Sokol – sport pro všechny!
+</description>
+    <link>http://www.sokolsestajovice.cz/</link>
+    <atom:link href="http://www.sokolsestajovice.cz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Apr 2016 20:25:54 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2016 20:25:54 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Stavění májky a vítání jara</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/obec-sestajovice.png&quot; alt=&quot;Obec Šestajovice&quot; class=&quot;image&quot; height=&quot;100px&quot; /&gt;
+&lt;img src=&quot;/images/logo-sokol.jpg&quot; alt=&quot;T. J. Sokol Šestajovice&quot; class=&quot;image&quot; height=&quot;100px&quot; /&gt;
+&lt;img src=&quot;/images/hasici.png&quot; alt=&quot;Sbor dobrovolných hasičů Šestajovice&quot; class=&quot;image&quot; height=&quot;100px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Obecní úřad Šestajovice&lt;br /&gt;
+T. J. Sokol Šestajovice&lt;br /&gt;
+Sbor dobrovolných hasičů Šestajovice&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Vás srdečně zvou na již tradiční&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;STAVĚNÍ MÁJKY A VÍTÁNÍ JARA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hurá, jaro už je tady,&lt;br /&gt;
+zelenat se začnou sady,&lt;br /&gt;
+hlínou bude vonět zem,&lt;br /&gt;
+jaro je tu, pojďte ven!&lt;/p&gt;
+
+&lt;p&gt;Pojďte ozdobit symbol jara i svou stužkou!&lt;/p&gt;
+
+&lt;p&gt;V sobotu 30. 4. 2016 na Fotbalovém hřišti Šestajovice&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Program&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15.30&lt;/td&gt;
+      &lt;td&gt;Zahájení zdobení májky&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16.00  – 17:30&lt;/td&gt;
+      &lt;td&gt;Volná zábava, setkávání a soutěže&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17.30&lt;/td&gt;
+      &lt;td&gt;Kulturní program žáků a cvičenců&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18.00&lt;/td&gt;
+      &lt;td&gt;Stavění májky&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18.30&lt;/td&gt;
+      &lt;td&gt;Opékání buřtů a volná zábava&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20.00&lt;/td&gt;
+      &lt;td&gt;Zapálení hranice&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;/files/2016-04-30-paleni-carodejnic-maje.pdf&quot; class=&quot;button icon fa-download&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/04/26/vitani-jara.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/04/26/vitani-jara.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Přebor ve všestrannosti župy Barákovy – jak jsme dopadli</title>
+        <description>&lt;p&gt;V sobotu soutěžili za T.J. Sokol Šestajovice v kategorii mladších žáků v gymnastice a šplhu dva cvičenci: &lt;strong&gt;Matyáš Lacina&lt;/strong&gt; a &lt;strong&gt;Ondřej Žáček&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Soutěž zahrnovala sestavy na &lt;em&gt;akrobacii, přeskoku, hrazdě, lavičce&lt;/em&gt; a samostatně hodnocené soutěži ve &lt;em&gt;šplhu na tyči (3 m s přírazem)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Celkové výsledky se dozvíte již brzy, ale už teď můžeme prozradit, že &lt;strong&gt;Matyáš se umístil na druhém&lt;/strong&gt; místě a &lt;strong&gt;Ondra na prvním místě&lt;/strong&gt; v gymnastice i ve šplhu.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/04/26/prebor-zupy-barakovy.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/04/26/prebor-zupy-barakovy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Florbal i v úterý</title>
+        <description>&lt;p&gt;Od dubna trénuje oddíl florbalu i v úterý. Uvolnila se hala a nyní tedy probíhají tréninky v úterý stejně jako ve čtvrtek – 16:00 – 16:45 mladší žáci a 17:00 – 17:45 starší žáci (6.- 9. třída).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/oddily/florbal&quot; class=&quot;button&quot;&gt;Stránky oddílu&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/04/01/florbal.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/04/01/florbal.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sletová skladba pro muže a dorostence</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/vsesokolskyslet2018-official-300x222.png&quot; alt=&quot;Oficiální logo všesokolského sletu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Popis skladby pro muže a dorostence připravované pro XVI. všesokolský slet v roce 2018.&lt;/p&gt;
+
+&lt;p&gt;Autoři pohybu: Václav Pavelka, František Dosedla&lt;/p&gt;
+
+&lt;p&gt;Autor hudby: Jindřich Vrbenský&lt;/p&gt;
+
+&lt;h3 id=&quot;vod-a-charakteristika-skladby&quot;&gt;Úvod a charakteristika skladby&lt;/h3&gt;
+
+&lt;p&gt;Oslava stého výročí vzniku samostatného Československa je hlavní myšlenkou jak XVI. všesokolského sletu, tak sletové skladby pro muže dorostence.
+Ve skladbě se snoubí tradice naší tělesné kultury s národními motivy a s naší současností. Pecháčkova skladba „Přísaha republice“ z X. všesokolského sletu je průvodním nenásilným motivem skladby.&lt;/p&gt;
+
+&lt;p&gt;Stejně jako Chlapáci I., II. a III. si i tato skladba klade za cíl spojit v dnešní překotné době muže a dorostence v dobré partě se společným prožitkem založeným na kontinuitě pohybu a hudby.&lt;/p&gt;
+
+&lt;p&gt;Skladba připravovaná pro muže a dorostence pro XVI. všesokolský slet je koncipována se zaměřením na hudebně pohybovou současnost s využitím aerobního charakteru kondičního cvičení s využitím gymnastických a skupinových prvků v souznění s klasickými motivy se záměrem emocionálního prožitku cvičenců i diváků.&lt;/p&gt;
+
+&lt;h3 id=&quot;technick-daje&quot;&gt;Technické údaje&lt;/h3&gt;
+
+&lt;p&gt;Základní celek tvoří devítka, v níž je skladba s drobnými úpravami v choreografii nacvičitelná. Na XVI. všesokolském sletu bychom rádi představili nejméně 864 cvičenců v šesti stočtyřiačtyřicítkách. Navýšení tohoto počtu by jistě umocnilo jak divácký dojem ze skladby tak hrdost cvičenců na společné vystoupení.&lt;/p&gt;
+
+&lt;h3 id=&quot;struktura-skladby&quot;&gt;Struktura skladby&lt;/h3&gt;
+
+&lt;p&gt;Nástup na cvičební plochu + „bouřka“ 1, 2, 3&lt;br /&gt;
+Reje - nástup na značky&lt;br /&gt;
+Kánony&lt;br /&gt;
+Přetlaky (ragbíčko – mlýn)&lt;br /&gt;
+Troj ice (kantiléna + střechy + stoj na rukou a stoj na ramenou)&lt;br /&gt;
+Přeběhy a štronza + 3x salto prohnutě&lt;br /&gt;
+„Bouřka“ 1, 2, 3&lt;br /&gt;
+Kánony&lt;br /&gt;
+Přetlaky&lt;br /&gt;
+Trojice + gymnastika skupin&lt;br /&gt;
+Přeběhy a štronza + 3x salto prohnutě&lt;br /&gt;
+„Pecháček“ + závěr&lt;/p&gt;
+
+&lt;h3 id=&quot;historie-vesokolskch-slet&quot;&gt;Historie všesokolských sletů&lt;/h3&gt;
+
+&lt;p&gt;Tyrš: „Dejme cvičencům vedle závodů, kde je potřeba síla a obratnost, závod krásy, který bude přístupný všem cvičencům, kteří tak budou demonstrovat svou příslušnost ke své Tělocvičné jednotě, k Sokolu.“&lt;/p&gt;
+
+&lt;p&gt;XVI. všesokolský slet se koná v roce 2018, v roce kdy uplyne sto let od založení Československa. Sokol sehrál významnou roli pro vznik ČSR. Dá se říci, že vznik ČSR byl pro český národ vyvrcholením národního obrození, jehož začátky spadají do poloviny XIX. století. Sokol od svého založení v roce 1862 nebyl nikdy jen tělocvičnou organizací. Vždy se podílel na rozvoji české společnosti. Sokolské výlety, veřejná cvičení, šibřinky a další akce jsou toho důkazem. Na mezinárodních závodech Sokolové vystupovali jako příslušníci českého národa a pod českým praporem, i když byli příslušníky Rakousko-Uherska. Poprvé se Sokolové zúčastnili mezinárodního závodu v roce 1889 v Paříži. Závody pořádali francouzští gymnasté při příležitosti světové výstavy, která se v té době v Paříži konala. Na pozvání Francouzské gymnastické unie odjela do Paříže tři družstva Sokolů, která se v mezinárodním závodu umístila na prvních třech místech.&lt;/p&gt;
+
+&lt;p&gt;V době první světové válce vytvářejí zajatí češi, kteří bojovali v Rakousko-Uherské armádě (mnozí odcházeli do zajetí dobrovolně) sokolské skupiny, které se staly základem čs. legií a Sokolové tak stáli u vzniku první čs. armády, která vznikla a bojovala po boku spojenců dříve, než vzniklo v roce 1918 samostatné Československo. To pomohlo T. G. Masarykovi při prosazování vzniku samostatné ČSR. Legie převzali i sokolské slovování „bratře”.&lt;/p&gt;
+
+&lt;p&gt;T.G.M:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bez Sokola by nebylo legií a bez legií by nebylo samostatného Československa.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Novému čs. státu chyběla po jeho vzniku policie a armáda. Proto čs. národní rada, která byla prozatímně v čele nového státu požádala ČOS aby se Sokolové podíleli na vybudování a organizování „Národní stráže”, jejímž úkolem bylo udržování bezpečnosti a ochrany státního majetku. V roce 1919 se konaly sokolské odvody do nové čs. armády, která musela bránit Slovensko proti vpádu maďarských vojsk.&lt;/p&gt;
+
+&lt;p&gt;Toto vše mělo příznivou odezvu v českém národě. V letech 1919 až 1923 bylo Čechách založeno více jak 50 % sokolských jednot (v některých župách i 60 %), které byly v roce 1937 ve svazku ČOS. Po roce 1918 začalo zakládání sokolských jednot na Slovensku (Uherská vláda Sokol na svém území zakazovala, takže na Slovensku mohly být sokolské jednoty zakládány až po založení Československa).&lt;/p&gt;
+
+&lt;p&gt;Pohybová skladba&lt;/p&gt;
+
+&lt;p&gt;Pohybová skladba je jednou z forem výchovně vzdělávací práce organicky vyrůstající z činnosti Sokola. Vznik pohybové skladby je nerozlučně spjat se jménem Dr. Miroslava Tyrše, který zvolil veřejná vystoupení nejen jako jeden z prostředků výchovně vzdělávací práce, ale i jako prostředek propagace tělesné výchovy v Sokole.&lt;/p&gt;
+
+&lt;p&gt;První veřejné vystoupení se konalo v Praze dne 1. června 1862, při rozvinutí (křtu) praporu Sokola Pražského. Každé další veřejné cvičení přinášelo nějakou novinku.&lt;/p&gt;
+
+&lt;p&gt;V roce 1863 byly poprvé předvedeny reje a prostná v kruhu. V roce 1865 byla v nové sokolovně v Sokolské ulici předvedena širokořadá prostná. Cvičenci byli rozděleni: cvičenci v sudých zástupech cvičili v kajdách, cvičenci v sudých zástupech cvičili v červených košilích. Pohyby jednotlivých zástupů byly odlišné. Slo o první choreografii v prostoru a barevné odlišení cvičenců. V roce 1867 bylo při cvičení poprvé použito hudebního doprovodu. Na sletu byl použit pohyb cvičenců ze značek až počátkem XX. století. Velkoplošná choreografie byla použita až na X. sletu v roce 1938 v „Reji žen“.&lt;/p&gt;
+
+&lt;p&gt;Co je pohybová skladba&lt;/p&gt;
+
+&lt;p&gt;Pohybová skladba je menším (u pódiových skladeb), mnohdy i rozsáhlým souborem gymnastických, případně i tanečních nebo herních prvků a užitých cvičení buď pravidelně rytmizováných, nebo v přirozené formě provedených, čímž je vytvořen jednotný tělocvičně-hudební vzájemně prokomponovaný útvar vytvořený podle vedoucího záměru (myšlenky) autora(ů) za tvůrčího uplatnění specifických kompozičních principů a postupů. Pohybová skladba tedy není a nesmí být jen cvičení s hudbou.&lt;/p&gt;
+
+&lt;p&gt;Pohybová skladba musí zaujmout diváky i cvičence, pro které musí mít i fyziologický význam. Na základě toho jak kvalitně si cvičenci osvojili pohybovou skladbu můžeme posoudit úroveň jejich gymnastické (taneční, herní) gramotnosti a jak jsou u nich rozvinuty tělesné a pohybové schopnosti, jako správné držení těla, kloubní pohyblivost, obratnost, správná pohybová technika, paměť pro rozvinuté cvičební celky a smysl pro prostorovou orientaci a pod.&lt;/p&gt;
+
+&lt;p&gt;Všesokolské slety&lt;/p&gt;
+
+&lt;p&gt;I.  slet se konal k dvacátému výročí založení Sokola Pražského v Praze na Střeleckém ostrově v roce 1882. Cvičilo na něm 720 mužů. Průvodu se zúčastnilo 1600 mužů ze 76 jednot s 57 prapory.&lt;/p&gt;
+
+&lt;p&gt;II. slet byl připravován k 25. výročí založení Sokola na rok 1887. Byl rakouskými zakázán. Protože do Prahy přij eli cvičenci ze zahraničí včetně USA, připravil Sokol Pražský, jako náhradu za slet závody a vystoupení v Českém Brodě. Sokolové z Ameriky vystoupili se cvičením s kužely. Závodilo se ve skoku do výšky, skoku do dálky, skoku o tyči a běhu. Dále ve vzpírání činek 25 kg a 50 kg.&lt;br /&gt;
+II. slet se tak mohl konat až v roce 1891 při příležitosti t. zv. Jubilejní výstavy. Konal se ve Stromovce. Na sletu, poprvé na hudbu cvičilo 2310 mužů, což je téměř dvakrát tolik co na posledním t.j. XV. sletu v roce 2012.&lt;/p&gt;
+
+&lt;p&gt;III. slet 1895 se konal při příležitosti významné národní akce t.zv Národopisné výstavy. Poprvé se konal na letenské pláni. Poprvé vystupují dorostenci (cvičení s tyčemi cvičilo 715 dor.) a sokolská jízda.&lt;/p&gt;
+
+&lt;p&gt;IV. slet se konal v roce 1901- opět na letenské pláni. Cvičili muži (6.705), dorostenci (1988) a poprvé ženy (867 žen cvičilo s kužely).&lt;/p&gt;
+
+&lt;p&gt;V.  slet se konal v roce 1907 na letenské pláni na ploše o polovinu větší než předchozí slet. Cvičilo 7.600 mužů, 2.500 žen, 500 dorostenců, poprvé žactvo (1.800 žáků a 500 žákyň) a cvičenci ze zahraničí. Poprvé sletová scéna „Husité“, která na velké šachovnici představovala Žižkovo vítězství nad křižáky u Havl. Brodu v roce 1422.&lt;/p&gt;
+
+&lt;p&gt;V rámci V. sletu pořádal Mezinárodní svaz tělocvičných spolků (dnešní FIG) jehož členem byl Sokol od roku 1897, III. mezinárodní (evropské) závody v tělocviku, ve kterém zvítězili Sokolové.
+V roce 1910 ocenil Mezinárodní olympij ský výbor pořadatele sletů Olympij ským pohárem-nej vyšším vyznamenáním tělovýchovných a sportovních organizací na světě.&lt;/p&gt;
+
+&lt;p&gt;VI. slet se konal v roce 1912. Konal se opět na letenské pláni, ale na podstatně větší ploše. Slet rozdělen na sletové dny mládeže (žactvo a dorostenci - 1050 dorostenců cvičilo s kužely) a hlavní sletové dny - dny dospělých (vystoupilo celkem 18.000 mužů a 5.600 žen). I. slet Svazu slovanského sokolstva (Svaz slovanského sokolstva byl založen v roce 1908 a sdružoval Čechy, Chorvaty, Poláky, Slovince, Srby, Bulhary a Rusy.&lt;/p&gt;
+
+&lt;p&gt;V roce 1915 byla jeho činnost rakouskými úřady zastavena). Skladbu žen poprvé složila žena. Sletová scéna „Marathón“ byla věnována olympijským hrám.&lt;/p&gt;
+
+&lt;p&gt;VII. slet se konal v roce 1920. První slet po I. světové válce, první slet v nové CSR. Poslední slet na Letenské pláni. Sletu předcházelo 6. června cvičení školního žactva. Slet byl rozložen do tří víkendů. 13 června bylo cvičení žactva (11.120 cvičenců), 20. června se konal I. slet sokol, dorostu (19.612 cvičenců). Hlavních dnů 28 .- 30. 6. se zúčastnilo 27.000 mužů a 23.000 žen. Novinkou bylo vystoupení čs. armády, kterou Sokol v říjnu 1918 úspěšně zastoupil. Sletová scéna „Stavba sochy svobody“ symbolizovala vznik nového čs. státu.&lt;/p&gt;
+
+&lt;p&gt;VIII. slet v roce 1926 se konal poprvé na Strahově, kde pražská obec vybudovala největší stadion na světě (cvičiště má plochu 63.345 metrů - cca osm fotbalových hřišť). Samostatnou součástí sletu byly II. středoškolské hry (14.251 cvičenců). Samostatný slet žactva (5.780 žáků, 6.860 žákyň), slet dorostu (13.888 dorostenců, 14.076 dorostenek), o hlavních dnech cvičilo 30.000 mužů, 4.800 starších mužů a 25.000 žen.&lt;/p&gt;
+
+&lt;p&gt;Byly provedeny dvě sletové scény. Na Strahově s názvem „Kde domov můj“a na Vltavě s názvem „Slovanské bratrstvo&lt;/p&gt;
+
+&lt;p&gt;IX. slet v roce 1932- oslava 100. výročí narození Dr. Miroslava Tyrše. Pokročily úpravy strahovského stadionu. Hlediště upraveno pro 150.000 diváků. Podzemními ampliony se zlepšilo ozvučení. Tím byla odstraněna zvuková vlna daná rozlohou stadionu a rychlostí šíření zvuku. Sletová scéna „Tyršův sen“. Sletu předcházely III. středoškolské hry (15.000 cvičenců) a cvičení pražských národních škol (12.413 cvičenců). Na sletu žactva cvičilo 14.574 žáků a 16.550 dívek, na sletu dorostu 14.000 dorostenců a 13.975 dorostenek. O hlavních dnech v\stoupilo 34.000 mužů (dvakrát po 17.000), 5.678 starších mužů a 28.000 žen. Dále vystoupilo 7.240 zahraničních sokolů a celky armád tzv. Malé dohody (ČSR, Jugoslávie, Rumunsko).&lt;/p&gt;
+
+&lt;p&gt;X.  slet se konal na Strahově v roce 1938. Slet se stal národní manifestací na obranu republiky, na obranu demokracie, což symbolizovala i Pecháčkova skladba pro muže „Přísaha republice“, kdy na cvičišti bylo 30.000 cvičenců, kteří přísahali věrnost ČSR vyjadřovali odvahu bránit republiku. Odhodlání cvičit bylo veliké, takže sletový program musel být rozvržen do několika týdnů. 29. května vystoupilo přes 20.000 dětí z pražských národních škol. 12. června se konaly IV. středoškolské hry. Cvičení a závodů IV. středoškolských her se zúčastnilo přes 45.000 studentů.&lt;/p&gt;
+
+&lt;p&gt;Na sletu žactva cvičilo 4.368 dětí (v kategorii nejmi, žactva), 4.256 mladších žákyň, 13.784 st. žákyň, 13.784 ml. žáků a 13.024 starších žáků. Na sletu dorostu cvičilo 19.968 dorostenců a 24.784 dorostenek. Ve třech dnech hlavních sletových dnů se vystřídalo 165 tisíc žen a mužů. Poprvé předvedena velkoplošná choreografie: v „Reji žen“ manželů Matějovcových, kdy na ploše stadionu cvičilo současně 30.000 žen. Na sletu vystoupilo i 3.551 vojáků „Malé dohody“ (Jugoslávie, Rumunska a ČSR). Mistrovství světa v tělocviku, kterou jako součást sletu pořádala Mezinárodní tělocvičná federace (Sokol byl jejím členem od roku 1897) poukázalo na mezinárodní význam sletu. XI. mistrovství světa mužů vyhrálo družstvo ČSR před Švýcarskem a Jugoslávií. Mistrem světa se stal Jan Gajdoš (Sokol Brno I) před Janem Sládkem a E. Mackem (Švýcarsko). III. mistrovství světa žen vyhrála ČSR před Jugoslávií a Polskem. Mistryní světa se stala Vlasta Děkanové (Sokol Žižkov) před Z. Veřmiřovskou a M. Pálfyovou (Sokol Bratislava).&lt;/p&gt;
+
+&lt;p&gt;XI. slet se konal v roce 1948 na Strahově. Konal se po únoru 1948 v době pro Sokol velmi složité. Byl vydán zákon o sjednocení tělovýchovy. Akční výbory, naprosto v rozporu se stanovami Sokola, začaly vylučovat lidi ze Sokola. Na sletu, zejména v průvodu se i zatýkalo, protože část sokolstva dávala najevo svůj nesouhlas s Gottwaldovou politikou. Sletu předcházely v roce 1947 Předsletové tělovýchovné slavnosti kterých se zúčastnilo 192.000 cvičících ze všech stupňů škol. Na sletu žactva cvičilo 53.320 žáků a 45.190 žákyň, na sletu dorostu bylo 80.000 cvičenců. Ve čtyřech hlavních dnech se vystřídalo 51.000 mužů a 60.000 žen. Byl opakován „Rej žen“ z X. sletu (cvičilo se třikrát po 30.000 cvičenkách). Muži cvičili Meduno-va prostná „Věrni zůstaneme”. Na sletu vystoupila i řada hostů. Všech cvičenců bylo 585.000.&lt;/p&gt;
+
+&lt;p&gt;Po XI. všesokolském sletu dochází v ČSR k postupné likvidaci ČOS. Řada členů sokola odchází do emigrace. Vzniká Ústředí Sokola v zahraničí. Do jeho čela je zvolen Dr. A. Hřebík, v letech 1945-48 starosta ČOS. V letech 1953 až 1960 Ústředí pořádalo pět župních sletů (tři v Kanadě, v Paříži a ve Vídni). Ke stoletému výročí založení Sokola rozhodlo se Ústředí uspořádat v roce 1962 ve Vídni I. slet čs. Sokola v zahraničí. Sletu se zúčastnili Sokolové z celého světa. Sletový koncert dirigoval Rafael Kubelík. Následně se konalo do roku 1990 dalších šest sletů. Sedmého sletu, který se konal v Paříži 5.- 8. 7. 1990, se zúčastnili i cvičenci z obnovené ČOS (z ČSR odjelo do Paříže čtrnáct autobusů).&lt;/p&gt;
+
+&lt;p&gt;XII. všesokolský slet se konal po 46. letech v roce 1994 opět v Praze na Strahově, na velkém stadionu za účasti velkého množství Sokolů ze zahraničí. Sletu se zúčastnilo přes 25.000 cvičenců. Tehdejší vedení ČOS špatně vyhodnotilo politickou situaci v zemi. Slet skončil ve ztrátě cca 82. milionů korun.&lt;/p&gt;
+
+&lt;p&gt;XIII.   slet se konal v roce 2000 na Rošického stadionu na Strahově. Novinkou byl specielně komponovaný večerní program. Na sletu cvičilo celkem 21.500 cvičenců.&lt;/p&gt;
+
+&lt;p&gt;XIV.    slet se konal v roce 2006 na Rošického stadionu na Strahově. Na sletu cvičilo cca 16.200 cvičenců.&lt;/p&gt;
+
+&lt;p&gt;XV. slet se konal v roce 2012. Poprvé v areálu Slavie v Praze ve Vršovicích za účasti 10.500 cvičenců.&lt;/p&gt;
+
+&lt;p&gt;Blíží se rok 2018, blíží se XVI. všesokolský slet. Záleží jen na nás, jaký bude!!&lt;/p&gt;
+
+&lt;p&gt;Tyrš:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;stěží který stav je kdy v té míře výborný, aby zlepšení v něm naprosto nemožné bylo…. zda by všechno nemohlo jinak a lépe být    Všeho čeho jsme dosáhli či nedosáhli je zásluhou či vinou cvičitelstva.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Josef Zedník&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;cvičitelský sbor mužů a dorostenců&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;březen 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/03/21/sletova-skladba.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/03/21/sletova-skladba.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sokolský triatlon</title>
+        <description>&lt;p&gt;T.J. SOKOL Lysá nad Labem pořádá a srdečně Vás zve na 25. ROČNÍK Sokolského triatlonu, který se koná v neděli dne 19. června 2016.&lt;/p&gt;
+
+&lt;p&gt;info: www.sokol-lysa.cz kontakt: triatlon.lysa@seznam.cz&lt;/p&gt;
+
+&lt;h3 id=&quot;rozpis&quot;&gt;Rozpis&lt;/h3&gt;
+
+&lt;p&gt;Datum: neděle 19. června 2016&lt;/p&gt;
+
+&lt;p&gt;Místo zahájení: Lysá nad Labem, Husovo náměstí 1976, areál TJ Sokol Lysá n/L&lt;/p&gt;
+
+&lt;p&gt;Prezence: 8:30 – kancelář v 1. patře sokolovny&lt;/p&gt;
+
+&lt;p&gt;Zahájení závodu a rozprava: 9:30, po zahájení se závodníci přesunou do Ostré&lt;/p&gt;
+
+&lt;p&gt;Start: 10:30 &lt;/p&gt;
+
+&lt;h3 id=&quot;kategorie&quot;&gt;Kategorie&lt;/h3&gt;
+
+&lt;ul class=&quot;d&quot;&gt;
+  &lt;li&gt;muži MI (18-39) ročník 1998-1977, muži MII (40-59) ročník 1976-1957 – P:1 C:35 B:7&lt;/li&gt;
+  &lt;li&gt;muži senioři SI (60 a starší) ročník 1956 a starší – P:0,6 C:35 B:7&lt;/li&gt;
+  &lt;li&gt;ženy ŽI (18-34) ročník 1998–1982, ŽII (nad 34) ročník 1981 a starší – P:0,6 C:35 B:7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vloen-zvod-dt&quot;&gt;Vložený závod dětí&lt;/h3&gt;
+
+&lt;p&gt;Start v 11:30 a cíl pláž Ostrá&lt;/p&gt;
+
+&lt;p&gt;Prezence pro dětský závod 10:30 pláž OSTRÁ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kategorie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;d&quot;&gt;
+  &lt;li&gt;žáci II (07-06) – P: 50 m C:3,6 B:1,4&lt;/li&gt;
+  &lt;li&gt;žáci III (05-04) a IV (03-02) – P: 150 m C:3,6 B:1,4&lt;/li&gt;
+  &lt;li&gt;žákyně II (07-06) – P: 50 m C:3,6 B:1,4&lt;/li&gt;
+  &lt;li&gt;žákyně III (05-04) a IV (03-02) – P: 150 m C:3,6 B:1,4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Délka plaveckého úseku bude upřesněna podle aktuální teploty vody v den závodu !&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Plavání (P) - na jezeře v Ostré (MI a MII 1km, SI, ŽI a ŽII 0,6 km)&lt;/p&gt;
+
+&lt;p&gt;Cyklistika (C) - Ostrá, Lysá n/L, Dvorce, Sojovice, Skorkov, Předměřice, Kačov, Předměřice, Čihadla, Stará Lysá, Lysá n/L. (MI, MII, SI, ŽI a ŽII 35 km)&lt;/p&gt;
+
+&lt;p&gt;Běh (B) - Lysá - Husovo nám., Velaz, Hrabanov a zpět. (cíl před radnicí) (MI,MII, SI, ŽI a ŽII 7 km)&lt;/p&gt;
+
+&lt;p&gt;Podmínky: ochranná přilba na cyklistiku&lt;/p&gt;
+
+&lt;p&gt;Startovné: 200,- Kč, nad 60 let 100,-, děti zdarma &lt;/p&gt;
+
+&lt;p&gt;Ceny: první tři závodníci v kategorii obdrží diplom a věcnou cenu, absolutní vítěz kategorie mužů obdrží cenu Městského úřadu &lt;/p&gt;
+
+&lt;p&gt;Start společný pro kategorie 1) seniorů, žen a mužů 2) dětí.&lt;/p&gt;
+
+&lt;ul class=&quot;default&quot;&gt;
+  &lt;li&gt;Cyklistická část se jede za běžného provozu, Závodníci a doprovod jsou povinni dodržovat platné předpisy o silničním provozu, stejně jako pokyny pořadatelů a orgánů policie na trati. Jízda v háku je povolena.&lt;/li&gt;
+  &lt;li&gt;Závodníci mladší 18 let startují pouze s písemným souhlasem rodiče.&lt;/li&gt;
+  &lt;li&gt;Protest lze podat do 15 minut po ukončení závodu s vkladem 100,- Kč. &lt;/li&gt;
+  &lt;li&gt;Všichni závodníci startují na vlastní nebezpečí, pořadatel nepřebírá za žádného účastníka zodpovědnost za jakékoliv újmy na zdraví a majetku.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Info: &lt;a href=&quot;www.sokol-lysa.cz&quot;&gt;www.sokol-lysa.cz&lt;/a&gt; kontakt: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#114;&amp;#105;&amp;#097;&amp;#116;&amp;#108;&amp;#111;&amp;#110;&amp;#046;&amp;#108;&amp;#121;&amp;#115;&amp;#097;&amp;#064;&amp;#115;&amp;#101;&amp;#122;&amp;#110;&amp;#097;&amp;#109;&amp;#046;&amp;#099;&amp;#122;&quot;&gt;&amp;#116;&amp;#114;&amp;#105;&amp;#097;&amp;#116;&amp;#108;&amp;#111;&amp;#110;&amp;#046;&amp;#108;&amp;#121;&amp;#115;&amp;#097;&amp;#064;&amp;#115;&amp;#101;&amp;#122;&amp;#110;&amp;#097;&amp;#109;&amp;#046;&amp;#099;&amp;#122;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/03/20/sokolsky-triatlon.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/03/20/sokolsky-triatlon.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Memoriál Karla Kulovaného</title>
+        <description>&lt;p&gt;Oddíl stolního tenisu T. J. Sokol Pyšely pořádá II. ročník „Memoriálu Karla Kulovaného“&lt;/p&gt;
+
+&lt;p&gt;Datum: Sobotu 16. 4. 2016.&lt;/p&gt;
+
+&lt;p&gt;Prezence: 8:00 hod.&lt;/p&gt;
+
+&lt;p&gt;Zahájení turnaje: 9:00 hod.&lt;/p&gt;
+
+&lt;p&gt;Startovné: 50,- Kč&lt;/p&gt;
+
+&lt;p&gt;Občerstvení pro účastníky turnaje zajištěno.&lt;/p&gt;
+
+&lt;p&gt;Vítěz převezme putovní pohár. Vítězové jednotlivých kategorií obdrží ceny.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/03/19/turnaj-stolni-tenis.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/03/19/turnaj-stolni-tenis.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Usnesení z valné hromady</title>
+        <description>&lt;h2 id=&quot;i-valn-hromada-t-j-sokol-schvaluje&quot;&gt;I. Valná hromada T. J. Sokol schvaluje:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;výroční zprávu jednoty přednesenou bratrem starostou Ing. Jakubem Otáhalem&lt;/li&gt;
+  &lt;li&gt;zprávu náčelnictva jednoty, odboru sportu a náčelnictva za rok 2015 s plánem činností na rok 2016 – přednesenou sestrou Mgr. Hanou Otáhalovou a Ing. Jakube Otáhalem&lt;/li&gt;
+  &lt;li&gt;zprávu hospodáře za rok 2015 o hospodaření jednoty, zprávu o dotacích a příspěvcích pro tělocvičnou jednotu Sokol za rok 2015 a účetní závěrku za rok 2015 – přednesenou bratrem Jakubem Otáhalem a doplněnou o odborné komentáře zástupcem účetní společnosti connect Šárkou Pelikánovou&lt;/li&gt;
+  &lt;li&gt;zprávu kontrolní komise - přednesenou bratrem Ing. Lukášem Kolbabou&lt;/li&gt;
+  &lt;li&gt;návrh rozpočtu jednoty na rok 2016 – přednesen bratrem Jakubem Otáhalem&lt;/li&gt;
+  &lt;li&gt;plán činnosti jednoty na rok 2016 - přednesen bratrem Jakubem Otáhalem&lt;/li&gt;
+  &lt;li&gt;složení mandátové, volební a návrhové komise, zapisovatelů a ověřovatelů dle předneseného návrhu bratrem starostou jednoty Jakubem Otáhalem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ii-valn-hromada-t-j-sokol-estajovice-zvolila-volby-jsou-na-cel-tlet-obdob&quot;&gt;II. Valná hromada T. J. Sokol Šestajovice zvolila: (volby jsou na celé tříleté období)&lt;/h2&gt;
+
+&lt;h3 id=&quot;vbor-estilenn&quot;&gt;Výbor /šestičlenný/&lt;/h3&gt;
+
+&lt;p&gt;Starostu: br. Ing. Jakuba Otáhala&lt;br /&gt;
+Místostarostu: br. Mgr. Milana Hybnera&lt;br /&gt;
+Jednatele: br. Ing. Lukáše Kolbabu&lt;br /&gt;
+Hospodáře: ses. Ing. Radanu Kolbabovou&lt;br /&gt;
+Náčelnici: ses. Mgr. Hanu Otáhalovou&lt;br /&gt;
+Náčelníka: br. Mgr. Milana Hybnera&lt;br /&gt;
+Vzdělavatele: ses. Mgr. Evu Vaňkovou&lt;/p&gt;
+
+&lt;p&gt;Kontrolní komisi /tříčlenná/: Ing. Rudolfa Filipa Ph. D., Ing. Pavla Lacinu, Ing. Zdeňka Šísla&lt;br /&gt;
+Náhradník: br. Ing. Luboše Jokela&lt;/p&gt;
+
+&lt;p&gt;Vyslance do výboru župy a výboru ČOS: br. Ing. Jakuba Otáhala&lt;br /&gt;
+Kandidáta do předsednictva ČOS případně kontrolní komise ČOS: br. Ing. Jakuba Otáhala&lt;br /&gt;
+Kandidáta na místostarostu župy pro organizaci: br. Ing. Jakuba Otáhala&lt;br /&gt;
+Náhradníka vyslance do výboru župy: br. Mgr. Milana Hybnera&lt;br /&gt;
+Delegáta do výboru župy: br. Mgr. Milana Hybnera&lt;/p&gt;
+
+&lt;p&gt;Kandidáta na náčelníka župy: br. Mgr. Milana Hybnera&lt;/p&gt;
+
+&lt;p&gt;Kandidátku na vzdělavatele župy: ses. Mgr. Evu Vaňkovou&lt;/p&gt;
+
+&lt;p&gt;Statutární zástupce jednoty T. J. Sokol Šestajovice s podpisovým právem:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;bratra: starostu T. J. Sokol Šestajovice Jakuba Otáhala&lt;/li&gt;
+  &lt;li&gt;bratra: jednatele T. J. Sokol Šestajovice Lukáše Kolbabu&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;iii-valn-hromada-bere-na-vdom&quot;&gt;III. Valná hromada bere na vědomí:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;zprávu mandátové komise přednesenou sestrou Helenu Černochovou, která konstatovala, že na volební valné hromadě je přítomno z celkového počtu zletilých členů 62 členů 39. Valná hromada je usnášeníschopná. Dokladem je prezenční listina, která je přílohou.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;iv-valn-hromada-ukld-vboru-jednoty&quot;&gt;IV. Valná hromada ukládá výboru jednoty&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;maximální úspornost v hospodaření s finančními prostředky&lt;/li&gt;
+  &lt;li&gt;svolat mimořádnou valnou hromadu k projednání činnosti oddílů všestrannosti&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;v-valn-hromada-dkuje&quot;&gt;V. Valná hromada děkuje:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;odstupujícím činovníkům výboru jednoty za jejich obětavou práci, která je časově náročná a je vykonávaná na úkor vlastního volného času a vlastních rodin&lt;/li&gt;
+  &lt;li&gt;všem cvičitelům a členům tělocvičné jednoty za jejich nezištnou celoroční práci&lt;/li&gt;
+  &lt;li&gt;župě Barákově za odbornou profesionální pomoc a lidskou podporu&lt;/li&gt;
+  &lt;li&gt;obecnímu úřadu za spolupráci&lt;/li&gt;
+  &lt;li&gt;ostatním šestajovickým spolkům zejména KRPŠ a Dobrovolným Hasičům&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;nvrhov-a-mandtov-komise&quot;&gt;Návrhová a mandátová komise:&lt;/h2&gt;
+
+&lt;p&gt;Helena Černochová (podpis)&lt;br /&gt;
+Simona Čermáková (podpis)&lt;br /&gt;
+Martina Dvořáková (podpis)&lt;/p&gt;
+
+&lt;h2 id=&quot;ovovatel&quot;&gt;Ověřovatelé:&lt;/h2&gt;
+
+&lt;p&gt;Voerman Zuzana (podpis)&lt;br /&gt;
+Lubomír Jokel (podpis)&lt;/p&gt;
+
+&lt;h2 id=&quot;zapisovatel&quot;&gt;Zapisovatel:&lt;/h2&gt;
+
+&lt;p&gt;Helena Černochová (podpis)&lt;/p&gt;
+
+&lt;h2 id=&quot;volebn-komise-ve-sloen&quot;&gt;Volební komise ve složení:&lt;/h2&gt;
+
+&lt;p&gt;Renata Halaxová (podpis)&lt;br /&gt;
+Vladislav Pelc (podpis)&lt;br /&gt;
+Zdeněk Isak (podpis)&lt;/p&gt;
+
+&lt;p&gt;V Šestajovicích dne: 4.3.2016 (razítko)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Mar 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/03/04/usneseni.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/03/04/usneseni.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Valná hromada T.J. Sokol Šestajovice</title>
+        <description>&lt;p&gt;Dne 4.3.2016 v 19:00 v restauraci U Kamene, Husova 66/2, Šestajovice 250 92&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/02/19/valna-hromada.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/02/19/valna-hromada.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lívancový pohár 2016 - 2. kolo</title>
+        <description>&lt;p&gt;&lt;em&gt;Běžecký oddíl&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;6. února jsme se vydali na 2. kolo Lívancového poháru. Účast byla tentokrát poznamenána, především u našich mladších běžců, probíhajícími jarními prázdninami. Přesto se za náš oddíl vydalo na trať 8 borců. Pochválit musíme naše běžkyně v kategorii ženy, protože všechny tři si v tomto kole vytvořily osobní rekord tratě!&lt;/p&gt;
+
+&lt;p&gt;Naši nejlepší běžci v kategoriích:&lt;/p&gt;
+
+&lt;p&gt;Muži, 2 míle: br. Lubomír Jokel, 11. místo, 11:42.&lt;/p&gt;
+
+&lt;p&gt;Ženy, 2 míle: ses. Denisa Dvořáková, 17. místo, 13:35.&lt;/p&gt;
+
+&lt;p&gt;Kluci, 1 míle: br. Dan Morávek, 11. místo, 7:58.&lt;/p&gt;
+
+&lt;p&gt;Holky, 1 míle: ses. Denisa Morávková, 7. místo, 7:30.&lt;/p&gt;
+
+&lt;p&gt;Skokan kola: ses. Daniela Dvořáková, zlepšení osobního rekordu o více jak 2 minuty.&lt;/p&gt;
+
+&lt;p&gt;Výsledky 2. kola Lívancového poháru 2016&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;jméno&lt;/th&gt;
+      &lt;th&gt;kategorie&lt;/th&gt;
+      &lt;th&gt;trať v mílích&lt;/th&gt;
+      &lt;th&gt;čas&lt;/th&gt;
+      &lt;th&gt;pořadí&lt;/th&gt;
+      &lt;th&gt;z kolika&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Lubomír Jokel&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;11:55&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;169&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Petr Veselý&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;13:02&lt;/td&gt;
+      &lt;td&gt;41&lt;/td&gt;
+      &lt;td&gt;169&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Tomáš Dvořák&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;13:05&lt;/td&gt;
+      &lt;td&gt;64&lt;/td&gt;
+      &lt;td&gt;169&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Denisa Dvořáková&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;13:35&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;114&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Petra Menclíková&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;16:42&lt;/td&gt;
+      &lt;td&gt;51&lt;/td&gt;
+      &lt;td&gt;114&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Daniela Dvořáková&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;22:04&lt;/td&gt;
+      &lt;td&gt;106&lt;/td&gt;
+      &lt;td&gt;114&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Dan Morávek&lt;/td&gt;
+      &lt;td&gt;kluci&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;8:15&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Denisa Morávková&lt;/td&gt;
+      &lt;td&gt;holky&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;7:58&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Průběžné výsledky Lívancového poháru 2016&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;jméno&lt;/th&gt;
+      &lt;th&gt;kategorie&lt;/th&gt;
+      &lt;th&gt;pořadí&lt;/th&gt;
+      &lt;th&gt;z kolika&lt;/th&gt;
+      &lt;th&gt;body TOP9&lt;/th&gt;
+      &lt;th&gt;absolv. kol&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Lubomír Jokel&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;264&lt;/td&gt;
+      &lt;td&gt;281&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Veselý Petr&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;28-29&lt;/td&gt;
+      &lt;td&gt;264&lt;/td&gt;
+      &lt;td&gt;207&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Dvořák Tomáš&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;38&lt;/td&gt;
+      &lt;td&gt;264&lt;/td&gt;
+      &lt;td&gt;188&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Šubert Martin&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;171-172&lt;/td&gt;
+      &lt;td&gt;264&lt;/td&gt;
+      &lt;td&gt;52&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Šubrt Matěj&lt;/td&gt;
+      &lt;td&gt;muži&lt;/td&gt;
+      &lt;td&gt;173-264&lt;/td&gt;
+      &lt;td&gt;264&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Dvořáková Denisa&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;161&lt;/td&gt;
+      &lt;td&gt;145&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Menclíková Petra&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+      &lt;td&gt;161&lt;/td&gt;
+      &lt;td&gt;70&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Procházková Petra&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;83-84&lt;/td&gt;
+      &lt;td&gt;161&lt;/td&gt;
+      &lt;td&gt;55&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Dvořáková Daniela&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;113-161&lt;/td&gt;
+      &lt;td&gt;161&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Kühnlová Šárka&lt;/td&gt;
+      &lt;td&gt;ženy&lt;/td&gt;
+      &lt;td&gt;113-161&lt;/td&gt;
+      &lt;td&gt;161&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Morávek Dan&lt;/td&gt;
+      &lt;td&gt;kluci&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;42&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Tatar Jan&lt;/td&gt;
+      &lt;td&gt;kluci&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;br. Suchý Vít&lt;/td&gt;
+      &lt;td&gt;kluci&lt;/td&gt;
+      &lt;td&gt;17-18&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Morávková Denisa&lt;/td&gt;
+      &lt;td&gt;holky&lt;/td&gt;
+      &lt;td&gt;3-4&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;51&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Tatarová Marie&lt;/td&gt;
+      &lt;td&gt;holky&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Hanáková Sylva&lt;/td&gt;
+      &lt;td&gt;holky&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ses. Kühnlová Natálie&lt;/td&gt;
+      &lt;td&gt;holky&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Dsc_0031-kopie
+20160206_091812-1
+20160206_091300
+20160206_091949
+20160206_092251
+20160206_092813
+Dsc_0197
+Dsc_0200&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 Feb 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/02/06/livanec-2.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/02/06/livanec-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lívancový pohár 2016 - 1. kolo</title>
+        <description>&lt;p&gt;&lt;em&gt;Běžecký oddíl&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Lívancový pohár nás do jeho nového ročníku přivítal mrazivým ránem a bílou tratí parku v pražské Stromovce. Celá trať byla pokryta vrstvou ušlapaného sněhu a ledu. Část trati vedená po asfaltové cestě byla posypána štěrkem, zde proto neměli běžci větší problémy. Část trati vedená po přírodních cestách parku se však sypat nesmí, proto byla velmi kluzká. A ani běžci z našeho oddílu se nevyhnuli pádům. Naštěstí pády byly bez následků, a všichni jsme si nakonec krásnou zimní atmosféru běhu užili.&lt;/p&gt;
+
+&lt;p&gt;Livancovy-pohar-2016-01-1_2
+Livancovy-pohar-2016-01-2_2
+Livancovy-pohar-2016-01-3
+Livancovy-pohar-2016-01-4
+Livancovy-pohar-2016-01-5
+Livancovy-pohar-2016-01-6&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://www.sokolsestajovice.cz/2016/01/02/livanec-1.html</link>
+        <guid isPermaLink="true">http://www.sokolsestajovice.cz/2016/01/02/livanec-1.html</guid>
+        
+        
+      </item>
+    
+>>>>>>> c1203e33ce26d56ffba9cc2bf044d7284d01f499
   </channel>
 </rss>
