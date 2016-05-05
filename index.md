@@ -7,7 +7,7 @@ permalink: /
 ![Jakub](/images/jakub.jpg){:.image .right}
 
 {% for post in site.posts limit:3 %}
-## [{{ post.title }}]({{ post.url }})
+## [{{{{ site.baseurl }}}}{{ post.title }}]({{ post.url }})
 {{ post.excerpt | markdownify }}
 {% endfor %}
 
