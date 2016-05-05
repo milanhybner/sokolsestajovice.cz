@@ -1,0 +1,87 @@
+- nazev: Běžecký oddíl
+  dlouhe-url: bezecky-oddil
+  kratke-url: beh
+  vedouci: Jakub Otáhal
+  vedouci-mobil: 602 114 389
+  email: beh@sokolsestajovice.cz
+  vek: 5–10 let
+
+- nazev: Oddíl florbalu
+  dlouhe-url: florbal
+  kratke-url: florbal
+  vedouci: Ladislav Pelc
+  vedouci-mobil: 724 032 032
+  email: florbal@sokolsestajovice.cz
+  vek: 6–12 let
+
+- nazev: Oddíl míčových her
+  dlouhe-url: micove-hry
+  kratke-url: micovky
+  vedouci: Tomáš Černoch
+  vedouci-mobil: 606 764 870
+  email: micovky@sokolsestajovice.cz
+  vek: 6–10 let
+
+- nazev: Oddíl rodičů a dětí
+  dlouhe-url: rodice-a-deti
+  kratke-url: rd
+  vedouci: Eva Vaňková
+  vedouci-mobil: 605 433 430
+  email: rd@sokolsestajovice.cz
+  vek: 2–5 let
+
+- nazev: Oddíl olympijského šplhu
+  dlouhe-url: splh
+  kratke-url: splh
+  vedouci: Luboš Jokel
+  vedouci-mobil: 602 547 293
+  email: splh@sokolsestajovice.cz
+  vek: 6–66 let
+
+- nazev: Taneční oddíl
+  dlouhe-url: tanecni-oddil
+  kratke-url: tanec
+  vedouci: Hana Otáhalová
+  vedouci-mobil: 605 204 967
+  email: tanec@sokolsestajovice.cz
+  vek: 6–16 let
+
+- nazev: Oddíl trampolín
+  dlouhe-url: oddil-trampolin
+  kratke-url: trampoliny
+  vedouci: Milan Hybner
+  vedouci-mobil: 776 412 328
+  email: trampoliny@sokolsestajovice.cz
+  vek: 5–10 let
+
+- nazev: Oddíl všestrannosti
+  dlouhe-url: vsestrannost
+  kratke-url: vsestrannost
+  vedouci: Radana Kolbabová
+  vedouci-mobil: 732 944 763
+  email: vsestrannost@sokolsestajovice.cz
+  vek: 5–12 let
+
+- nazev: Zálesák
+  dlouhe-url: zalesak
+  kratke-url: zalesak
+  vedouci: vedoucí oddílu Zálesák
+  vedouci-mobil: 
+  email: zalesak@sokolsestajovice.cz
+  vek: 8–10 let
+
+- nazev: Oddíl zdravotního cvičení
+  dlouhe-url: zdravotni-cviceni
+  kratke-url: zdravotni
+  vedouci: Simona Čermáková
+  vedouci-mobil: 602 110 931
+  email: zdravotni@sokolsestajovice.cz
+  vek: 18–88 let
+
+- nazev: Oddíl kondičního cvičení žen
+  dlouhe-url: zeny
+  kratke-url: zeny
+  vedouci: Hana Otáhlalová
+  vedouci-mobil: 605 204 967
+  email: zeny@sokolsestajovice.cz
+  vek: 16–66 let
