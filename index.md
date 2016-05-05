@@ -4,7 +4,7 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-![Jakub](/images/jakub.jpg){:.image .right}
+![Jakub]({{ site.baseurl }}/images/jakub.jpg){:.image .right}
 
 {% for post in site.posts limit:3 %}
 ## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
