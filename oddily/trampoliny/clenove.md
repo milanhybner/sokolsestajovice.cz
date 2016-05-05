@@ -42,6 +42,8 @@ Smejkal David
 Žáček Ondřej  
 Žáček Radek
 
+[Podívejte se na svou docházku](){:.button}
+
 ## Další informace
 
 * [Sestavy](/trampoliny/sestavy/) – popis sestav na různé soutěže

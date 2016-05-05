@@ -11,7 +11,7 @@ permalink: /
 {{ post.excerpt | markdownify }}
 {% endfor %}
 
-[Všechny články](/archiv/){:.button}
+[Všechny články]({{ site.baseurl }}/archiv/){:.button}
 
 <section class="tiles" id="oddily">
   <article class="style1">
