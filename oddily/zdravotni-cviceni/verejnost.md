@@ -4,7 +4,7 @@ title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni-cviceni/
 ---
 
-[Info pro členy](/{{site.data.oddil.zdravotni.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zdravotni.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 **Zdravotní cvičení – TV sál v Základní škole.**
 
@@ -20,4 +20,4 @@ Cvičení je určeno pro všechny věkové kategorie, doporučujeme především
 
 [{{site.data.oddil.zdravotni.email}}](mailto:{{site.data.oddil.zdravotni.email}})
 
-[Chci se přidat](/clenstvi/){:.button}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button}

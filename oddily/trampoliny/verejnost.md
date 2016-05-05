@@ -4,7 +4,7 @@ title: Oddíl trampolín
 permalink: /oddily/oddil-trampolin/
 ---
 
-[Info pro členy](/{{site.data.oddil.trampoliny.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.trampoliny.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Oddíl pro chlapce ve věku 5–10 let, jehož náplní je všeobecná pohybová příprava prostřednictvím převážně gymnastických cvičení a skoky na trampolíně.
 
@@ -27,4 +27,4 @@ Hlavním trenérem je Mgr. Milan Hybner, absolvent učitelského programu FTVS U
 
 [{{site.data.oddil.trampoliny.email}}](mailto:{{site.data.oddil.trampoliny.email}})
 
-![Milan Hybner, vedoucí oddílu trampolín](/images/hybner.jpg "Milan Hybner, vedoucí oddílu trampolín"){:.image .fit}
+![Milan Hybner, vedoucí oddílu trampolín]({{ site.baseurl }}/images/hybner.jpg "Milan Hybner, vedoucí oddílu trampolín"){:.image .fit}

@@ -3,7 +3,7 @@ layout: page
 title: Oddíl míčových her
 permalink: /oddily/micove-hry/
 ---
-[Info pro členy](/{{site.data.oddil.micovky.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.micovky.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pátek 13:40 – 14:40 
 
@@ -16,4 +16,4 @@ Průpravné míčové hry a volejbal.
 [{{site.data.oddil.micovky.email}}](mailto:{{site.data.oddil.tanec.email}})
 
 
-![Tomáš Černoch, vedoucí oddílu míčových her](/images/cernoch.jpg "Tomáš Černoch, vedoucí oddílu míčových her"){:.image .fit}
+![Tomáš Černoch, vedoucí oddílu míčových her]({{ site.baseurl }}/images/cernoch.jpg "Tomáš Černoch, vedoucí oddílu míčových her"){:.image .fit}

@@ -4,7 +4,7 @@ title: Taneční oddíl
 permalink: /oddily/tanecni-oddil/
 ---
 
-[Info pro členy](/{{site.data.oddil.tanec.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.tanec.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pondělí 15:00 – 15:45.
 
@@ -14,4 +14,4 @@ Oddíl je určen dětem ve věku 6–16 let, dívkám i chlapcům. Taneční pr�
 
 [{{site.data.oddil.tanec.email}}](mailto:{{site.data.oddil.tanec.email}})
 
-![Hana Otáhalová, vedoucí oddílu tance](/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu tance"){:.image .fit}
+![Hana Otáhalová, vedoucí oddílu tance]({{ site.baseurl }}/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu tance"){:.image .fit}
