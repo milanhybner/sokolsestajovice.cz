@@ -7,9 +7,6 @@ baseurl: "/sokolsestajovice.cz" # the subpath of your site, e.g. /blog/
 url: "http://www.sokolsestajovice.cz" # the base hostname & protocol for your site
 phone: 605204967
 
-# Build settings
-markdown: kramdown
-
 defaults:
    - scope:
        path: ""
