@@ -13,3 +13,9 @@ defaults:
        type: posts
      values:
        layout: post
+
+prose:
+  metadata:
+    _posts:
+      - title
+      - excerpt
