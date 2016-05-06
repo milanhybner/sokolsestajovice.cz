@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: ještě jeden testíček
 excerpt: sdůůdsfkjsůadfkjůsadfkjsůdkfjsaůdkfjsaůdfjsaůlfjsaůldkj
 ---
