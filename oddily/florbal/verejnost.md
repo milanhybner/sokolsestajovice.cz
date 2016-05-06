@@ -5,7 +5,7 @@ oddil: florbal
 permalink: /oddily/florbal/
 ---
 
-[Info pro členy](/{{site.data.oddil.florbal.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.florbal.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 **úterý, čtvrtek  16:00 – 16:45 mladší žáci (1.-5. třída)**
 

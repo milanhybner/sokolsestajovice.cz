@@ -4,7 +4,7 @@ title: Oddíl rodičů a dětí
 permalink: /oddily/rodice-a-deti/
 ---
 
-[Info pro členy](/{{site.data.oddil.rd.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.rd.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Cvičení rodičů s dětmi pro děti ve věku 2–5 let.
 
@@ -16,4 +16,4 @@ Cvičení je určeno dvojicím dospělý a dítě. Cvičení s rodičem (praro
 
 [{{site.data.oddil.rd.email}}](mailto:{{site.data.oddil.rd.email}})
 
-![Eva Vaňková, vedoucí oddílu rodičů a dětí](/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}
+![Eva Vaňková, vedoucí oddílu rodičů a dětí]({{ site.baseurl }}/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}

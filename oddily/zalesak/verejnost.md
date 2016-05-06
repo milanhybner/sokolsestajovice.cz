@@ -4,7 +4,7 @@ title: Zálesák
 permalink: /oddily/zalesak/
 ---
 
-[Info pro členy](/{{site.data.oddil.zalesak.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zalesak.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Středa 16:00 – 18:00
 
@@ -12,7 +12,7 @@ Středa 16:00 – 18:00
 
 [{{site.data.oddil.zalesak.email}}](mailto:{{site.data.oddil.zalesak.email}})
 
-**Zaměřeni oddílu**
+**Zaměření oddílu**
 
 Oddíl Zálesák je zaměřen na pobyty v přírodě a zálesácké táboření. Podnikáme výpravy a výlety za dobrodružstvím. Formou her a různých cvičení zvyšujeme fyzickou i psychickou stránku dětí. Děti se učí základům přežití v lese, jako je hledání a úprava vody, stavění přístřešků, rozdělávání ohně a zajišťování potravy. Dále se věnujeme poskytování první pomoci, lanovým technikám, poznávání rostlin, zvířat, stromů a vše co nám příroda může poskytnout a čím nás může obohatit v jednotlivých ročních obdobích.** Aktivity jsou zaměřené pro děti ve věku 8 - 10 let.**
 
@@ -28,5 +28,5 @@ Scházet se budeme jedenkrát týdně ve středu od 16:00 do 18:00 hod. Schůzky
 
 Přibližně jedenkrát za období se bude konat víkendová výprava v rozmezí 1-3 dnů. Výpravy budou vyvrcholením práce za určité období a všichni si zde budou moci vyzkoušet, co se na schůzkách naučili.
 
-[Chci se přidat](/clenstvi/){:.button}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button}
 

@@ -4,7 +4,7 @@ title: Oddíl všestrannosti
 permalink: /oddily/vsestrannost/
 ---
 
-[Info pro členy](/{{site.data.oddil.vsestrannost.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.vsestrannost.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Sportovní všestrannost – cvičení žactva.
 
@@ -20,5 +20,5 @@ Cvičení pohybové všestrannosti pro děti ve věku 5–12 let. Cvičení je z
 
 Vaše děti naučíme dovednosti odpovídající jejich fyziologickému vývoji. Sport činíme pro děti zábavným i užitečným! Dětem s nadáním nebo chutí pro konkrétní sportovní disciplínu, doporučíme specializované sportovní oddíly.
 
-![Radana Kolbabová, vedoucí oddílu všestrannosti](/images/kolbabova.jpg "Radana Kolbabová, vedoucí oddílu všestrannosti"){:.image .fit}
+![Radana Kolbabová, vedoucí oddílu všestrannosti]({{ site.baseurl }}/images/kolbabova.jpg "Radana Kolbabová, vedoucí oddílu všestrannosti"){:.image .fit}
 

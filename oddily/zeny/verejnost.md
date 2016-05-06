@@ -4,7 +4,7 @@ title: Oddíl kondičního cvičení žen
 permalink: /oddily/zeny/
 ---
 
-[Info pro členy](/{{site.data.oddil.zeny.kratke-url}}){:.button} [Chci se přidat](/clenstvi/){:.button .special}
+[Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zeny.kratke-url}}){:.button} [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pondělí 19:00 – 20:00.
 
@@ -17,6 +17,6 @@ Určeno všem ženám i mladší věkové kategorie!
 [{{site.data.oddil.zeny.email}}](mailto:{{site.data.oddil.tanec.email}})
 
 
-[Chci se přidat](/clenstvi/){:.button}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button}
 
-![Hana Otáhalová, vedoucí oddílu kondičního cvičení žen](/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu kondičního cvičení žen"){:.image .fit}
+![Hana Otáhalová, vedoucí oddílu kondičního cvičení žen]({{ site.baseurl }}/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu kondičního cvičení žen"){:.image .fit}
