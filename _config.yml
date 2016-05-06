@@ -3,7 +3,7 @@ title: SOKOL Šestajovice
 email: starosta@sokolsestajovice.cz
 description: > # this means to ignore newlines until "baseurl:"
   Sokol – sport pro všechny!
-baseurl: "/sokolsestajovice.cz" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.sokolsestajovice.cz" # the base hostname & protocol for your site
 phone: 605204967
 
