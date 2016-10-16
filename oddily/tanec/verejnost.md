@@ -1,0 +1,19 @@
+---
+layout: page
+title: Taneční oddíl
+permalink: /oddily/tanec/
+---
+
+[//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.tanec.kratke-url}}){:.button}   )
+
+[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+
+Pondělí 15:00 – 15:45.
+
+Oddíl je určen dětem ve věku 6–16 let, dívkám i chlapcům. Taneční průprava zaměřená na jevištní - pódiový individuální a skupinový výrazový tanec, různé taneční způsoby - swing,  street dance, hip hop, latino dance a především jejich kombinace a především vvýrazové prvky Nového cirkusu - pozemní a vzdušná akrovacie. Součástí oddílu bude i využití prvků Rope Skippingu - skákání přes švihadla. V tomto oddíle děti procházejí i tréninkem gymnastických základů, důležitých pro zvládnutí taneční akrobacie. U mladších žáků 6–8 let doporučujeme jako přípravné oddělení alespoň 1/2 roku cvičení všestrannosti mladších žáků, může být absolvováno současně.
+
+## Kontakt
+
+[{{site.data.oddil.tanec.email}}](mailto:{{site.data.oddil.tanec.email}})
+
+![Hana Otáhalová, vedoucí oddílu tance]({{ site.baseurl }}/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu tance"){:.image .fit}

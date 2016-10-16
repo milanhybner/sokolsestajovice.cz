@@ -1,0 +1,10 @@
+poznamky/
+_site/
+.sass-cache
+.jekyll-metadata
+.bundle
+.dropbox
+.htaccess
+Gemfile
+Gemfile.lock
+desktop.ini

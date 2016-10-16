@@ -1,0 +1,32 @@
+---
+layout: page
+title: Zalesák – Informace pro členy
+permalink: /zalesak/
+---
+
+[](https://www.facebook.com/sokol.zalesak){:.icon .style2 .fa-facebook} [Facebookový profil Zálesáka](https://www.facebook.com/sokol.zalesak)
+
+# Kalendář
+
+## Chystané akce
+
+|            Akce           |      Datum       |
+|---------------------------|------------------|
+| Čs. opevnění              | 1.- 2.10.2016    |
+| Památný den sokolstva     | 8.10.2016        |
+| Den vzniku Československa | 28.10.2016       |
+
+
+## Proběhlé akce
+
+|            Akce           |      Datum       |
+|---------------------------|------------------|
+| Krajem kamenů             | 9. - 11. 9. 2016 |
+| ZZZ ž.p. Mšené            | 9.4.2016         |
+| Skryjská jezírka          | 21. - 22.5.2016  |
+| Brdy + Bahna 2016         | 24. - 25.6.2016  |
+
+# Kontakty
+
+vedoucí oddílu  
+[zalesak@sokolsestajovice.cz](mailto:zalesak@sokolsestajovice.cz)
