@@ -1,21 +1,28 @@
 ---
 title: Běžecký závod Šestajovická šestka 2016
-excerpt: Třetí ročník běžeckých závodů s hlavním závodem na 6 km, závodem v canicrossu a dětským závodem. <br /> [![Plakát](/files/plakat-nahled.png)](/2016/10/16/sestajovicka-sestka.html)
+excerpt: Aktualizováno o výsledky a fotogalerii <br /> [![Plakát](/files/plakat-nahled.png)](/2016/10/16/sestajovicka-sestka.html)
 ---
 
-_Aktualizováno 10. 10. 2016_
+Běžci, rodiče! Nebuďte v šoku, že je zde tolik fotografií.... alespoň máte šanci, že sebe, či své ratolesti, i v pro některé, třeba ne zcela významné, či fotograficky dokonalé pozici naleznete. Často se nám líbí fotografie, které jiní neocení, jen proto, že jsou na nich naši blízcí rozmazáni. Leč  zachyceni s emocemi, či v rychlosti nebo pohybu. Fotky budou i nadále doplňovány a nejsou řazeny chronologicky! 
+
+[Fotogalerie](http://www.rajce.net/a13364942){:.button .special}
+
+[Výsledky – děti a dorostenci/-ky]({{ site.baseurl }}/files/2016-10-16-sestajovicka-sestka-vysledky-ml.xlsx){:.button .icon .fa-download}
+
+[Výsledky – dospělí a canicross]({{ site.baseurl }}/files/2016-10-16-sestajovicka-sestka-vysledky-st.xls){:.button .icon .fa-download}
+
+
+
+---
 
 3\. ročník šestajovického seriálu závodů outdoorové všestrannosti pro širokou veřejnost, všechny výkonnostní a věkové skupiny – včetně závodu v CANICROSSU.
-
-[Registrace on-line](https://isokol-my.sharepoint.com/personal/nacelnik_sokolsestajovice_cz/_layouts/15/guestaccess.aspx?guestaccesstoken=uEMLNlZxhU%2f0ClbURV9wqfLOXUZKOTivu5Q%2fY3mfdrQ%3d&docid=1_16f3623270eef43d2a986f6cfe1f8785f&wdFormId=%7BE5546896%2DCBE6%2D478C%2DB960%2D38DC51580AE4%7D){:.button .special}
-
 
 **Časový harmonogram**
 
 **Datum**: 16. října 2016
 
 * 8:30 – 9:30 registrace
-* 10:00 – 10:45 ročníků 2002 a mladších
+* 10:00 – 10:45 ročníků 2001 a mladších
 * 10:45 hlavní závod (6000 m a 6000 m canicross)
 * 11:45 vyhlášení výsledků
 
@@ -60,6 +67,3 @@ V každé kategorii bude vyhlášeno 1.–3. místo. Vybíhat se bude po roční
 
 **Doprovodný program:** Zábavné aktivity pro děti během závodu hlavní kategorie.
 
-[Foto z loňského roku](http://www.rajce.net/a12031180/){:.button}
-
-[Plakát ke stažení]({{ site.baseurl }}/files/plakat.pdf){:.button .icon .fa-download}
