@@ -47,7 +47,7 @@ permalink: /
 [MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
 [ZDP]: http://www.sokolsestajovice.cz/{{site.data.oddil.priroda.dlouhe-url}} "Zdravotní cvičení v přírodě"
 
-\* Zdravotní cvičení – sraz je před koupalištěm v Klánovicích&nbsp;18:50.
+\* Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.
 
 <section class="tiles" id="oddily">
   <article class="style1">
