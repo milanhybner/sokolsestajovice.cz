@@ -5,7 +5,7 @@ permalink: /oddily/priroda/
 ---
 
 Pondělí 10:15 – 11:15 hod.  
-Sraz před Koupalištěm v Klánovicích v 10:15 hod.
+Sraz před koupalištěm v Klánovicích v 10:15 hod.
 
 Cvičení vhodná pro seniory a všechny cvičence, kteří chtějí přirozenými formami pohybu posílit své zdraví.
 
