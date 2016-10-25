@@ -4,6 +4,11 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+Florbal ve čtvrtek 27. října a míčové hry v pátek 28. října se z důvodu prázdnin nekonají. Děkujeme za pochopení.
+
+---
+
+
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 2 %}
     {% assign postStartDate = post.date | date: '%s' %}
@@ -25,29 +30,6 @@ permalink: /
 
 [Všechny články]({{ relative }}/archiv/){:.button}
 
-|         | 10:15 – 11:15 |      15:00       | 16:00 |      17:00       | 18:00 | 19:00  |   |
-|---------|---------------|------------------|-------|------------------|-------|--------|---|
-| Pondělí | [ZDP]         | [TAN]<br />[VŠE] |       | [RaD]            |       | [ŽEN]  |   |
-| Úterý   |               |                  | [TR1] | [TR2]            |       |        |   |
-| Středa  |               |                  | [ZÁL] | [ZÁL]<br />[TaR] |       |        |   |
-| Čtvrtek |               |                  | [FL1] | [FL2]            |       | [ZDR]* |   |
-| Pátek   |               | [MÍČ]            |       |                  |       |        |   |
-
-[TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"
-[VŠE]: http://www.sokolsestajovice.cz/{{site.data.oddil.vsestrannost.dlouhe-url}} "Všestrannost"
-[RaD]: http://www.sokolsestajovice.cz/{{site.data.oddil.rd.dlouhe-url}} "Rodiče a děti"
-[ŽEN]: http://www.sokolsestajovice.cz/{{site.data.oddil.zeny.dlouhe-url}} "Ženy"
-[ZÁL]: http://www.sokolsestajovice.cz/{{site.data.oddil.zalesak.dlouhe-url}} "Zálesák"
-[TR1]: http://www.sokolsestajovice.cz/{{site.data.oddil.trampoliny.dlouhe-url}} "Trampolíny – mladší"
-[TR2]: http://www.sokolsestajovice.cz/{{site.data.oddil.trampoliny.dlouhe-url}} "Trampolíny – starší"
-[FL1]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – mladší žáci"
-[FL2]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – starší žáci"
-[ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení"
-[TaR]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanecky.dlouhe-url}} "Tanečky a rytmika"
-[MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
-[ZDP]: http://www.sokolsestajovice.cz/{{site.data.oddil.priroda.dlouhe-url}} "Zdravotní cvičení v přírodě"
-
-\* Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.
 
 <section class="tiles" id="oddily">
   <article class="style1">
@@ -79,7 +61,7 @@ permalink: /
     <a href="{{ relative }}{{site.data.oddil.tanec.dlouhe-url}}/">
       <h2>Tanec</h2>
       <div class="content">
-        <p>Oddíl je určen dětem ve věku 6–16 let, dívkám i chlapcům. Taneční průprava zaměřená na jevištní - pódiový individuální a skupinový výrazový tanec, různé taneční způsoby - swing,  street dance, hip hop, latino dance a především jejich kombinace a především vvýrazové prvky Nového cirkusu - pozemní a vzdušná akrobacie.</p>
+        <p>Oddíl je určen dětem ve věku 6–16 let, dívkám i chlapcům. Taneční průprava zaměřená na jevištní - pódiový individuální a skupinový výrazový tanec, různé taneční způsoby - swing, street dance, hip hop, latino dance a především jejich kombinace a především vvýrazové prvky Nového cirkusu - pozemní a vzdušná akrobacie.</p>
       </div>
     </a>
   </article>
@@ -145,7 +127,7 @@ permalink: /
     <a href="{{ relative }}{{site.data.oddil.rd.dlouhe-url}}">
       <h2>Rodiče a děti</h2>
       <div class="content">
-        <p>Cvičení je určeno dvojicím dospělý a dítě. Cvičení s rodičem (prarodičem) je primární řízenou pohybovou aktivitou zaměřenou na rozvoj pohybové všestrannosti dítěte, budování vztahu k pohybu a upevňování správných pohybových návyků. Cvičební jednotky obsahují řadu prostných cvičení, míčových her, cvičení na nářadí a cvičení s tradičním i netradičním náčiním.</p>
+        <p>Cvičení je určeno dvojicím dospělý a dítě. Cvičení s rodičem (prarodičem) je aktivitou zaměřenou na rozvoj pohybové všestrannosti dítěte, budování vztahu k pohybu a upevňování správných pohybových návyků. Cv. obsahují řadu prostných cvičení, míčových her, cvičení na nářadí a cvičení s tradičním i netradičním náčiním.</p>
       </div>
     </a>
   </article>
@@ -171,14 +153,23 @@ permalink: /
       </div>
     </a>
   </article>
+  <article class="style2">
+    <span class="image">
+      <img src="images/micovky.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.florbal.dlouhe-url}}/">
+      <h2>Míčové hry</h2>
+      <div class="content">
+        <p>práce s míčem<br />pravidla míčových her<br />všestranná průprava pro míčové hry</p>
+      </div>
+    </a>
+  </article>
 </section>
 
 ---
 
-# Líbí se Vám sokolská myšlenka a filosofie?
-
-Přečtěte si o Sokole na stránkách [České obce sokolské](http://www.sokol.eu/menu/18), na stránkách [župy Barákovy](http://www.zupabarakova.sokol.cz/) nebo na informačním serveru [Sokol.cz](http://www.sokol.cz/sokol).
-
-**Chcete nás podpořit?**
-
-Hledáme cvičitele a dobrovolníky ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. V případě zájmu nás prosím kontaktujte prostřednictvím formuláře níže.
+[Členství]({{ site.baseurl }}/clenstvi/){:.button} 
+[Oddíly a rozvrh]({{ site.baseurl }}/oddily/){:.button} 
+[Fotogalerie](http://sokolsestajovice.rajce.idnes.cz){:.button} 
+[O Sokole]({{ site.baseurl }}/o-sokole/){:.button} 
+[Kontakt]({{ site.baseurl }}/kontakt/){:.button}
