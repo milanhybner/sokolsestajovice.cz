@@ -4,10 +4,6 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-Florbal ve čtvrtek 27. října a míčové hry v pátek 28. října se z důvodu prázdnin nekonají. Děkujeme za pochopení.
-
----
-
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 2 %}
