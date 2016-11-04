@@ -7,7 +7,7 @@ permalink: /oddily/florbal/
 
 [//]: "" (  [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.florbal.kratke-url}}){:.button}  )
 
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi.html){:.button .special}
 
 Probíhá každý čtvrtek ve sportovní hale, U Váhy 1000, Šestajovice:
 
@@ -18,14 +18,14 @@ Poznámka: V prostoru vedle základní školy je ve výstavbě nová nafukovací
 
 ## Kontakt
 
-[{{site.data.oddil.florbal.email}}](mailto:{{site.data.oddil.florbal.email}})
+Pro přidání do [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=cs) skupiny pište na mobil 776 412 328.
 
 ## Výbava
 
 * černé a bílé tričko
-* sálová obuv (upozornění trenéra: tkaničky nezavazuji)
+* sálová obuv (upozornění trenérů: tkaničky nezavazujeme)
 * sportovní oděv
-* florbalová hůl a florbalový míč
+* florbalová hůl
 
 ## Jak vybrat správné zahnutí florbalové hole?
 
