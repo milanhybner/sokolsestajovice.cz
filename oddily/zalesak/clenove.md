@@ -10,21 +10,22 @@ permalink: /zalesak/
 
 ## Chystané akce
 
-|            Akce           |      Datum       |
-|---------------------------|------------------|
-| Čs. opevnění              | 1.- 2.10.2016    |
-| Památný den sokolstva     | 8.10.2016        |
-| Den vzniku Československa | 28.10.2016       |
-
+|           Akce           |   Datum    |
+|--------------------------|------------|
+| Jednodenní výlet Xaverov | 17.11.2016 |
 
 ## Proběhlé akce
 
-|            Akce           |      Datum       |
-|---------------------------|------------------|
-| Krajem kamenů             | 9. - 11. 9. 2016 |
-| ZZZ ž.p. Mšené            | 9.4.2016         |
-| Skryjská jezírka          | 21. - 22.5.2016  |
-| Brdy + Bahna 2016         | 24. - 25.6.2016  |
+|                         Akce                        |      Datum       |
+|-----------------------------------------------------|------------------|
+| Komentovaná vycházka po stopách Anthropoidu - Plzeň | 5.11.2016        |
+| Den vzniku Československa                           | 28.10.2016       |
+| Památný den sokolstva                               | 8.10.2016        |
+| Čs. opevnění                                        | 1.- 2.10.2016    |
+| Krajem kamenů                                       | 9. - 11. 9. 2016 |
+| ZZZ ž.p. Mšené                                      | 9.4.2016         |
+| Skryjská jezírka                                    | 21. - 22.5.2016  |
+| Brdy + Bahna 2016                                   | 24. - 25.6.2016  |
 
 # Kontakty
 

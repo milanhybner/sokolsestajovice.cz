@@ -24,7 +24,7 @@ Naším cílem je dát dohromady kolektiv dětí, kde vzniknou přátelské vzta
 
 **Rozsah schůzek**
 
-Scházet se budeme jedenkrát týdně ve středu od 16:00 do 18:00 hod. Schůzky budou probíhat venku v přírodě (Klánovický les a okolí), nebo při velmi nepříznivých klimatických podmínkách v tělocvičně. 
+Scházíme se jedenkrát týdně ve středu od 16:30 do 18:30 hodin. Schůzky probíhají převážně venku v přírodě (okolí Šestajovic a Klánovický les), při velmi nepříznivých klimatických podmínkách se konají schůzky „pod střechou“. Aktuální informace o místě srazu jsou podávány členům oddílu, nebo se nachází [na faceboookovém profilu](https://www.facebook.com/sokol.zalesak).
 
 **Výpravy**
 
