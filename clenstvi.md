@@ -36,29 +36,29 @@ Při hrazení členského a oddílového příspěvku uhraďte prosím každý p
 | Dospělý           | 500 Kč |               120 |
 
 
-|              Oddíl               | Částka za pololetí | Variabilní symbol |
-|----------------------------------|--------------------|-------------------|
-| Florbal – mladší žáci            | 1000,– Kč          |               920 |
-| Florbal – starší žáci            | 1000,– Kč          |               930 |
-| Kondiční cvičení žen             | 1000,– Kč          |               840 |
-| Kondiční cvičení mužů            | 1000,– Kč          |               620 |
-| Míčové hry                       | 1000,– Kč          |               940 |
-| Parkour [(_poznámka 2_)](#2)     | 1000,– Kč          |               610 |
-| Rodiče a děti [(_poznámka 1_)](#1) | 1000,– Kč          |               810 |
-| Rytmika a tanečky                | 1000,– Kč          |               860 |
-| Tanec                            | 1000,– Kč          |               820 |
-| Trampolíny – 6–8 let             | 1300,– Kč          |               640 |
-| Trampolíny – 9–11 let            | 1300,– Kč          |               650 |
-| Všestrannost                     | 1000,– Kč          |               830 |
-| Zálesák                          | 1000,– Kč          |               910 |
-| Zdravotní cvičení – do 59 let    | 1000,– Kč          |               850 |
-| Zdravotní cvičení – nad 60 let   | 500,– Kč           |               850 |
-| Zdravotní cvičení v přírodě      |                    |               870 |
+|                       Oddíl                       | Částka za pololetí | Variabilní symbol |
+|---------------------------------------------------|--------------------|-------------------|
+| Florbal – mladší žáci                             | 1000,– Kč          |               920 |
+| Florbal – starší žáci                             | 1000,– Kč          |               930 |
+| Kondiční cvičení žen                              | 1000,– Kč          |               840 |
+| Kondiční cvičení mužů                             | 1000,– Kč          |               620 |
+| Míčové hry                                        | 1000,– Kč          |               940 |
+| Parkour                                           | 1000,– Kč          |               610 |
+| Rodiče a děti [(_poznámka 1_)](#1)                | 1000,– Kč          |               810 |
+| Rytmika a tanečky                                 | 1000,– Kč          |               860 |
+| Tanec                                             | 1000,– Kč          |               820 |
+| Trampolíny – 6–8 let                              | 1300,– Kč          |               640 |
+| Trampolíny – 9–11 let                             | 1300,– Kč          |               650 |
+| Všestrannost                                      | 1000,– Kč          |               830 |
+| Zálesák                                           | 1000,– Kč          |               910 |
+| Zdravotní cvičení – do 59 let                     | 1000,– Kč          |               850 |
+| Zdravotní cvičení – nad 60 let                    | 500,– Kč           |               850 |
+| Zdravotní cvičení v přírodě  [(_poznámka 2_)](#2) | 500,– Kč           |               870 |
 
 
 <a id="1">_Poznámka 1:_</a> **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2600,– Kč/rok.*
 
-<a id="1">_Poznámka 2:_</a> **Oddíl parkouru** má oddílový příspěvek do konce roku 2016 ve výši 400,– Kč.
+<a id="1">_Poznámka 2:_</a> **Oddíl zdravotního cvičení v přírodě** má oddílový příspěvek do konce roku 2016 ve výši 400,– Kč.
 
 **Méně běžné situace**
 
