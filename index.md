@@ -153,7 +153,7 @@ permalink: /
     <span class="image">
       <img src="images/micovky.jpg" alt="" />
     </span>
-    <a href="{{ relative }}{{site.data.oddil.florbal.dlouhe-url}}/">
+    <a href="{{ relative }}{{site.data.oddil.micovky.dlouhe-url}}/">
       <h2>Míčové hry</h2>
       <div class="content">
         <p>práce s míčem<br />pravidla míčových her<br />všestranná průprava pro míčové hry</p>
