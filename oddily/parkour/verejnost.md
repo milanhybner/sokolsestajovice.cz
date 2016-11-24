@@ -8,11 +8,11 @@ permalink: /oddily/parkour/
 
 **Mladší** (do 17 let včetně)
 
-Každé pondělí 16:30 sraz před ZŠ Šestajovice, konec 17:30 tamtéž.
+V zimě budou tréninky probíhat nepravidelně o víkendech v závislosti na počasí. V případě zájmu [zanechte kontakt](#f).
 
 **Starší** (18 let a víc)
 
-Každé pondělí 18:30 sraz u fontánky u metra Černý Most, konec cca 20:00 tamtéž.
+Přípravka probíhá současně s kondičním cvičením žen v pondělí od 19:00 v Šestajovické hale.
 
 ---
 

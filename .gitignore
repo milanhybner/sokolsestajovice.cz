@@ -5,6 +5,4 @@ _site/
 .bundle
 .dropbox
 .htaccess
-Gemfile
-Gemfile.lock
 desktop.ini
