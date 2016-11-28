@@ -14,17 +14,7 @@ defaults:
      values:
        layout: post
 
-prose:
-  ignore: ['index.md','kalendar.md','o-sokole.md','clenstvi.md','struktura.md','kontakt.md','archiv.md','oddily','images','files', '_config.yml', '_data', '_includes', '_layouts','_sass','assets','galerie','.gitignore','CNAME','favicon.ico','feed.xml']
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Název"
-      - name: "excerpt"
-        field:
-          element: "textarea"
-          label: "Krátký popis"
-
 future: true
+
+gems:
+  - jekyll-feed
