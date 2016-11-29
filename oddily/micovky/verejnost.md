@@ -4,7 +4,7 @@ title: Oddíl míčových her
 permalink: /oddily/micovky/
 ---
 
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pátek 14:00 – 15:00
 Sportovní hala Šestajovice

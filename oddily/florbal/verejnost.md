@@ -5,9 +5,30 @@ oddil: florbal
 permalink: /oddily/florbal/
 ---
 
-[//]: "" (  [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.florbal.kratke-url}}){:.button}  )
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
-[Chci se přidat]({{ site.baseurl }}/clenstvi.html){:.button .special}
+## Aktuální dění v oddíle florbalu
+
+_2016-11-29_
+
+> Vážení rodiče,
+> 
+> rád bych vás informoval o aktuálním dění v oddíle florbalu.
+> 
+> Tento týden byla uvedena do provozu nafukovací hala vedle základní školy Šestajovice. Naším původním záměrem bylo po jejím dostavení se vrátit k rozvrhu tréninků z loňského roku, tedy úterý a čtvrtek od čtyř do šesti hodin (mladší dříve, starší později – tak jak je to nyní). Úterní termín tréninku se ale nyní nejeví jako nejvhodnější. Důvodem je časová vytíženost trenérů a také obsazenost nafukovací haly tenisovou školou v tuto dobu.
+> 
+> Rád bych od vás tedy získal nějaké návrhy na jiné dny/časy, ve které by se vaším dětem hodilo trénovat. Prosím tedy o informaci které dny a v kterém časovém rozmezí by vaše děti mohly (a zda by chtěly) navštěvovat tréninky.
+> 
+> Ještě mám pro vás jednu informaci. Z podnětu trenérů jsme se rozhodli zavést modernější komunikační prostředek pro komunikaci rodičů a případně dětí a trenérů. Je jím aplikace WhatsApp. Tato aplikace vyžaduje mobilní telefon s operačním systémem Android nebo iOS a připojení k internetu. Pokud nemáte možnost tuto aplikaci využívat, budeme s vámi komunikovat obvyklým způsobem, tedy e-mailem. Děkuji za pochopení.
+> 
+> S pozdravem
+> 
+> Milan Hybner
+> náčelník
+> T. J. Sokol Šestajovice
+
+---
+
 
 Probíhá každý čtvrtek ve sportovní hale, U Váhy 1000, Šestajovice:
 

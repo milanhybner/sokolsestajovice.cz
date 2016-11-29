@@ -12,7 +12,7 @@ V zimě budou tréninky probíhat nepravidelně o víkendech v závislosti na po
 
 **Starší** (18 let a víc)
 
-Přípravka probíhá současně s kondičním cvičením žen v pondělí od 19:00 v Šestajovické hale.
+Probíhá současně s kondičním cvičením žen v pondělí od 19:00 v Šestajovické hale.
 
 ---
 
