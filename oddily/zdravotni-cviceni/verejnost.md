@@ -4,9 +4,7 @@ title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni/
 ---
 
-[//]: "" (   Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zdravotni.kratke-url}}){:.button}   )
-
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 **Zdravotní cvičení – TV sál v Základní škole.**
 
