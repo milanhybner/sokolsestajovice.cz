@@ -15,5 +15,5 @@ Cvičení je zaměřeno na posílení, regeneraci a postupné rozhýbání celé
 
 Simona Čermáková  
 vedoucí oddílu  
-602 110 931
+602 110 931  
 [{{site.data.oddil.priroda.email}}](mailto:{{site.data.oddil.priroda.email}})

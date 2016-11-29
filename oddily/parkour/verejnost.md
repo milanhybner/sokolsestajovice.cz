@@ -20,4 +20,8 @@ Více o parkouru na [sokol.eu](http://sokol.eu/obsah/3371/).
 
 ## Kontakt
 
+Milan Hybner  
+vedoucí oddílu  
+776 412 328
+
 [{{site.data.oddil.parkour.email}}](mailto:{{site.data.oddil.parkour.email}})

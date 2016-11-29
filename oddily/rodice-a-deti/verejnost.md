@@ -14,6 +14,8 @@ Cvičení je určeno dvojicím dospělý a dítě. Cvičení s rodičem (praro
 
 ## Kontakt
 
+Eva Vaňková  
+vedoucí oddílu  
 [{{site.data.oddil.rd.email}}](mailto:{{site.data.oddil.rd.email}})
 
 ![Eva Vaňková, vedoucí oddílu rodičů a dětí]({{ site.baseurl }}/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}

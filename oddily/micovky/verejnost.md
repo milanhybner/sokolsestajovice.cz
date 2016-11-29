@@ -17,4 +17,6 @@ Obsahem cvičebních jednotek je
 
 ## Kontakt
 
+Eva Vaňková  
+vedoucí oddílu  
 [{{site.data.oddil.micovky.email}}](mailto:{{site.data.oddil.micovky.email}})

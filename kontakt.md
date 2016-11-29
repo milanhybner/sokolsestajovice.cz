@@ -10,8 +10,6 @@ permalink: /kontakt/
 250 92 Šestajovice  
 IČ: 02952173  
 
-Většina oddílů cvičí v [tělocvičně](http://www.sestajovice.cz/sluzby/telocvicna/) na adrese U Váhy 1000, 250 92 Šestajovice.
-
 ### Starosta
 
 Ing. Jakub Otáhal  

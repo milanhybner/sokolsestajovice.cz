@@ -18,4 +18,7 @@ Cvičení je určeno pro všechny věkové kategorie, doporučujeme především
 
 ## Kontakt
 
+Simona Čermáková  
+vedoucí oddílu  
+602 110 931  
 [{{site.data.oddil.zdravotni.email}}](mailto:{{site.data.oddil.zdravotni.email}})
