@@ -24,8 +24,6 @@ Historie T.J. Sokol Šestajovice z let 1918 až 1925 ke stažení zde:
 [tel: 602 114 389](tel:602114389)  
 e-mail: [starosta@sokolsestajovice.cz](mailto:starosta@sokolsestajovice.cz)
 
-![Jakub Otáhal](/images/otahal.jpg){:.image .fit}
-
 **Jednatel** – br. Ing. Lukáš Kolbaba  
 e-mail: [jednatel@sokolsestajovice.cz](mailto:jednatel@sokolsestajovice.cz)
 
