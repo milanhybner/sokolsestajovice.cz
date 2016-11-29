@@ -27,8 +27,6 @@ Mgr. Milan Hybner
 [nacelnik@sokolsestajovice.cz](mailto:nacelnik@sokolsestajovice.cz)  
 776 412 328
 
-({{ relative }}{{site.data.oddil..dlouhe-url}})
-
 Náčelník zodpovídá za oddíl 
 [parkouru]({{ relative }}{{site.data.oddil.parkour.dlouhe-url}}), 
 [trampolín]({{ relative }}{{site.data.oddil.trampoliny.dlouhe-url}}), 
