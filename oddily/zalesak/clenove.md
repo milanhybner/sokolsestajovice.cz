@@ -10,14 +10,15 @@ permalink: /zalesak/
 
 ## Chystané akce
 
-|           Akce           |   Datum    |
-|--------------------------|------------|
-| Jednodenní výlet Xaverov | 17.11.2016 |
+|                                                     Akce                                                     |   Datum    |
+|--------------------------------------------------------------------------------------------------------------|------------|
+| [Vzpomínková akce Anthropoid](https://drive.google.com/file/d/0B11sptJjoYIFTmZWdUVyZklBNW8/view?usp=sharing) | 2016-12-17 |
 
 ## Proběhlé akce
 
 |                         Akce                        |      Datum       |
 |-----------------------------------------------------|------------------|
+| Jednodenní výlet Xaverov                            | 17.11.2016       |
 | Komentovaná vycházka po stopách Anthropoidu - Plzeň | 5.11.2016        |
 | Den vzniku Československa                           | 28.10.2016       |
 | Památný den sokolstva                               | 8.10.2016        |
