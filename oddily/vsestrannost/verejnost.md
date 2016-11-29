@@ -14,6 +14,9 @@ Pondělí 15:00 – 15:45 hala Šestajovice.
 
 ## Kontakt
 
+Radana Kolbabová  
+vedoucí oddílu  
+732 944 763  
 [{{site.data.oddil.vsestrannost.email}}](mailto:{{site.data.oddil.vsestrannost.email}})
 
 ---

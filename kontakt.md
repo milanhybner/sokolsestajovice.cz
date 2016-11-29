@@ -21,18 +21,35 @@ Ing. Jakub Otáhal
 Ing. Lukáš Kolbaba  
 [jednatel@sokolsestajovice.cz](mailto:jednatel@sokolsestajovice.cz)  
 
-
 ### Náčelník
 
 Mgr. Milan Hybner  
 [nacelnik@sokolsestajovice.cz](mailto:nacelnik@sokolsestajovice.cz)  
 776 412 328
 
+({{ relative }}{{site.data.oddil..dlouhe-url}})
+
+Náčelník zodpovídá za oddíl 
+[parkouru]({{ relative }}{{site.data.oddil.parkour.dlouhe-url}}), 
+[trampolín]({{ relative }}{{site.data.oddil.trampoliny.dlouhe-url}}), 
+[míčových her]({{ relative }}{{site.data.oddil.micovky.dlouhe-url}}), 
+[florbalu]({{ relative }}{{site.data.oddil.florbal.dlouhe-url}}) a 
+[zálesáka]({{ relative }}{{site.data.oddil.zalesak.dlouhe-url}}).
+
 ### Náčelnice
 
 Mgr. Hana Otáhalová  
 [nacelnice@sokolsestajovice.cz](mailto:nacelnice@sokolsestajovice.cz)    
 605 204 967
+
+Náčelnice zodpovídá za oddíl 
+[tanečků a rytmiky]({{ relative }}{{site.data.oddil.tanecky.dlouhe-url}}), 
+[tance]({{ relative }}{{site.data.oddil.tanec.dlouhe-url}}), 
+[zdravotního cvičení]({{ relative }}{{site.data.oddil.zdravotni.dlouhe-url}}) a 
+[zdr. cv. v přírodě]({{ relative }}{{site.data.oddil.priroda.dlouhe-url}}), 
+[rodičů a dětí]({{ relative }}{{site.data.oddil.rd.dlouhe-url}}), 
+[kondičního cvičení žen]({{ relative }}{{site.data.oddil.zeny.dlouhe-url}}) a 
+[všestrannosti]({{ relative }}{{site.data.oddil.vsestrannost.dlouhe-url}}).
 
 ### Hospodářka
 
