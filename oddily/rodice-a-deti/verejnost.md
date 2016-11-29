@@ -4,9 +4,7 @@ title: Oddíl rodičů a dětí
 permalink: /oddily/rodice-a-deti/
 ---
 
-[//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.rd.kratke-url}}){:.button}   )
-
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Cvičení rodičů s dětmi pro děti ve věku 2–5 let.
 

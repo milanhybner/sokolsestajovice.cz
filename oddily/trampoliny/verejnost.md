@@ -17,7 +17,7 @@ Poznámka: V prostoru vedle základní školy je ve výstavbě nová nafukovací
 
 [//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.trampoliny.kratke-url}}){:.button}   )
 
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Oddíl pro děti ve věku 6–11 let, jehož náplní je všeobecná pohybová příprava prostřednictvím převážně gymnastických cvičení a skoky na trampolíně.
 
@@ -37,6 +37,10 @@ Hlavním trenérem je Mgr. Milan Hybner, absolvent učitelského programu FTVS U
 [FIG – Program rozvoje a soutěžení](http://www.fig-docs.com/website/agegroup/manuals/Agegroup-mag-manual-e.pdf){:.button .icon .fa-download}
 
 ## Kontakt
+
+Milan Hybner  
+vedoucí oddílu  
+776 412 328  
 
 [{{site.data.oddil.trampoliny.email}}](mailto:{{site.data.oddil.trampoliny.email}})
 

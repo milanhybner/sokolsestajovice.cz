@@ -4,9 +4,7 @@ title: Taneční oddíl
 permalink: /oddily/tanec/
 ---
 
-[//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.tanec.kratke-url}}){:.button}   )
-
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pondělí 15:00 – 15:45.
 

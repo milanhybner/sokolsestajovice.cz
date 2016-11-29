@@ -4,9 +4,7 @@ title: Trampolíny
 permalink: /trampoliny/
 ---
 
-## Kalendář
-
-Náhradní hodina (za 11.10.) bude 22. 10. od 9:00 do 10:00 pro mladší cvičence a od 10:00 do 11:00 pro starší cvičence.
+[Závod _Vánoční Štrůdl_ 10. prosince v Tyršově domě.](http://www.trampolinypraha.cz/vanocni-strudl-2016.html)
 
 ## Kontakty
 
@@ -71,8 +69,6 @@ Vilímková Týna
 Voerman Zuzana
 Šubertová Anna
 Šubertová Kateřina
-
-[Podívejte se na svou docházku]({{ site.baseurl }}/trampoliny/dochazka/){:.button}
 
 -->
 
