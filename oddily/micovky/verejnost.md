@@ -20,3 +20,6 @@ Obsahem cvičebních jednotek je
 Eva Vaňková  
 vedoucí oddílu  
 [{{site.data.oddil.micovky.email}}](mailto:{{site.data.oddil.micovky.email}})
+
+![Eva Vaňková, vedoucí oddílu rodičů a dětí]({{ site.baseurl }}/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}
+
