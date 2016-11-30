@@ -14,7 +14,7 @@ permalink: /clenstvi/
 
 # Příspěvky
 
-Každý člen Sokola hradí **členský příspěvek** člena České obce sokolské. Ten činí pro členy ve věku 18-64 let 500 Kč a pro členy mladší než 18 let nebo 65 let a starší 100 Kč. Členský příspěvek se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Stávající členové hradí členský příspěvek v lednu; na základě jeho zaplacení obdrží na daný rok známku, kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
+Každý člen Sokola hradí **členský příspěvek** člena České obce sokolské. Ten činí pro rok 2017 pro členy ve věku 18-64 let 550 Kč a pro členy mladší než 18 let nebo starší 65 let 250 Kč. Členský příspěvek se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Stávající členové hradí členský příspěvek v lednu; na základě jeho zaplacení obdrží na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
 
 Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit ještě **oddílový příspěvek**. Abyste se mohli stát členem oddílu, musíte být členem ČOS (výjimka – viz níže). Oddílový příspěvek se platí za pololetí, tedy od září (či října) do ledna a od února do června. 
 
@@ -31,9 +31,9 @@ Při hrazení členského a oddílového příspěvku uhraďte prosím každý p
 
 |        Člen       | Částka | Variabilní symbol |
 |-------------------|--------|-------------------|
-| Dítě do 18 let    | 100 Kč |               110 |
-| Senior nad 65 let | 100 Kč |               130 |
-| Dospělý           | 500 Kč |               120 |
+| Dítě do 18 let    | 250 Kč |               110 |
+| Senior nad 65 let | 250 Kč |               130 |
+| Dospělý           | 550 Kč |               120 |
 
 
 |                       Oddíl                       | Částka za pololetí | Variabilní symbol |
@@ -56,7 +56,7 @@ Při hrazení členského a oddílového příspěvku uhraďte prosím každý p
 | Zdravotní cvičení v přírodě  [(_poznámka 2_)](#2) | 500,– Kč           |               870 |
 
 
-<a id="1">_Poznámka 1:_</a> **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2600,– Kč/rok.*
+<a id="1">_Poznámka 1:_</a> **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2800,– Kč/rok.*
 
 <a id="1">_Poznámka 2:_</a> **Oddíl zdravotního cvičení v přírodě** má oddílový příspěvek do konce roku 2016 ve výši 400,– Kč.
 
