@@ -14,6 +14,6 @@ Náplní jsou taneční a pohybové hry, hra na rytmické nástroje, seznámení
 
 ## Kontakt
 
-[{{site.data.oddil.tanecky.email}}](mailto:{{site.data.oddil.tanecky.email}})
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 ![Eva Vaňková, vedoucí oddílu rodičů a dětí]({{ site.baseurl }}/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}

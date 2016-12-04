@@ -12,11 +12,11 @@ Sportovně koncipovaný trénink pro ženy. Obsahuje všechny možné cvičební
 
 Určeno všem ženám i mladší věkové kategorie!
 
-## Kontakt
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 Hana Otáhalová  
 vedoucí oddílu  
 605 204 967  
-[{{site.data.oddil.zeny.email}}](mailto:{{site.data.oddil.tanec.email}})
+
 
 ![Hana Otáhalová, vedoucí oddílu kondičního cvičení žen]({{ site.baseurl }}/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu kondičního cvičení žen"){:.image .fit}

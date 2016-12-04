@@ -12,6 +12,6 @@ Oddíl je určen dětem ve věku 6–16 let, dívkám i chlapcům. Taneční pr�
 
 ## Kontakt
 
-[{{site.data.oddil.tanec.email}}](mailto:{{site.data.oddil.tanec.email}})
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 ![Hana Otáhalová, vedoucí oddílu tance]({{ site.baseurl }}/images/otahalova.jpg "Hana Otáhalová, vedoucí oddílu tance"){:.image .fit}

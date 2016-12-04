@@ -11,9 +11,9 @@ Cvičení vhodná pro seniory a všechny cvičence, kteří chtějí přirozený
 
 Cvičení je zaměřeno na posílení, regeneraci a postupné rozhýbání celého těla. Budeme využívat možnosti volného pohybu v přírodě, postupně budeme zařazovat nordic walking – chůzi se speciálními holemi, využívat systémů řízené chůze, propojovat se cvičením s lehkým nářadím, budeme se zaměřovat na dynamiky dýchání. Cvičení je za každého počasí. V případě deštivého počasí, kdy se opravdu nebude dát „vystrčit nos“, budou všichni cvičenci informováni formou sms o změně. Zrušená cvičení budou nahrazena prodloužením dalších lekcí, případně nahrazena jiným termínem. 
 
-## Kontakt
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 Simona Čermáková  
 vedoucí oddílu  
 602 110 931  
-[{{site.data.oddil.priroda.email}}](mailto:{{site.data.oddil.priroda.email}})
+

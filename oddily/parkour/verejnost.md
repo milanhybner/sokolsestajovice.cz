@@ -18,10 +18,9 @@ Probíhá současně s kondičním cvičením žen v pondělí od 19:00 v Šesta
 
 Více o parkouru na [sokol.eu](http://sokol.eu/obsah/3371/).
 
-## Kontakt
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 Milan Hybner  
 vedoucí oddílu  
 776 412 328
 
-[{{site.data.oddil.parkour.email}}](mailto:{{site.data.oddil.parkour.email}})

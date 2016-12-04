@@ -12,7 +12,7 @@ permalink: /oddily/zalesak/
 
 [](https://www.facebook.com/sokol.zalesak){:.icon .style2 .fa-facebook} [Facebookový profil Zálesáka](https://www.facebook.com/sokol.zalesak)
 
-[{{site.data.oddil.zalesak.email}}](mailto:{{site.data.oddil.zalesak.email}})
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 **Zaměření oddílu**
 

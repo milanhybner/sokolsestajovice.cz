@@ -39,7 +39,9 @@ Poznámka: V prostoru vedle základní školy je ve výstavbě nová nafukovací
 
 ## Kontakt
 
-Pro přidání do [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=cs) skupiny pište na mobil 776 412 328.
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
+
+Členové oddílu nebo jejich rodiče: pro přidání do [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=cs) skupiny pište na mobil 776 412 328.
 
 ## Výbava
 

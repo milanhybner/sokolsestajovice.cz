@@ -16,9 +16,8 @@ Cvičení je zaměřeno na posílení těla přirozenými metodami – zařazuje
 
 Cvičení je určeno pro všechny věkové kategorie, doporučujeme především seniorkám a seniorům, lze jej využít i při zdravotních zatíženích (po schválení lékařem).
 
-## Kontakt
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 Simona Čermáková  
 vedoucí oddílu  
 602 110 931  
-[{{site.data.oddil.zdravotni.email}}](mailto:{{site.data.oddil.zdravotni.email}})

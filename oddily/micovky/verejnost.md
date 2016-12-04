@@ -15,12 +15,11 @@ Obsahem cvičebních jednotek je
 * pravidla míčových her
 * všestranná průprava pro míčové hry
 
-## Kontakt
+[Poslat zprávu](#f){:.button .icon .fa-envelope}
 
 Eva Vaňková  
 vedoucí oddílu  
-605 433 430  
-[{{site.data.oddil.micovky.email}}](mailto:{{site.data.oddil.micovky.email}})
+605 433 430
 
 ![Eva Vaňková, vedoucí oddílu rodičů a dětí]({{ site.baseurl }}/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}
 
