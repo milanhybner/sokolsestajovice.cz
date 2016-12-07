@@ -14,6 +14,8 @@ permalink: /
     {% endif %}
 {% endfor %}
 
+---
+
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts limit: 3 %}
     {% assign postStartDate = post.date | date: '%s' %}
