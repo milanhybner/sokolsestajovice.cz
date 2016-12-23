@@ -4,6 +4,14 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+Milé sestry a milí bratři,
+
+přejeme všem příjemné prožití svátků vánočních, hodně zdraví a sil do další práce a cvičeních v nadcházejícím předsletovém roce 2017. 
+
+Děkujeme za vaši činnost a spolupráci po celý rok 2016.
+
+_Cvičitelé T.J. Sokol Šestajovice_
+
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 2 %}

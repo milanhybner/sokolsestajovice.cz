@@ -4,7 +4,7 @@ title: O Sokole
 permalink: /o-sokole/
 ---
 
-T.J. Sokol Šestajovice je spolek, který byl po 97. letech obnoven valnou hromadou za účelem podpory a záštity sportovního a kulturního dění v obci Šestajovice. Znovuzaložení proběhlo valnou hromadou dne 19. 12. 2013. Jednota organizačně spadá pod [Župu Barákovu](http://www.zupabarakova.sokol.cz/) a pod hlavní spolek – [Českou obec sokolskou](http://www.sokol.eu/). Jednota se řídí [stanovami ČOS](http://www.sokol.eu/obsah/115/stanovy-cos).
+T.J. Sokol Šestajovice je spolek, který byl po 97. letech obnoven valnou hromadou za účelem podpory a záštity sportovního a kulturního dění v obci Šestajovice. Znovuzaložení proběhlo valnou hromadou dne 19. 12. 2013. Jednota organizačně spadá pod [Župu Barákovu](http://www.zbarakova.cz/) a pod hlavní spolek – [Českou obec sokolskou](http://www.sokol.eu/). Jednota se řídí [stanovami ČOS](http://www.sokol.eu/obsah/115/stanovy-cos).
 
 Historie T.J. Sokol Šestajovice z let 1918 až 1925 ke stažení zde:
 
