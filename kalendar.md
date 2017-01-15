@@ -10,7 +10,9 @@ permalink: /kalendar/
 
 ## únor 2017
 
-* 2\. února – Schůze výboru
+* 2\. února – Schůze výboru  
+[Pozvánka](https://drive.google.com/open?id=0B0w6gDorCVUkSDc4Z3RlbVdicUdrTXhxV2ZSQTZVcUNrSkRJ){:.button .icon .fa-download}
+
 * \[zálesák\] 4\. února – Návštěva stanice HZS hl. m. Prahy (Praha)
 * 23\. února – Schůze výboru
 
