@@ -13,18 +13,18 @@ IČ: 02952173
 ### Starosta
 
 Ing. Jakub Otáhal  
-<!--[starosta@sokolsestajovice.cz](mailto:starosta@sokolsestajovice.cz)  -->
+[starosta@sokolsestajovice.cz](mailto:starosta@sokolsestajovice.cz)  
 602 114 389
 
 ### Jednatel
 
 Ing. Lukáš Kolbaba  
-<!--[jednatel@sokolsestajovice.cz](mailto:jednatel@sokolsestajovice.cz)  -->
+[jednatel@sokolsestajovice.cz](mailto:jednatel@sokolsestajovice.cz)  
 
 ### Náčelník
 
 Mgr. Milan Hybner  
-<!--[nacelnik@sokolsestajovice.cz](mailto:nacelnik@sokolsestajovice.cz)  -->
+[nacelnik@sokolsestajovice.cz](mailto:nacelnik@sokolsestajovice.cz)  
 776 412 328
 
 Náčelník zodpovídá za oddíl 
@@ -37,7 +37,7 @@ Náčelník zodpovídá za oddíl
 ### Náčelnice
 
 Mgr. Hana Otáhalová  
-<!--[nacelnice@sokolsestajovice.cz](mailto:nacelnice@sokolsestajovice.cz)   --> 
+[nacelnice@sokolsestajovice.cz](mailto:nacelnice@sokolsestajovice.cz)   
 605 204 967
 
 Náčelnice zodpovídá za oddíl 
@@ -52,20 +52,20 @@ Náčelnice zodpovídá za oddíl
 ### Hospodářka
 
 Radana Kolbabová  
-<!--[hospodar@sokolsestajovice.cz](mailto:hospodar@sokolsestajovice.cz)  -->
+[hospodar@sokolsestajovice.cz](mailto:hospodar@sokolsestajovice.cz)  
 732 944 763
 
 ### Vzdělavatel
 
 Eva Vaňková  
-<!--[vzdelavatel@sokolsestajovice.cz](mailto:vzdelavatel@sokolsestajovice.cz)  -->
+[vzdelavatel@sokolsestajovice.cz](mailto:vzdelavatel@sokolsestajovice.cz)  
 605 433 430
 
 ### Kontrolní komise
 
 Rudolf Filip  
 přeseda  
-<!--[kk@sokolsestajovice.cz](mailto:kk@sokolsestajovice.cz)  -->
+[kk@sokolsestajovice.cz](mailto:kk@sokolsestajovice.cz)  
 
 Kontakty na vedoucí jednotlivých oddílů naleznete [na stránkách oddílů](/index.html#oddily).
 
