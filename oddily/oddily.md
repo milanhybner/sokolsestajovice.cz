@@ -8,13 +8,14 @@ permalink: /oddily/
 
 Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte na příslušný oddíl.
 
-|    | 10:15 |      15:00       | 16:00 | 16:30 |      17:00       | 18:30 | 19:00  |
-|----|-------|------------------|-------|-------|------------------|-------|--------|
-| Po | [ZDP] | [TAN]<br />[VŠE] |       | [PK1] | [RaD]            | [PK2] | [ŽEN]  |
-| Út |       |                  | [TR1] |       | [TR2]            |       |        |
-| St |       |                  | [ZÁL] |       | [ZÁL]<br />[TaR] |       |        |
-| Čt |       |                  | [FL1] |       | [FL2]            |       | [ZDR]* |
-| Pá |       | [MÍČ]            |       |       |                  |       |        |
+|    | 10:15 | 14:00 |      15:00       | 16:00 |      17:00       |      19:00       |
+|----|-------|-------|------------------|-------|------------------|------------------|
+| Po | [ZDP] |       | [TAN]<br />[VŠE] |       | [RaD]            | [ŽEN]<br />[MUŽ] |
+| Út |       |       |                  | [TR1] | [TR2]            |                  |
+| St |       |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                  |
+| Čt |       |       |                  | [FL1] | [FL2]            | [ZDR]*           |
+| Pá |       |       | [MÍČ]            |       |                  |                  |
+| So |       | [FL1] | [FL2]            |       |                  |                  |
 
 [TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"
 [VŠE]: http://www.sokolsestajovice.cz/{{site.data.oddil.vsestrannost.dlouhe-url}} "Všestrannost"
@@ -31,6 +32,7 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 [ZDP]: http://www.sokolsestajovice.cz/{{site.data.oddil.priroda.dlouhe-url}} "Zdravotní cvičení v přírodě"
 [PK1]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – mladší"
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
+[MUŽ]: http://www.sokolsestajovice.cz/{{site.data.oddil.muzi.dlouhe-url}} "Oddíl mužů"
 
 
 \* Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.

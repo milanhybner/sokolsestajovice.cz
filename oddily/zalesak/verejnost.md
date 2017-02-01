@@ -6,7 +6,7 @@ permalink: /oddily/zalesak/
 
 [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zalesak.kratke-url}}){:.button}
 
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special} 
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 ## Kontakt
 
@@ -16,7 +16,7 @@ permalink: /oddily/zalesak/
 
 **Zaměření oddílu**
 
-Oddíl Zálesák je zaměřen na pobyty v přírodě a zálesácké táboření. Podnikáme výpravy a výlety za dobrodružstvím. Formou her a různých cvičení zvyšujeme fyzickou i psychickou stránku dětí. Děti se učí základům přežití v lese, jako je hledání a úprava vody, stavění přístřešků, rozdělávání ohně a zajišťování potravy. Dále se věnujeme poskytování první pomoci, lanovým technikám, poznávání rostlin, zvířat, stromů a vše co nám příroda může poskytnout a čím nás může obohatit v jednotlivých ročních obdobích.** Aktivity jsou zaměřené pro děti ve věku 8 – 12 let.**
+Oddíl Zálesák je zaměřen na pobyty v přírodě a zálesácké táboření. Podnikáme výpravy a výlety za dobrodružstvím. Formou her a různých cvičení zvyšujeme fyzickou i psychickou stránku dětí. Děti se učí základům přežití v lese, jako je hledání a úprava vody, stavění přístřešků, rozdělávání ohně a zajišťování potravy. Dále se věnujeme poskytování první pomoci, lanovým technikám, poznávání rostlin, zvířat, stromů a vše co nám příroda může poskytnout a čím nás může obohatit v jednotlivých ročních obdobích.**Aktivity jsou zaměřené pro děti ve věku 8 – 12 let.**
 
 **Cíl**
 
