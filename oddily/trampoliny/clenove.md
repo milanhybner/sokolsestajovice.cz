@@ -4,7 +4,13 @@ title: Trampolíny
 permalink: /trampoliny/
 ---
 
-[Závod _Vánoční Štrůdl_ 10. prosince v Tyršově domě.](http://www.trampolinypraha.cz/vanocni-strudl-2016.html)
+_Vážení rodiče,_
+
+_mám pro Vás informaci ohledně slibovaného druhého tréninku ve čtvrtek. Ten se prozatím konat nebude. Ze strany obce byla původně přislíbena možnost přesunout oddíl florbalu, který trénuje v čase plánovaného tréninku trampolín, do nafukovací haly. Ta ale momentálně není pro florbal uzpůsobena (nejsou tam mantinely). Vzhledem k počtu členů oddílů jsme dali prozatím přednost florbalu a pro trampolíny hledáme jiné řešení. Za tuto situaci se omlouvám a děkuji za pochopení._
+
+_Milan Hybner_
+
+_1\. 2. 2017_
 
 ## Kontakty
 
@@ -70,7 +76,6 @@ Voerman Zuzana
 Šubertová Anna
 Šubertová Kateřina
 
--->
 
 ## Další informace
 
