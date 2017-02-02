@@ -14,7 +14,7 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 | Út |       |       |                  | [TR1] | [TR2]            |                  |
 | St |       |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                  |
 | Čt |       |       |                  | [FL1] | [FL2]            | [ZDR]*           |
-| Pá |       |       | [MÍČ]            |       |                  |                  |
+| Pá |       | [MÍČ] |                  |       |                  |                  |
 | So |       | [FL1] | [FL2]            |       |                  |                  |
 
 [TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"

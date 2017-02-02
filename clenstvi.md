@@ -12,11 +12,19 @@ permalink: /clenstvi/
 
 Členem Sokola se můžete stát i tehdy, když nebudete aktivně navštěvovat žádný oddíl. Stane se z vás takzvaný „přispívající člen“ a podpoříte tak činnost sokolského hnutí po celé republice.
 
+Výhody členství v Sokole zahrnují např.:
+
+* Sleva na vstup do [bazénu v Tyršově domě](http://www.sokol.eu/obsah/5430/plavecky-bazen) na Malé Straně v Praze
+* Sleva na ubytování v [Hostelu Sokol](http://www.sokol.eu/obsah/5391/hostel-sokol)
+* Sleva na [vzdělávací akce Ústřední školy ČOS](http://www.sokol.eu/obsah/234/seminare-a-skoleni)
+
 # Příspěvky
 
 Každý člen Sokola hradí **členský příspěvek** člena České obce sokolské. Ten činí pro rok 2017 pro členy ve věku 18-64 let 550 Kč a pro členy mladší než 18 let nebo starší 65 let 250 Kč. Členský příspěvek se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Stávající členové hradí členský příspěvek v lednu; na základě jeho zaplacení obdrží na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
 
 Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit ještě **oddílový příspěvek**. Abyste se mohli stát členem oddílu, musíte být členem ČOS (výjimka – viz níže). Oddílový příspěvek se platí za pololetí, tedy od září (či října) do ledna a od února do června. 
+
+[Některé zdravotní pojišťovny svým klientům na sportovní aktivity přispívají.](https://www.sokol.cz/sokol/index.php?action=zobrazdokument&typdok=1&iddok=3461)
 
 Příspěvky zasílejte bankovním převodem s následujícími údaji
 
@@ -38,8 +46,8 @@ Při hrazení členského a oddílového příspěvku uhraďte prosím každý p
 
 |                       Oddíl                       | Částka za pololetí | Variabilní symbol |
 |---------------------------------------------------|--------------------|-------------------|
-| Florbal – mladší žáci                             | 1000,– Kč          |               920 |
-| Florbal – starší žáci                             | 1000,– Kč          |               930 |
+| Florbal – mladší žáci                             | 2000,– Kč          |               920 |
+| Florbal – starší žáci                             | 2000,– Kč          |               930 |
 | Kondiční cvičení žen                              | 1000,– Kč          |               840 |
 | Kondiční cvičení mužů                             | 1000,– Kč          |               620 |
 | Míčové hry                                        | 1000,– Kč          |               940 |
@@ -53,12 +61,9 @@ Při hrazení členského a oddílového příspěvku uhraďte prosím každý p
 | Zálesák                                           | 1000,– Kč          |               910 |
 | Zdravotní cvičení – do 59 let                     | 1000,– Kč          |               850 |
 | Zdravotní cvičení – nad 60 let                    | 500,– Kč           |               850 |
-| Zdravotní cvičení v přírodě  [(_poznámka 2_)](#2) | 500,– Kč           |               870 |
 
 
 <a id="1">_Poznámka 1:_</a> **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2800,– Kč/rok.*
-
-<a id="1">_Poznámka 2:_</a> **Oddíl zdravotního cvičení v přírodě** má oddílový příspěvek do konce roku 2016 ve výši 400,– Kč.
 
 **Méně běžné situace**
 
@@ -74,4 +79,4 @@ Přečtěte si o Sokole na stránkách [České obce sokolské](http://www.sokol
 
 **Chcete nás podpořit?**
 
-Hledáme cvičitele a dobrovolníky ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. V případě zájmu nás prosím kontaktujte prostřednictvím formuláře níže.
+Hledáme cvičitele a dobrovolníky ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. Rodinní příslušníci cvičitelů a činovníků T.J. Sokol Šestajovice nehradí oddílový příspěvek. V případě zájmu nás prosím [kontaktujte prostřednictvím formuláře níže](#f).

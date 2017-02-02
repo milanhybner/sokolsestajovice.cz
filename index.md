@@ -167,6 +167,8 @@ permalink: /
 
 [Členství]({{ site.baseurl }}/clenstvi/){:.button} 
 [Oddíly a rozvrh]({{ site.baseurl }}/oddily/){:.button} 
+[Kalendář]({{ site.baseurl }}/kalendar/){:.button}
 [Fotogalerie](http://sokolsestajovice.rajce.idnes.cz){:.button} 
 [O Sokole]({{ site.baseurl }}/o-sokole/){:.button} 
 [Kontakt]({{ site.baseurl }}/kontakt/){:.button}
+
