@@ -16,7 +16,7 @@ permalink: /kalendar/
 ## duben 2017
 
 * 6\. dubna – schůze výboru
-* 8\. dubna – zábavné sportovní odpoledne
+* 8\. dubna – zábavné sportovní odpoledne – náhrada pro rytmiku a míčovky, pro ostatní dobrovolně za symbolický poplatek
 * \[florbal kat. Ia\] 8.–9. dubna – Oblastní přebor západ
 * \[zálesák\] 22\.–23. dubna – jedno nebo dvoudenní výprava Lom Amerika (lom Mořina u Srbska)
 * 30\. dubna – Čarodějnice a stavění májky
@@ -29,11 +29,11 @@ permalink: /kalendar/
 
 ## červen 2017
 
-* 3\. června (případně 27.5., podle [pohádkového lesa v Klánovicích](http://www.pohadkoveklanovice.cz/)) – den dětí
+* 3\. června (případně 27.5., podle [pohádkového lesa v Klánovicích](http://www.pohadkoveklanovice.cz/)) 15:00 – den dětí
 * 15\. června – schůze výboru (pouze v případě, že bude něco k řešení)
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
 * 21\. června – [T-Mobile olympijský běh](https://www.olympijskybeh.cz/)
-* \[zálesák\] 24\. června – Slavnostní zakončení cvičebního roku (Klánovice)
+* 24\. června – Slavnostní zakončení cvičebního roku (Klánovice)
 * \[zálesák\] bude upřesněno – výprava Novohradské hory (Nové Hrady)
 
 ## červenec 2017
