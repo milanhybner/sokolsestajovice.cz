@@ -80,3 +80,5 @@ Přečtěte si o Sokole na stránkách [České obce sokolské](http://www.sokol
 **Chcete nás podpořit?**
 
 Hledáme cvičitele a dobrovolníky ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. Rodinní příslušníci cvičitelů a činovníků T.J. Sokol Šestajovice nehradí oddílový příspěvek. V případě zájmu nás prosím [kontaktujte prostřednictvím formuláře níže](#f).
+
+Také nás můžete podpořit [nakoupením v e-shopu prostřednictvím _givt_](https://givt.cz/RAOSset.php?organizationId=2903) – nezaplatíte nic navíc, přesto nám přispějete.
