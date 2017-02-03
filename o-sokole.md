@@ -8,8 +8,8 @@ T.J. Sokol Šestajovice je spolek, který byl po 97. letech obnoven valnou hroma
 
 Historie T.J. Sokol Šestajovice z let 1918 až 1925 ke stažení zde:
 
-[1918 – 1922 (.doc)](/files/1918-1922.doc){:.button .icon .fa-download}  
-[1922 – 1925 (.doc)](/files/1922-1925.doc){:.button .icon .fa-download}
+[1918 – 1922 (.doc)]({{ relative }}/files/1918-1922.doc){:.button .icon .fa-download}  
+[1922 – 1925 (.doc)]({{ relative }}/files/1922-1925.doc){:.button .icon .fa-download}
 
 - název: Tělocvičná jednota Sokol Šestajovice
 - právní forma: pobočný spolek

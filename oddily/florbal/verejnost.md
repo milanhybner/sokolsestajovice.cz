@@ -5,6 +5,14 @@ oddil: florbal
 permalink: /oddily/florbal/
 ---
 
+---
+
+Vážení rodiče, ve čtvrtek 16. února se nebude konat trénink. Sobotní tréninky probíhají pravidelně 14:00 - 16:00 a to i v sobotu před a po jarních prázdninách. Výjimkou bude sobota 11. března, kdy trénink nebude.
+
+_Milan Hybner, náčelník_
+
+---
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 [](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
 [Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)

@@ -4,6 +4,17 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+Pro informaci o cvičení v průběhu jarních prázdnin navštivte stránku příslušného oddílu, případně [kontaktujte vedoucího cvičitele oddílu](#f):
+
+* [florbal]({{ relative }}/oddily/florbal/)
+* [trampolíny]({{ relative }}/trampoliny/)
+* [míčové hry]({{ relative }}/oddily/micovky/)
+* [tanečky]({{ relative }}/oddily/tanecky/)
+* [rodiče a děti]({{ relative }}/oddily/rodice-a-deti/)
+
+Pokud se vám nepodaří informaci získat, obecným pravidlem je, že o prázdninách se necvičí.
+
+---
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 2 %}

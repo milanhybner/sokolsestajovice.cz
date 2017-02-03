@@ -4,6 +4,17 @@ title: Trampolíny
 permalink: /trampoliny/
 ---
 
+Vážení rodiče,
+
+v úterý dne 14. února 2017 se z důvodu jarních prázdnin trénink trmapolín nekoná.
+
+Děkuji za pochopení,
+
+Milan Hybner
+
+---
+
+
 _Vážení rodiče,_
 
 _mám pro Vás informaci ohledně slibovaného druhého tréninku ve čtvrtek. Ten se prozatím konat nebude. Ze strany obce byla původně přislíbena možnost přesunout oddíl florbalu, který trénuje v čase plánovaného tréninku trampolín, do nafukovací haly. Ta ale momentálně není pro florbal uzpůsobena (nejsou tam mantinely). Vzhledem k počtu členů oddílů jsme dali prozatím přednost florbalu a pro trampolíny hledáme jiné řešení. Za tuto situaci se omlouvám a děkuji za pochopení._
