@@ -139,17 +139,6 @@ permalink: /
       </div>
     </a>
   </article>
-  <article class="style3">
-    <span class="image">
-      <img src="images/priroda.jpg" alt="" />
-    </span>
-    <a href="{{ relative }}{{site.data.oddil.priroda.dlouhe-url}}">
-      <h2>Zdravotní cvičení v&nbsp;přírodě</h2>
-      <div class="content">
-        <p>Cvičení vhodná pro seniory a všechny cvičence, kteří chtějí přirozenými formami pohybu posílit své zdraví.</p>
-      </div>
-    </a>
-  </article>
   <article class="style2">
     <span class="image">
       <img src="images/micovky.jpg" alt="" />
