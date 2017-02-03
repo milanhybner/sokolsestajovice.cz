@@ -4,6 +4,21 @@ title: Oddíl rodičů a dětí
 permalink: /oddily/rodice-a-deti/
 ---
 
+Nazdar všem mým milým cvičencům!
+
+Protože opakování je matka moudrosti, dovoluji si ještě jednou upozornit, že v pondělí dne 6.2.2017 odpadá cvičení rodičů a dětí z důvodu jarních prázdnin Prahy 6-10.
+
+V termínu jarních prázdnin Praha-východ dne 13.2.2016 se cvičení USKUTEČNÍ! Ještě zjistím, jak je to s tělocvičnou, ale při nejhorším půjdeme ven :-))
+
+Děkuji moc za pochopení,
+
+srdečně zdravím a těším se na vás těsně před sv. Valenýnem ;-))
+
+_Eva_
+
+---
+
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Cvičení rodičů s dětmi pro děti ve věku 2–5 let.
