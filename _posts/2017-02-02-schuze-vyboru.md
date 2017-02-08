@@ -15,6 +15,8 @@ Domluvíme jednání se starostou obce, jehož cílem bude:
 
 Další probrané věci:
 
+* Oddílový příspěvek v oddíle florbalu mladších i starších žáků se vzhledem ke zhruba dvojnásobnému počtu tréninků mění z 1000 Kč na 2000 Kč na pololetí.
+
 * Byly naplánovány sportovní a jiné akce na rok 2017, ty jsou na webu v kalendáři akcí; akce budou zadány i do portálu [Sport v okolí](http://sportvokoli.cz/)
 
 * Cvičitelům bude za 1. pololetí cvičebního roku 2016/2017 vyplacena odměna 2000 Kč.
