@@ -23,20 +23,6 @@ permalink: /
     {% endif %}
 {% endfor %}
 
----
-
-Pro informaci o cvičení v průběhu jarních prázdnin navštivte stránku příslušného oddílu, případně [kontaktujte vedoucího cvičitele oddílu](#f):
-
-* [florbal]({{ relative }}/oddily/florbal/)
-* [trampolíny]({{ relative }}/trampoliny/)
-* [míčové hry]({{ relative }}/oddily/micovky/)
-* [tanečky]({{ relative }}/oddily/tanecky/)
-* [rodiče a děti]({{ relative }}/oddily/rodice-a-deti/)
-
-Pokud se vám nepodaří informaci získat, obecným pravidlem je, že o prázdninách se necvičí.
-
----
-
 [Všechny články]({{ relative }}/archiv/){:.button}
 
 
