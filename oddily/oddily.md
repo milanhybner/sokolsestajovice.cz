@@ -10,7 +10,7 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 
 |    | 10:15 | 14:00 |      15:00       | 16:00 |      17:00       |      19:00       |
 |----|-------|-------|------------------|-------|------------------|------------------|
-| Po | [ZDP] |       | [TAN]<br />[VŠE] |       | [RaD]            | [ŽEN]<br />[MUŽ] |
+| Po |       |       | [TAN]<br />[VŠE] |       | [RaD]            | [ŽEN]<br />[MUŽ] |
 | Út |       |       |                  | [TR1] | [TR2]            |                  |
 | St |       |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                  |
 | Čt |       |       |                  | [FL1] | [FL2]            | [ZDR]*           |
@@ -29,7 +29,6 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 [ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení"
 [TaR]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanecky.dlouhe-url}} "Tanečky a rytmika"
 [MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
-[ZDP]: http://www.sokolsestajovice.cz/{{site.data.oddil.priroda.dlouhe-url}} "Zdravotní cvičení v přírodě"
 [PK1]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – mladší"
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
 [MUŽ]: http://www.sokolsestajovice.cz/{{site.data.oddil.muzi.dlouhe-url}} "Oddíl mužů"

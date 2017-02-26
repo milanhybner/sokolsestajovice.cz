@@ -4,19 +4,16 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-* \[zálesák\] 4\. února – Návštěva stanice HZS hl. m. Prahy (Praha)
-* 23\. února – Schůze výboru
 
 ## březen 2017
 
-* \[florbal muži\] 18\. března – regionální přebor
-* 21\. března 19:00 – Valná hromada (nejspíše ve [Frenky's](http://frenkys.cz/))
-* \[zálesák\] 26\. března – Župní přebor ZZZ (Mšeno)
+* 21\. března 19:00 – [Valná hromada](http://www.sokolsestajovice.cz/2017/03/21/valna-hromada.html) ve [Frenky's](http://frenkys.cz/)
+* \[zálesák\] 26\. března – [Župní přebor ZZZ (Mšeno)](https://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1488058201)
 
 ## duben 2017
 
 * 6\. dubna – schůze výboru
-* 8\. dubna – zábavné sportovní odpoledne – náhrada pro rytmiku a míčovky, pro ostatní dobrovolně za symbolický poplatek
+* _bude upřesněno_– zábavné sportovní odpoledne – náhrada pro rytmiku a míčovky, pro ostatní dobrovolně za symbolický poplatek
 * \[florbal kat. Ia\] 8.–9. dubna – Oblastní přebor západ
 * \[zálesák\] 22\.–23. dubna – jedno nebo dvoudenní výprava Lom Amerika (lom Mořina u Srbska)
 * 30\. dubna – Čarodějnice a stavění májky
@@ -29,7 +26,7 @@ permalink: /kalendar/
 
 ## červen 2017
 
-* 3\. června (případně 27.5., podle [pohádkového lesa v Klánovicích](http://www.pohadkoveklanovice.cz/)) 15:00 – den dětí
+* 3\. června 15:00 – den dětí
 * 15\. června – schůze výboru (pouze v případě, že bude něco k řešení)
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
 * 21\. června – [T-Mobile olympijský běh](https://www.olympijskybeh.cz/)
@@ -49,8 +46,8 @@ permalink: /kalendar/
 ## říjen 2017
 
 * 8\. října – Šestajovická šestka
-* \[zálesák\] 8\. října – Památný den sokolstva (Šestajovice)
-* \[zálesák\] 28\. října – Oslava Den vzniku Československa (Šestajovice)
+* 8\. října – Památný den sokolstva (Šestajovice)
+* 28\. října – Oslava Den vzniku Československa (Šestajovice)
 
 ## prosinec 2017
 
@@ -69,3 +66,5 @@ permalink: /kalendar/
 
 * 2\. února – Schůze výboru  
 [Pozvánka](https://drive.google.com/open?id=0B0w6gDorCVUkSDc4Z3RlbVdicUdrTXhxV2ZSQTZVcUNrSkRJ){:.button .icon .fa-download}
+* \[zálesák\] 4\. února – Návštěva stanice HZS hl. m. Prahy (Praha)
+* 23\. února – Schůze výboru
