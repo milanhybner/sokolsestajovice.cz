@@ -148,6 +148,17 @@ permalink: /
       </div>
     </a>
   </article>
+  <article class="style2">
+    <span class="image">
+      <img src="images/muzi.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.muzi.dlouhe-url}}/">
+      <h2>Muži</h2>
+      <div class="content">
+        <p>Cvičení mužů. Síla, rychlost, vytrvalost.</p>
+      </div>
+    </a>
+  </article>
 </section>
 
 ---
