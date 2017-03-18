@@ -13,7 +13,7 @@ permalink: /kalendar/
 ## duben 2017
 
 * 6\. dubna – schůze výboru
-* _bude upřesněno_– zábavné sportovní odpoledne – náhrada pro rytmiku a míčovky, pro ostatní dobrovolně za symbolický poplatek
+* 9\. dubna – zábavné sportovní odpoledne – náhrada pro rytmiku a míčovky, pro ostatní dobrovolně za symbolický poplatek
 * \[florbal kat. Ia\] 8.–9. dubna – Oblastní přebor západ
 * \[zálesák\] 22\.–23. dubna – jedno nebo dvoudenní výprava Lom Amerika (lom Mořina u Srbska)
 * 30\. dubna – Čarodějnice a stavění májky
@@ -39,10 +39,10 @@ permalink: /kalendar/
 
 ## září 2017
 
-* \[zálesák\] 8\. - 10. září – Krajem kamenů (Týnčany)
+* \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
 * \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
 * bude upřesněno – veletrh kroužků Klánovice
-* župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
+* 30\. září – župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
 
 ## říjen 2017
 
