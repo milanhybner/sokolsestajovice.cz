@@ -7,7 +7,7 @@ permalink: /kalendar/
 
 ## březen 2017
 
-* 21\. března 19:00 – [Valná hromada](http://www.sokolsestajovice.cz/2017/03/21/valna-hromada.html) ve [Frenky's](http://frenkys.cz/)
+* 21\. března 19:00 – [Valná hromada](http://www.sokolsestajovice.cz/2017/03/21/valna-hromada.html) v jídelně ZŠ Šestajovice
 * \[zálesák\] 26\. března – [Župní přebor ZZZ (Mšeno)](https://www.sokol.cz/sokol/index.php?action=zobrazakci&id=1488058201)
 
 ## duben 2017
