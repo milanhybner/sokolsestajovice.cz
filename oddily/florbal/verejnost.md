@@ -13,8 +13,9 @@ permalink: /oddily/florbal/
 
 Probíhá každý čtvrtek a většinou i v sobotu ve sportovní hale, U Váhy 1000, Šestajovice:
 
-* mladší žáci (1.–5. třída): čtvrtek 16:00 – 17:00, sobota 14:00 – 15:00
-* starší žáci (6.–9. třída): čtvrtek 17:00 – 18:00, sobota 15:00 – 16:00.
+* mladší žáci (1.–5. třída): čtvrtek 16:00 – 17:30
+* starší žáci (6.–9. třída): čtvrtek 17:30 – 19:00
+
 
 ## Kontakt
 
