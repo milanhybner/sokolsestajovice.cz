@@ -6,9 +6,9 @@ permalink: /oddily/florbal/
 ---
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
+
+
 [](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
-
-
 [Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)
 
 Probíhá každý čtvrtek a většinou i v sobotu ve sportovní hale, U Váhy 1000, Šestajovice:
