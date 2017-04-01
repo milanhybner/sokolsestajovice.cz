@@ -10,21 +10,22 @@ permalink: /zalesak/
 
 ## Chystané akce
 
-|                                 Akce                                |          Datum          |
-|---------------------------------------------------------------------|-------------------------|
-| Expediční doškolovací seminář Hory na sněžnicích (Králický Sněžník) | 28\.–29. ledna          |
-| Návštěva stanice HZS hl. m. Prahy (Praha)                           | 4\. února               |
-| Župní přebor ZZZ (Mšeno)                                            | 26\. března             |
-| jedno nebo dvoudenní výprava Lom Amerika (lom Mořina u Srbska)      | 22\.–23. dubna          |
-| Oslava Dne osvobození (Šestajovice + Praha-Vítkov)                  | 9\. května              |
-| výprava Křivoklátsko (CHKO Křivoklátsko)                            | květen (bude upřesněno) |
-| Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)      | 18\. června             |
-| Slavnostní zakončení cvičebního roku (Klánovice)                    | 24\. června             |
-| výprava Novohradské hory (Nové Hrady)                               | červen (bude upřesněno) |
-| Krajem kamenů (Týnčany)                                             | 8\.–10. září            |
-| výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)             | 29\.–30. září           |
-| Památný den sokolstva (Šestajovice)                                 | 8\. října               |
-| Oslava Den vzniku Československa (Šestajovice)                      | 28\. října              |
+
+|                       Akce                       |            Datum             |              Místo               |
+|--------------------------------------------------|------------------------------|----------------------------------|
+| Ukliďme Česko                                    | 8.4.2017                     | Šestajovice                      |
+| jednodenní výprava Lom Amerika                   | 22.4.2017                    | lom Mořina u Srbska              |
+| Cvičitelé pobytu v přírodě III. třídy            | 27.04. - 01.05.2017          | Jurenkova Osada u Třebíče        |
+| Oslava Dne osvobození                            | 9.5.2017                     | Šestajovice + Praha-Vítkov       |
+| výprava Křivoklátsko                             | 19. - 21.05.2017             | CHKO Křivoklátsko                |
+| Pietní akt - boj parašutistů v kostele           | 18.06.2017                   | Praha, Resslova ulice            |
+| výprava Novohradské hory                         | červen 2017 - bude upřesněno | Nové Hrady                       |
+| Slavnostní zakončení cvičebního roku             | 30.6.2017                    | Klánovice                        |
+| Krajem kamenů                                    | 8. - 10. 9. 2017             | Týnčany                          |
+| výprava Čs. opevnění                             | 29. - 30.09.2017             | pevnost Hanička u Rokytnice v OH |
+| Památný den sokolstva                            | 8.10.2017                    | Šestajovice                      |
+| Oslava Den vzniku Československa                 | 28.10.2017                   | Šestajovice                      |
+
 
 
 ## Proběhlé akce
@@ -41,6 +42,10 @@ permalink: /zalesak/
 | Skryjská jezírka                                                                                             | 21. - 22.5.2016  |
 | Brdy + Bahna 2016                                                                                            | 24. - 25.6.2016  |
 | [Vzpomínková akce Anthropoid](https://drive.google.com/file/d/0B11sptJjoYIFTmZWdUVyZklBNW8/view?usp=sharing) | 2016-12-17       |
+| Expediční doškolovací seminář Hory na sněžnicích (Králický Sněžník)                                          | 28. - 29.1.2017  |
+| Návštěva stanice HZS hl. m. Prahy                                                                            | 4.2.2017         |
+| Župní přebor ZZZ                                                                                             | 26.3.2017        |
+| Libuše volá Londýn                                                                                           | 1.4.2017         |
 
 # Kontakty
 
