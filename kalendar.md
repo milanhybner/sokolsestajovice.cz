@@ -8,10 +8,10 @@ permalink: /kalendar/
 
 ## duben 2017
 
-* 6\. dubna – schůze výboru
 * 9\. dubna – [zábavné sportovní odpoledne](http://www.sokolsestajovice.cz/2017/04/09/sportovni-odpoledne.html)
 * \[florbal kat. Ia\] 9. dubna – [Oblastní přebor západ](https://drive.google.com/open?id=0B0w6gDorCVUkX3ZBZUxTVTBGc1owZE9IYTlLNUlOVnUzMlcw)
 * \[zálesák\] 22\.–23. dubna – jedno nebo dvoudenní výprava Lom Amerika (lom Mořina u Srbska)
+* 13\. dubna – [schůze výboru](https://drive.google.com/open?id=0B0w6gDorCVUkY0pDa3Z0aDJ5OHdFWFAtRG5BTTl4dnB2WlpV)
 * 30\. dubna – [Čarodějnice a stavění májky](http://www.sokolsestajovice.cz/2017/04/30/carodejnice.html)
 
 ## květen 2017
