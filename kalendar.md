@@ -25,7 +25,7 @@ permalink: /kalendar/
 * 3\. června 15:00 – den dětí
 * 15\. června – schůze výboru (pouze v případě, že bude něco k řešení)
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
-* 21\. června – [T-Mobile olympijský běh](https://www.olympijskybeh.cz/)
+* 21\. června – [T-Mobile olympijský běh](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
 * 30\. června – Slavnostní zakončení cvičebního roku (Klánovice)
 * \[zálesák\] bude upřesněno – výprava Novohradské hory (Nové Hrady)
 
