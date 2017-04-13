@@ -4,6 +4,14 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+O velikonočních prázdninách a svátcích (tedy od čtvrtka 13. dubna do pondělí 17. dubna včetně) tréninky a cvičební jednotky neprobíhají.
+
+_Hezké Velikonoce!_
+
+---
+
+
+
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 2 %}
     {% assign postStartDate = post.date | date: '%s' %}
