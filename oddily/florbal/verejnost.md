@@ -11,7 +11,7 @@ permalink: /oddily/florbal/
 [](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
 [Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)
 
-Probíhá každý čtvrtek a většinou i v sobotu ve sportovní hale, U Váhy 1000, Šestajovice:
+Probíhá každý čtvrtek ve sportovní hale, U Váhy 1000, Šestajovice:
 
 * mladší žáci (1.–5. třída): čtvrtek 16:00 – 17:30
 * starší žáci (6.–9. třída): čtvrtek 17:30 – 19:00
