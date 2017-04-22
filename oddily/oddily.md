@@ -8,14 +8,14 @@ permalink: /oddily/
 
 Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte na příslušný oddíl.
 
-|    | 10:15 | 14:00 |      15:00       | 16:00 |      17:00       |      19:00       |
-|----|-------|-------|------------------|-------|------------------|------------------|
-| Po |       |       | [TAN]<br />[VŠE] |       | [RaD]            | [ŽEN]<br />[MUŽ] |
-| Út |       |       |                  | [TR1] | [TR2]            |                  |
-| St |       |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                  |
-| Čt |       |       |                  | [FL1] | [FL2]            | [ZDR]*           |
-| Pá |       | [MÍČ] |                  |       |                  |                  |
-| So |       | [FL1] | [FL2]            |       |                  |                  |
+|    | 14:00 |      15:00       | 16:00 |      17:00       |       19:00       |
+|----|-------|------------------|-------|------------------|-------------------|
+| Po |       | [TAN]<br />[VŠE] |       | [RaD]            | [ŽEN]<br />[MUŽ]  |
+| Út |       |                  | [TR1] | [TR2]            |                   |
+| St |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                   |
+| Čt |       |                  | [FL1] | [FL1]/[FL2]      | [FL2]<br />[ZDR]* |
+| Pá | [MÍČ] |                  |       |                  |                   |
+| So | [FL1] | [FL2]            |       |                  |                   |
 
 [TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"
 [VŠE]: http://www.sokolsestajovice.cz/{{site.data.oddil.vsestrannost.dlouhe-url}} "Všestrannost"
@@ -37,20 +37,12 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 \* Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.
 
 
-## Aktivní oddíly
+## Seznam oddílů
 
 {% for oddil_hash in site.data.oddil %}{% assign oddil = oddil_hash[1] %}
 * [{{oddil.nazev}} ({{oddil.vek}})]({{oddil.dlouhe-url}}){% endfor %}
 
 ---
-
-Chtěli byste se stát členy některého z následujících oddílů?
-
-* badatelský oddíl
-* oddíl všestrannosti mužů
-* sokoláček dramaťáček
-* oddíl olympijského šplhu
-* běžecký oddíl
 
 [Kontaktujte nás!]({{ http://www.sokolsestajovice.cz }}/kontakt/){:.button}
 

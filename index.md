@@ -26,7 +26,14 @@ permalink: /
     {% endif %}
 {% endfor %}
 
-[Všechny články]({{ relative }}/archiv/){:.button}
+[Všechny články]({{ relative }}/archiv/){:.button .special}
+
+[Členství a příspěvky]({{ site.baseurl }}/clenstvi/){:.button} 
+[Oddíly a rozvrh]({{ site.baseurl }}/oddily/){:.button} 
+[Kalendář]({{ site.baseurl }}/kalendar/){:.button}
+[Fotogalerie](http://sokolsestajovice.rajce.idnes.cz){:.button} 
+[O Sokole]({{ site.baseurl }}/o-sokole/){:.button} 
+[Kontakt]({{ site.baseurl }}/kontakt/){:.button}
 
 
 <section class="tiles" id="oddily">
@@ -163,13 +170,4 @@ permalink: /
     </a>
   </article>
 </section>
-
----
-
-[Členství]({{ site.baseurl }}/clenstvi/){:.button} 
-[Oddíly a rozvrh]({{ site.baseurl }}/oddily/){:.button} 
-[Kalendář]({{ site.baseurl }}/kalendar/){:.button}
-[Fotogalerie](http://sokolsestajovice.rajce.idnes.cz){:.button} 
-[O Sokole]({{ site.baseurl }}/o-sokole/){:.button} 
-[Kontakt]({{ site.baseurl }}/kontakt/){:.button}
 
