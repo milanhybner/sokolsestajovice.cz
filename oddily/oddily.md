@@ -15,7 +15,6 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 | St |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                   |
 | Čt |       |                  | [FL1] | [FL1]/[FL2]      | [FL2]<br />[ZDR]* |
 | Pá | [MÍČ] |                  |       |                  |                   |
-| So | [FL1] | [FL2]            |       |                  |                   |
 
 [TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"
 [VŠE]: http://www.sokolsestajovice.cz/{{site.data.oddil.vsestrannost.dlouhe-url}} "Všestrannost"

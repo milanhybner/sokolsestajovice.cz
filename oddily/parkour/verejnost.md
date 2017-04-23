@@ -4,9 +4,11 @@ title: Oddíl parkouru
 permalink: /oddily/parkour/
 ---
 
-[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
-
 Tréninky v pondělí 24. a ve středu 26. dubna jsou zrušeny z důvodu nemoci cvičitele. Nahrazeny budou 5. a 7. června 2017.
+
+---
+
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Tréninky v 2. pololetí cvičebního roku budou v následující dny:
 
