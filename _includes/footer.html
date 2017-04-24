@@ -21,17 +21,17 @@
 					<h2>Napište nám</h2>
 					<form id="f">
 						<div class="field half first">
-							<input type="text" name="name" id="name" placeholder="Jméno" />
-							<input id="nazev" type="hidden" value="{{ page.title }}">
+							<input type="text" name="nameg" id="nameg" placeholder="Jméno" />
+							<input id="nazevg" type="hidden" value="{{ page.title }}">
 						</div>
 						<div class="field half">
-							<input type="email" name="email" id="email" placeholder="E-mail" />
+							<input type="email" name="emailg" id="emailg" placeholder="E-mail" />
 						</div>
 						<div class="field">
-							<textarea name="message" id="message" placeholder="Zpráva"></textarea>
+							<textarea name="messageg" id="messageg" placeholder="Zpráva"></textarea>
 						</div>
 						<ul class="actions">
-							<li><input id="btn" type="submit" value="Odeslat" class="special" /></li>
+							<li><input id="btng" type="submit" value="Odeslat" class="special" /></li>
 						</ul>
 					</form>
 					<div class="box alt">
@@ -70,18 +70,18 @@ $(document).ready(function() {
   });
     $('form[id=f]').submit(function(e) {
         e.preventDefault();
-        var name = $('#name').val();
-        var email = $('#email').val();
-        var message3 = $('#message').val();
+        var name = $('#nameg').val();
+        var email = $('#emailg').val();
+        var message3 = $('#messageg').val();
         var message2 = message3.replace(/(?:\r\n|\r|\n)/g, '  ');
         var message1 = message2.replace(/"/g, '');
-        var title = $('#nazev').val();
-        var postData = '{"text": "' + name + ' (' + email + ') z ' + title + ': ' + message1 + '"}';
-        var btn = $('#btn');
+        var title = $('#nazevg').val();
+        var postData = '{"zprava": "' + message1 + '", "email":"' + email + '","stranka":"' + title + '","jmeno": "' + name + '"}';
+        var btn = $('#btng');
         $.ajax({
             type: 'POST',
             cache: false,
-            url: 'https://zapier.com/hooks/catch/2zuwhk/',
+            url: 'https://hooks.zapier.com/hooks/catch/161689/1w2zga/',
             data: postData,
             success: function() {window.location.href = "";}
         });
@@ -89,6 +89,8 @@ $(document).ready(function() {
     });
 });
 </script>
+
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
