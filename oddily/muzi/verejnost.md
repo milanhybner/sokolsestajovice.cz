@@ -4,7 +4,7 @@ title: Muži
 permalink: /oddily/muzi/
 ---
 
-Ve dne 24. 4. a 1. 5. 2017 bude cvičení probíhat společně s kondičním cvičením žen pod vedením Hanky Otáhalové.
+Ve dne 24. 4. bude cvičení probíhat společně s kondičním cvičením žen pod vedením Hanky Otáhalové.
 
 ---
 

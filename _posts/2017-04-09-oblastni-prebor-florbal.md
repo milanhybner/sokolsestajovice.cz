@@ -9,6 +9,6 @@ Ve věkové kategorii hráčů s ročníkem narození 2007–2009 bojovalo za T.
 
 Náš tým úspěšně postoupil ze skupiny, v play-off se však již dále nedostal. Hráči i trenéři nasbírali cenné zkušenosti, které určitě zužitkují v dalších letech.
 
-[Podívejte se na fotografie a videa na sokolsestajovice.rajce.net](http://sokolsestajovice.rajce.idnes.cz/2017-04-09_Oblastni_prebor_ve_florbalu/).
+[Podívejte se na fotografie a videa na sokolsestajovice.rajce.net](http://sokolsestajovice.rajce.idnes.cz/Oblastni_prebor_ve_florbalu_2017-04-09/).
 
 Pokud se vám to líbí, staňte se jedním z nás – [oddíl florbalu přijímá nové členy]({{relative}}/oddily/florbal/).
