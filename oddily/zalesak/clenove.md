@@ -13,13 +13,11 @@ permalink: /zalesak/
 
 |                       Akce                       |            Datum             |              Místo               |
 |--------------------------------------------------|------------------------------|----------------------------------|
-| Ukliďme Česko                                    | 8.4.2017                     | Šestajovice                      |
-| jednodenní výprava Lom Amerika                   | 22.4.2017                    | lom Mořina u Srbska              |
 | Cvičitelé pobytu v přírodě III. třídy            | 27.04. - 01.05.2017          | Jurenkova Osada u Třebíče        |
-| Oslava Dne osvobození                            | 9.5.2017                     | Šestajovice + Praha-Vítkov       |
+| Oslava Dne osvobození                            | 8.5.2017                     | Šestajovice + Praha-Vítkov       |
 | výprava Křivoklátsko                             | 19. - 21.05.2017             | CHKO Křivoklátsko                |
 | Pietní akt - boj parašutistů v kostele           | 18.06.2017                   | Praha, Resslova ulice            |
-| výprava Novohradské hory                         | červen 2017 - bude upřesněno | Nové Hrady                       |
+| výprava Novohradské hory                         | 9.–11. 6. 2017               | Nové Hrady                       |
 | Slavnostní zakončení cvičebního roku             | 30.6.2017                    | Klánovice                        |
 | Krajem kamenů                                    | 8. - 10. 9. 2017             | Týnčany                          |
 | výprava Čs. opevnění                             | 29. - 30.09.2017             | pevnost Hanička u Rokytnice v OH |
@@ -46,6 +44,8 @@ permalink: /zalesak/
 | Návštěva stanice HZS hl. m. Prahy                                                                            | 4.2.2017         |
 | Župní přebor ZZZ                                                                                             | 26.3.2017        |
 | Libuše volá Londýn                                                                                           | 1.4.2017         |
+| Ukliďme Česko                                    | 8.4.2017                     | Šestajovice                      |
+| jednodenní výprava Lom Amerika                   | 22.4.2017                    | lom Mořina u Srbska              |
 
 # Kontakty
 

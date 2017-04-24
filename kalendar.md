@@ -12,18 +12,18 @@ permalink: /kalendar/
 
 ## květen 2017
 
-* \[zálesák\] 9\. května – Oslava Dne osvobození (Šestajovice + Praha-Vítkov)
+* \[zálesák\] 8\. května – Oslava Dne osvobození (Šestajovice + Praha-Vítkov)
 * 18\. května – schůze výboru
-* \[zálesák\] bude upřesněno – výprava Křivoklátsko (CHKO Křivoklátsko)
+* \[zálesák\] 19.–21. května – výprava Křivoklátsko (CHKO Křivoklátsko)
 
 ## červen 2017
 
 * 3\. června 15:00 – den dětí
+* \[zálesák\] 9\.–11. června – výprava Novohradské hory (Nové Hrady)
 * 15\. června – schůze výboru (pouze v případě, že bude něco k řešení)
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
 * 21\. června – [T-Mobile olympijský běh](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
 * 30\. června – Slavnostní zakončení cvičebního roku (Klánovice)
-* \[zálesák\] bude upřesněno – výprava Novohradské hory (Nové Hrady)
 
 ## září 2017
 
