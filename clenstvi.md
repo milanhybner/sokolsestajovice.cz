@@ -18,15 +18,13 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 1. [Vyplňte přihlášku online](https://goo.gl/forms/2LCaS4E1x8TJD8zb2){:target="_blank"},
 2. na e-mail uvedený v přihlášce je automaticky odeslán PDF dokument předvyplněný údaji z přihlášky; dokument zkontrolujte, vytiskněte, podepište a přineste Vašemu cvičiteli,
-3. uhraďte převodem na účet příspěvky, [viz níže](#pspvky)
+3. uhraďte převodem na účet příspěvky
 
 # Příspěvky
 
-Každý člen Sokola hradí **členský příspěvek** člena České obce sokolské. Ten činí pro rok 2017 pro členy ve věku 18-64 let 550 Kč a pro členy mladší než 18 let nebo starší 65 let 250 Kč. Členský příspěvek se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Stávající členové hradí členský příspěvek v lednu; na základě jeho zaplacení obdrží na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
+Příspěvek člena České obce sokolské (**členský příspěvek**) se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Většinou také chcete cvičit a aktivně navštěvovat nějaký oddíl; pak je třeba uhradit ještě **oddílový příspěvek**. Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června.
 
-Údaje pro zaslání příspěvků bankovním převodem se vám zobrazí po vyplnění následujícího formuláře, případně si je vyhledejte [ve článku k platbám]({{relative}}/2017/02/08/prispevky.html). Při hrazení členského a oddílového příspěvku uhraďte prosím každý příspěvek samostatným příkazem s příslušným variabilním symbolem.
-
-Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit ještě **oddílový příspěvek**. Abyste se mohli stát členem oddílu, musíte být členem ČOS (výjimka – viz níže). Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června. 
+Údaje pro zaslání příspěvků se zobrazí po vyplnění následujícího formuláře. ([Formulář nefunguje? Pak čtěte zde]({{relative}}/2017/02/08/prispevky.html)) Při hrazení členského a oddílového příspěvku uhraďte prosím každý příspěvek samostatným příkazem s příslušným variabilním symbolem.
 
 <form action="" id="form" onsubmit="return false;"><div class="row uniform">
 <div class="6u 12u$(small)">
@@ -68,6 +66,7 @@ Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit
 </form>
 <div id="zobraz"></div>
 
+---
 
 * _Poznámka k oddílu rodičů a dětí:_ **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2800,– Kč/rok.*
 
@@ -76,6 +75,10 @@ Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit
 * Platby v hotovosti přijímáme ve výjimečných případech. Důvodem je přehlednost plateb a nezdržování samotného cvičení administrativními úkony.
 
 * Pokud se chcete stát členy Sokola, ale nebudete navštěvovat žádný oddíl, oddílový příspěvek neplatíte. Stane se z vás takzvaný „přispívající člen“ a podpoříte tak činnost sokolského hnutí po celé republice.
+
+* Stávající členové hradí členský příspěvek v lednu.
+
+* Členové obdrží na základě zaplacení členského příspěvku na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
 
 # Líbí se Vám sokolská myšlenka a filosofie?
 
