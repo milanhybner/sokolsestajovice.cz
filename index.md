@@ -4,7 +4,7 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-**Parkour a trampolíny se tento týden ruší** z důvodu nemoci cvičitele. Kondiční cvičení mužů bude probíhat dohromady s kondičním cvičením žen. Více na stránkách oddílů ([parkour]({{relative}}/oddily/parkour/), [trampolíny]({{relative}}/trampoliny/), [muži]({{relative}}/oddily/muzi/)).
+O svátcích necvičíme, děkujeme za pochopení.
 
 ---
 
