@@ -22,7 +22,11 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 # Příspěvky
 
-Údaje pro zaslání příspěvků bankovním převodem se vám zobrazí po vyplnění následujícího formuláře, případně si je vyhledejte [ve článku k platbám]({{relative}}/2017/02/08/prispevky.html).
+Každý člen Sokola hradí **členský příspěvek** člena České obce sokolské. Ten činí pro rok 2017 pro členy ve věku 18-64 let 550 Kč a pro členy mladší než 18 let nebo starší 65 let 250 Kč. Členský příspěvek se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Stávající členové hradí členský příspěvek v lednu; na základě jeho zaplacení obdrží na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
+
+Údaje pro zaslání příspěvků bankovním převodem se vám zobrazí po vyplnění následujícího formuláře, případně si je vyhledejte [ve článku k platbám]({{relative}}/2017/02/08/prispevky.html). Při hrazení členského a oddílového příspěvku uhraďte prosím každý příspěvek samostatným příkazem s příslušným variabilním symbolem.
+
+Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit ještě **oddílový příspěvek**. Abyste se mohli stát členem oddílu, musíte být členem ČOS (výjimka – viz níže). Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června. 
 
 <form action="" id="form" onsubmit="return false;"><div class="row uniform">
 <div class="6u 12u$(small)">
@@ -64,17 +68,8 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 </form>
 <div id="zobraz"></div>
 
----
 
-Při hrazení členského a oddílového příspěvku uhraďte prosím každý příspěvek samostatným příkazem s příslušným variabilním symbolem.
-
-_Poznámka k oddílu rodičů a dětí:_ **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2800,– Kč/rok.*
-
-# Podrobnější informace
-
-* Každý člen Sokola hradí **členský příspěvek** člena České obce sokolské. Ten činí pro rok 2017 pro členy ve věku 18-64 let 550 Kč a pro členy mladší než 18 let nebo starší 65 let 250 Kč. Členský příspěvek se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Stávající členové hradí členský příspěvek v lednu; na základě jeho zaplacení obdrží na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
-
-* Pokud chcete cvičit a aktivně navštěvovat nějaký oddíl, je třeba uhradit ještě **oddílový příspěvek**. Abyste se mohli stát členem oddílu, musíte být členem ČOS (výjimka – viz níže). Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června. 
+* _Poznámka k oddílu rodičů a dětí:_ **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2800,– Kč/rok.*
 
 * V případě, že cvičenec není členem Sokola, je oddílový poplatek 4250,– Kč za rok pro jakýkoli oddíl. Cena pro nesokolskou veřejnost je vyšší a vychází z reálných nákladů. Důvodem jsou dotace, které jako Sokol získáváme a hradíme z těchto prostředků další náklady s aktivitami sokolských cvičenců spojené. Cena je tedy pro členy nižší a to o dotace, granty a jiné pro Sokol získané finanční prostředky, závazně použitelné pouze pro členy Sokola.
 
@@ -86,9 +81,7 @@ _Poznámka k oddílu rodičů a dětí:_ **Oddíl rodičů a dětí** hradí 200
 
 Přečtěte si o Sokole na stránkách [České obce sokolské](http://www.sokol.eu/menu/18), na stránkách [župy Barákovy](http://www.zbarakova.cz/) nebo na informačním serveru [Sokol.cz](http://www.sokol.cz/sokol).
 
-**Chcete nás podpořit?**
-
-Hledáme cvičitele a dobrovolníky ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. Rodinní příslušníci cvičitelů a činovníků T.J. Sokol Šestajovice nehradí oddílový příspěvek. V případě zájmu nás prosím [kontaktujte prostřednictvím formuláře níže](#f).
+**Hledáme cvičitele a dobrovolníky** ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. Rodinní příslušníci cvičitelů a činovníků T.J. Sokol Šestajovice nehradí oddílový příspěvek. V případě zájmu nás prosím [kontaktujte prostřednictvím formuláře níže](#f).
 
 Také nás můžete podpořit [nakoupením v e-shopu prostřednictvím _givt_](https://givt.cz/RAOSset.php?organizationId=2903) – nezaplatíte nic navíc, přesto nám přispějete.
 
