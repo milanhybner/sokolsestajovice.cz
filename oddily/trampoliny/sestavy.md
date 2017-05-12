@@ -95,7 +95,7 @@ Sestava na MČR a pohárové soutěže
 | 10      | F 1 -   | vztyk                     | 0,1 |
 | Celkem  |         | Ko                        | 0,9 |
 
-| Level5 |    Ko   |                           |     |
+| Level 5 |    Ko   |                           |     |
 |--------|---------|---------------------------|-----|
 | 1      | 4-o     | Salto vzad sbalené        | 0,5 |
 | 2      | - - 0   | Skrčka                    | 0,0 |
@@ -108,6 +108,19 @@ Sestava na MČR a pohárové soutěže
 | 9      | .. <    | Schylka                   | 0,0 |
 | 10     | F 4 - o | Salto vpřed sbalené       | 0,5 |
 | Celkem |         | Ko                        | 1,5 |
+
+| Level 6 |    Ko   |                    |     |
+|---------|---------|--------------------|-----|
+|       1 | 4 - <   | Salto vzad schylmo | 0,6 |
+|       2 | - - o   | Skrčka             | 0,0 |
+|       3 | 4 - o   | Salto vzad sbaleně | 0,5 |
+|       4 | - - sed | Sed                | 0,0 |
+|       5 | F 1 -   | Břicho             | 0,1 |
+|       6 | B 1 1   | Vztyk s půlvrutem  | 0,2 |
+|       7 | - - r   | Roznožka           | 0,0 |
+|       8 | - 1     | Půl vrut           | 0,1 |
+|       9 | - - <   | Schylka            | 0,0 |
+|      10 | F 4 1 < | Barani schylmo     | 0,6 |
 
 | Level 7 |    Ko   |                        |     |
 |---------|---------|------------------------|-----|
