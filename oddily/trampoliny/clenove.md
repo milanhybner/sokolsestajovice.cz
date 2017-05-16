@@ -4,14 +4,9 @@ title: Trampolíny
 permalink: /trampoliny/
 ---
 
-Vážení rodiče,
-
-z důvodu nemoci vedoucího oddílu a nepřítomnosti cvičitelky se trénink dne 25. dubna 2017 ruší.
-
-Děkujeme za pochopení
-
-_cvičitelský tým_
-
+<!--
+http://trampolinypraha.cz/letni-bublanina-2017/letni-bublanina-2017.html
+-->
 
 ## Kontakty
 

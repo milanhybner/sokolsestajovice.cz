@@ -4,25 +4,35 @@ title: Oddíl parkouru
 permalink: /oddily/parkour/
 ---
 
-Tréninky v pondělí 24. a ve středu 26. dubna jsou zrušeny z důvodu nemoci cvičitele. Nahrazeny budou 5. a 7. června 2017.
-
----
-
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Tréninky v 2. pololetí cvičebního roku budou v následující dny:
 
-* středa 10.5.
-* pondělí 15.5.
-* středa 17.5.
-* pondělí 22.5.
-* pondělí 29.5.
-* pondělí 5.6.
-* středa 7.6.
 
-Pokud není domluveno jinak, tréninky jsou od 17:00 do 18:00, sraz a rozchod před ZŠ Šestajovice.
+**Středa 17.5.**
+
+* Trénink bude probíhat na Černém Mostě.
+* Místo srazu v 17:00 – na zastávce autobusů ze směru Šestajovice: <https://mapy.cz/s/1Eug4>
+* Zde budu čekat na autobus č. 303, který v 17:00 přijede ze Šestajovic, a vyzvednu všechni, co jím přijedou.
+* Místo srazu v 17:05 a rozchodu v 17:55 je na náměstíčku s fontánkou před stanicí metra směrem k obchodnímu centru Černý Most: <https://mapy.cz/s/1EugC>
+* Po skončení tréninku pojedu v 17:58 autobusem č. 344 přes Šestajovice a vezmu kohokoli, kdo pojede tímto směrem.
+* Trénovat budeme na nedalekém místě mezi panelovými domy: <https://mapy.cz/s/1EufD>
+
+
+**Pondělí 22.5.**
+
+Trénink bude probíhat od 17:00 na posilovacím hřišti u zastávky autobusu Šestajovice, Balkán.
+
+
+**Pondělí 29.5.**
+
+**Pondělí 5.6.**
+
+**Středa 7.6.**
 
 ---
+
+Pokud není uvedeno jinak, tréninky jsou od 17:00 do 18:00, sraz a rozchod před ZŠ Šestajovice.
 
 Více o parkouru na [sokol.eu](http://sokol.eu/obsah/3371/).
 

@@ -4,10 +4,6 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-O svátcích necvičíme, děkujeme za pochopení.
-
----
-
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
