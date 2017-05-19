@@ -4,6 +4,10 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+Cvičení rodičů a dětí dne 22.5.2017 odpadá a bude nahrazeno v úterý dne 23.5.2017 v hale v čase 17:00 až 18:00.
+
+---
+
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
