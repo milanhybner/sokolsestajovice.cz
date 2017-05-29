@@ -4,30 +4,6 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-Cvičení rodičů a dětí dne 22.5.2017 odpadá a bude nahrazeno v úterý dne 23.5.2017 v hale v čase 17:00 až 18:00.
-
----
-
-Dobrý den, vážení rodiče dětí docházejících na Míčové hry Sokola Šestajovice.
-
-Dovoluji si Vám oznámit
-
-zrušení hodiny míčových her dne 26.5.2017
-
-vzhledem k vyhlášenému ředitelskému volnu ZŠ Šestajovice.
-
-V následujícím týdnu hodina proběhne v obvyklém termínu.
-
-Děkuji za pochopení.
-
-S pozdravem a přáním příjemných dnů
-
-za T.J. Sokol Šestajovice,
-
-Eva Vaňková
-
----
-
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
