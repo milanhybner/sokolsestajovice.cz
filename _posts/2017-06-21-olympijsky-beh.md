@@ -1,6 +1,6 @@
 ---
 title: Olympijský běh
-excerpt:
+excerpt: Více na [www.olympijskybeh.cz/zavody/praha-sestajovice/](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
 ---
 
 Více na [www.olympijskybeh.cz/zavody/praha-sestajovice/](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
