@@ -6,11 +6,9 @@ permalink: /kalendar/
 
 ## červen 2017
 
-* 3\. června 15:00 – den dětí
-* \[zálesák\] 9\.–11. června – výprava Novohradské hory (Nové Hrady)
-* 15\. června – schůze výboru (pouze v případě, že bude něco k řešení)
+* 13\. června – schůze výboru
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
-* 21\. června – [T-Mobile olympijský běh](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
+* 21\. června – [T-Mobile olympijský běh](http://www.sokolsestajovice.cz/2017/06/21/olympijsky-beh.html)
 * 30\. června – Slavnostní zakončení cvičebního roku (Klánovice)
 
 ## září 2017
@@ -23,7 +21,7 @@ permalink: /kalendar/
 
 ## říjen 2017
 
-* 8\. října – Šestajovická šestka
+* 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/2017/10/08/sestajovicka-sestka.html)
 * 8\. října – Památný den sokolstva (Šestajovice)
 * 28\. října – Oslava Den vzniku Československa (Šestajovice)
 
@@ -65,3 +63,8 @@ permalink: /kalendar/
 * \[zálesák\] 8\. května – Oslava Dne osvobození (Šestajovice + Praha-Vítkov)
 * 18\. května – schůze výboru
 * \[zálesák\] 19.–21. května – výprava Křivoklátsko (CHKO Křivoklátsko)
+
+## červen 2017
+
+* 3\. června 15:00 – den dětí
+* \[zálesák\] 9\.–11. června – výprava Novohradské hory (Nové Hrady)

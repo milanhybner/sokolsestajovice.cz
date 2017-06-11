@@ -19,3 +19,8 @@ Více na [www.olympijskybeh.cz/zavody/praha-sestajovice/](http://www.olympijskyb
 * 17:30 – 17:50 registrace k hlavnímu závodu (rok narození 2001 a nižší)
 * **18:00 start dospělí (5 km)**
 * cca 18:45 vyhlášení výsledků hlavního závodu
+
+
+---
+
+Akci pořádáme ve spolupráci a za finanční podpory [obce Šestajovice](http://www.sestajovice.cz).
