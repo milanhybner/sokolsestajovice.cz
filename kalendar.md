@@ -6,10 +6,9 @@ permalink: /kalendar/
 
 ## červen 2017
 
-* 13\. června – schůze výboru
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
 * 21\. června – [T-Mobile olympijský běh](http://www.sokolsestajovice.cz/2017/06/21/olympijsky-beh.html)
-* 30\. června – Slavnostní zakončení cvičebního roku (Klánovice)
+* 30\. června 17:00 – Slavnostní zakončení cvičebního roku (Klánovice)
 
 ## září 2017
 
@@ -68,3 +67,4 @@ permalink: /kalendar/
 
 * 3\. června 15:00 – den dětí
 * \[zálesák\] 9\.–11. června – výprava Novohradské hory (Nové Hrady)
+* 13\. června – schůze výboru
