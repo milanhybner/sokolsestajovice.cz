@@ -4,6 +4,23 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+**Zrušení hodiny míčových her.**
+
+Je mi líto, ale bohužel musím zrušit zítřejší hodinu míčových her, protože mi onemocněla dcera a není k dispozici náhradní cvičitel.
+
+Poslední - rozlučková - hodina se uskuteční příští týden - v pátek dne 23.6.2017.
+
+[Závěrečné rozloučení se školním sokolským rokem](http://www.sokolsestajovice.cz/2017/06/30/slavnostni-zakonceni-roku.html), na které jste zvaní společně se svými dětmi se koná na kynologickém cvičišti v Klánovicích dne 30.6.2017 od 17:00 hod. Budeme hrát hry i opékat buřty.
+
+Ještě jednou se za zítřek omlouvám a moc děkuji za pochopení.
+
+Za T.J. Sokol Šestajovice,
+
+Eva Vaňková
+ 
+---
+
+
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
