@@ -106,6 +106,6 @@ Zlatý věk prožil Sokol mezi světovými válkami (1918–1938), kdy se stal m
 
 Likvidace Sokola nastala třikrát. Stal se nepohodlným pro všechny totalitní režimy našich dějin. Poprvé byl zakázán za války v roce 1915, podruhé jej krutě rozprášili nacisté v roce 1941 a potřetí jej pohltila "sjednocená tělovýchova" po roce 1948. Snahy o obnovu Sokola v roce 1968 udusila normalizace a teprve v lednu 1990 byl vzkříšen - již počtvrté - k novému životu.
 
-Nová éra Sokola nezačala lehce. Musel bojovat o navrácení svého majetku a zažívá i problémy generační. Dnes sdružuje Česká obec sokolská (ČOS) zhruba 1100 jednot a 190 000 členů. Skoro polovina dochází do sportovních oddílů, které přispívají k omlazení sokolských řad. Také do řídících orgánů nastupuje stále více mladých činovníků.
+Nová éra Sokola nezačala lehce. Musel bojovat o navrácení svého majetku a zažívá i problémy generační. Dnes sdružuje Česká obec sokolská (ČOS) zhruba 1000 jednot a 160 000 členů. Skoro polovina dochází do sportovních oddílů, které přispívají k omlazení sokolských řad. Také do řídících orgánů nastupuje stále více mladých činovníků.
 
 Nové formy prezentace. Sokol dnes nabízí veřejnosti program moderních pohybových aktivit formou netradičních akcí „Takoví jsme dnes“, pořádáním Sokolgymu, soutěží Euroteam aj. Česká obec sokolská spolupracuje s organizacemi, které mají ve svém programu „Sport pro všechny“ u nás i na mezinárodní úrovni (TAFISA, ISCA aj.) a sokolští cvičenci reprezentují ČR i na světových gymnaestrádách.

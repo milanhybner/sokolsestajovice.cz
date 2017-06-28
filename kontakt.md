@@ -27,11 +27,12 @@ Mgr. Milan Hybner
 [nacelnik@sokolsestajovice.cz](mailto:nacelnik@sokolsestajovice.cz)  
 776 412 328
 
-Náčelník zodpovídá za oddíl 
-[parkouru]({{ relative }}{{site.data.oddil.parkour.dlouhe-url}}), 
-[trampolín]({{ relative }}{{site.data.oddil.trampoliny.dlouhe-url}}), 
-[míčových her]({{ relative }}{{site.data.oddil.micovky.dlouhe-url}}), 
-[florbalu]({{ relative }}{{site.data.oddil.florbal.dlouhe-url}}) a 
+Náčelník zodpovídá za oddíl
+[parkouru]({{ relative }}{{site.data.oddil.parkour.dlouhe-url}}),
+[trampolín]({{ relative }}{{site.data.oddil.trampoliny.dlouhe-url}}),
+[míčových her]({{ relative }}{{site.data.oddil.micovky.dlouhe-url}}),
+[florbalu]({{ relative }}{{site.data.oddil.florbal.dlouhe-url}}),
+[kondičního cvičení mužů]({{ relative }}{{site.data.oddil.florbal.dlouhe-url}}),
 [zálesáka]({{ relative }}{{site.data.oddil.zalesak.dlouhe-url}}).
 
 ### Náčelnice
@@ -64,7 +65,7 @@ Eva Vaňková
 ### Kontrolní komise
 
 Rudolf Filip  
-přeseda  
+předseda  
 [kk@sokolsestajovice.cz](mailto:kk@sokolsestajovice.cz)  
 
 Kontakty na vedoucí jednotlivých oddílů naleznete [na stránkách oddílů](/index.html#oddily).

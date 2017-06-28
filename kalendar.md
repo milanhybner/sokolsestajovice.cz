@@ -31,6 +31,8 @@ permalink: /kalendar/
 
 ---
 
+Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy Barákovy](https://airtable.com/shrB0jgejZMvEXFMJ/tblWoZJfcbaOsz5BL?backgroundColor=cyan&viewControls=on)
+
 # Proběhlé akce
 
 ## leden 2017

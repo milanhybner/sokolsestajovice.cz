@@ -8,13 +8,13 @@ permalink: /oddily/
 
 Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte na příslušný oddíl.
 
-|    | 14:00 |      15:00       | 16:00 |      17:00       |       19:00       |
-|----|-------|------------------|-------|------------------|-------------------|
-| Po |       | [TAN]<br />[VŠE] |       | [RaD]            | [ŽEN]<br />[MUŽ]  |
-| Út |       |                  | [TR1] | [TR2]            |                   |
-| St |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |                   |
-| Čt |       |                  | [FL1] | [FL1]/[FL2]      | [FL2]<br />[ZDR]* |
-| Pá | [MÍČ] |                  |       |                  |                   |
+|    | 14:00 |      15:00       | 16:00 |      17:00       | 18:00 |       19:00       |
+|----|-------|------------------|-------|------------------|-------|-------------------|
+| Po |       | [TAN]<br />[VŠE] |       | [RaD]            |       | [ŽEN]<br />[MUŽ]  |
+| Út |       |                  | [TR1] | [TR2]            |       |                   |
+| St |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |       |                   |
+| Čt |       |                  | [FL1] | [FL1]/[FL2]      |       | [FL2]<br />[ZDR]* |
+| Pá | [MÍČ] |                  |       |                  |       |                   |
 
 [TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"
 [VŠE]: http://www.sokolsestajovice.cz/{{site.data.oddil.vsestrannost.dlouhe-url}} "Všestrannost"
@@ -34,7 +34,6 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 
 
 \* Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.
-
 
 ## Seznam oddílů
 
