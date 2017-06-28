@@ -6,13 +6,13 @@ permalink: /kalendar/
 
 ## červen 2017
 
-* \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
-* 21\. června – [T-Mobile olympijský běh](http://www.sokolsestajovice.cz/2017/06/21/olympijsky-beh.html)
-* 30\. června 17:00 – Slavnostní zakončení cvičebního roku (Klánovice)
+* 30\. června 17:00 – [Slavnostní zakončení cvičebního roku (Klánovice)](http://www.sokolsestajovice.cz/2017/06/30/slavnostni-zakonceni-roku.html)
+
 
 ## září 2017
 
 * 22\. – 24. září – [Sletová štafeta](http://www.zbarakova.cz/slet/stafeta.html)
+* 24\. září – Vzpomínková akce na manžele Staré
 * \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
 * \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
 * bude upřesněno – veletrh kroužků Klánovice
@@ -68,3 +68,5 @@ permalink: /kalendar/
 * 3\. června 15:00 – den dětí
 * \[zálesák\] 9\.–11. června – výprava Novohradské hory (Nové Hrady)
 * 13\. června – schůze výboru
+* \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
+* 21\. června – [T-Mobile olympijský běh](http://www.sokolsestajovice.cz/2017/06/21/olympijsky-beh.html)
