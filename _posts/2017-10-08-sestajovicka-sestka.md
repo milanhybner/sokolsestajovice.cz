@@ -12,6 +12,8 @@ Chcete se aktivně zúčastnit, ale nechcete nebo nemůžete běhat? Zúčastně
 
 Podívejte se na [výsledky](https://airtable.com/shr87059aLyUBQluR) nebo [foto](http://www.rajce.net/a12031180/) [galerie](http://www.rajce.net/a13364942) z minulých let.
 
+Akce je pořádána ve spolupráci s obcí Šestajovice. Akce byla finančně podpořena z grantu Odboru všestrannosti České obce sokolské pro podporu projektů veřejně přístupných sportovních a tělovýchovných akcí.
+
 ---
 
 ![sestka2017-logo-horizontalni.png]({{relative}}/images/sestka2017-logo-horizontalni.png){:.image .fit}

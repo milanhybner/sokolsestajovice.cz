@@ -1,9 +1,15 @@
 ---
 title: Olympijský běh
-excerpt: Více na [www.olympijskybeh.cz/zavody/praha-sestajovice/](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
+excerpt: Výsledky a fotogalerie
 ---
 
-Více na [www.olympijskybeh.cz/zavody/praha-sestajovice/](http://www.olympijskybeh.cz/zavody/praha-sestajovice/)
+[Výsledky](http://www.olympijskybeh.cz/vysledky/praha-sestajovice/){:.button}
+
+[Fotogalerie](http://sokolsestajovice.rajce.idnes.cz/T-mobile_Olympijsky_beh/){:.button}
+
+---
+
+Proběhl 21. 6. 2017.
 
 ## Časový harmonogram
 
