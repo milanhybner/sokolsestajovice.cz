@@ -4,13 +4,10 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-## červen 2017
-
-* 30\. června 17:00 – [Slavnostní zakončení cvičebního roku (Klánovice)](http://www.sokolsestajovice.cz/2017/06/30/slavnostni-zakonceni-roku.html)
-
 
 ## září 2017
 
+* 6\. září 15:00 – 18:30 Veletrh kroužků v Klánovicích
 * 22\. – 24. září – [Sletová štafeta](http://www.zbarakova.cz/slet/stafeta.html)
 * 24\. září – Vzpomínková akce na manžele Staré
 * \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
@@ -72,3 +69,4 @@ Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy B
 * 13\. června – schůze výboru
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
 * 21\. června – [T-Mobile olympijský běh](http://www.sokolsestajovice.cz/2017/06/21/olympijsky-beh.html)
+* 30\. června 17:00 – [Slavnostní zakončení cvičebního roku (Klánovice)](http://www.sokolsestajovice.cz/2017/06/30/slavnostni-zakonceni-roku.html)
