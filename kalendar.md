@@ -4,6 +4,7 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
+* 31\. srpna 19:00 Schůze výboru jednoty
 
 ## září 2017
 
