@@ -13,7 +13,6 @@ permalink: /kalendar/
 * 24\. září – Vzpomínková akce na manžele Staré
 * \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
 * \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
-* bude upřesněno – veletrh kroužků Klánovice
 * 30\. září – župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
 
 ## říjen 2017
