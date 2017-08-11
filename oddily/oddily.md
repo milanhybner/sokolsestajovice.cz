@@ -4,7 +4,185 @@ title: Oddíly
 permalink: /oddily/
 ---
 
-## Rozvrh
+# Pondělí
+
+<section class="tiles" id="oddily">
+  <article class="style1">
+    <span class="image">
+      <img src="{{relative}}/images/pic01.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.vsestrannost.dlouhe-url}}/">
+      <h2>Všestrannost</h2>
+      <div class="content">
+        <p>15:00 – 15:45 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
+  <article class="style5">
+    <span class="image">
+      <img src="{{relative}}/images/pic17.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.tanec.dlouhe-url}}/">
+      <h2>Tanec</h2>
+      <div class="content">
+        <p>15:00 – 15:45 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
+  <article class="style6">
+    <span class="image">
+      <img src="{{relative}}/images/pic11.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.rd.dlouhe-url}}">
+      <h2>Rodiče a děti</h2>
+      <div class="content">
+        <p>17:00 – 18:00 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
+  <article class="style6">
+    <span class="image">
+      <img src="{{relative}}/images/pic06.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.zeny.dlouhe-url}}/">
+      <h2>Kondiční cvičení</h2>
+      <div class="content">
+        <p>19:00 – 20:00 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
+  <article class="style2">
+    <span class="image">
+      <img src="{{relative}}/images/muzi.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.muzi.dlouhe-url}}/">
+      <h2>Muži</h2>
+      <div class="content">
+        <p>19:00 – 20:00 ve velké sportovní hale. Cvičení mužů. Síla, rychlost, vytrvalost.</p>
+      </div>
+    </a>
+  </article>
+</section>
+
+<p><br /></p>
+
+---
+
+# Úterý
+
+<section class="tiles" id="oddily">
+  <article class="style4">
+    <span class="image">
+      <img src="{{relative}}/images/pic04.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.trampoliny.dlouhe-url}}/">
+      <h2>Trampolíny</h2>
+      <div class="content">
+        <p>16:00 – 17:00 a 17:00 – 18:00 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
+</section>
+
+<p><br /></p>
+
+---
+
+# Středa
+
+<section class="tiles" id="oddily">
+  <article class="style3">
+    <span class="image">
+      <img src="{{relative}}/images/pic03.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.zalesak.dlouhe-url}}/">
+      <h2>Zálesák</h2>
+      <div class="content">
+        <p>16:30 – 18:30</p>
+      </div>
+    </a>
+  </article>
+  <article class="style5">
+    <span class="image">
+      <img src="{{relative}}/images/pic05.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.tanecky.dlouhe-url}}/">
+      <h2>Tanečky a rytmika</h2>
+      <div class="content">
+        <p>17:00 – 18:00 ZŠ Šestajovice</p>
+      </div>
+    </a>
+  </article>
+</section>
+
+<p><br /></p>
+
+---
+
+# Čtvrtek
+
+<section class="tiles" id="oddily">
+  <article class="style2">
+    <span class="image">
+      <img src="{{relative}}/images/pic07.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.florbal.dlouhe-url}}/">
+      <h2>Florbal</h2>
+      <div class="content">
+        <p>Oddíl florbalu pro věkovou kategorii mladších žáků (1.–5. třída) od 16:00 a starších žáků (6.–9. třída) od 17:30 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
+  <article class="style1">
+    <span class="image">
+      <img src="{{relative}}/images/parkour.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.parkour.dlouhe-url}}">
+      <h2>Parkour</h2>
+      <div class="content">
+        <p>Pro dospívající i dospělé. Umění přesunu z jednoho bodu do druhého v jakémkoli prostředí. Trénink odvahy, disciplíny a soustředění. Rozvoj síly, obratnosti a pohyblivosti.</p>
+      </div>
+    </a>
+  </article>
+  <article class="style4">
+    <span class="image">
+      <img src="{{relative}}/images/pic16.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.zdravotni.dlouhe-url}}/">
+      <h2>Zdravotní cvičení</h2>
+      <div class="content">
+        <p>Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.</p>
+      </div>
+    </a>
+  </article>
+</section>
+
+<p><br /></p>
+
+---
+
+# Pátek
+
+<section class="tiles" id="oddily">
+  <article class="style2">
+    <span class="image">
+      <img src="{{relative}}/images/micovky.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.micovky.dlouhe-url}}/">
+      <h2>Míčové hry</h2>
+      <div class="content">
+        <p>práce s míčem<br />pravidla míčových her<br />všestranná průprava pro míčové hry</p>
+      </div>
+    </a>
+  </article>
+</section>
+
+<p><br /></p>
+
+---
+
+
+# Rozvrh
 
 Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte na příslušný oddíl.
 
@@ -32,8 +210,6 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
 [MUŽ]: http://www.sokolsestajovice.cz/{{site.data.oddil.muzi.dlouhe-url}} "Oddíl mužů"
 
-
-\* Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.
 
 ## Seznam oddílů
 

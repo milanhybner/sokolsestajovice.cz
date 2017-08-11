@@ -68,6 +68,6 @@ Rudolf Filip
 předseda  
 [kk@sokolsestajovice.cz](mailto:kk@sokolsestajovice.cz)  
 
-Kontakty na vedoucí jednotlivých oddílů naleznete [na stránkách oddílů](/index.html#oddily).
+Kontakty na vedoucí jednotlivých oddílů naleznete [na stránkách oddílů]({{ relative }}/oddily/).
 
 _Nevíte, koho kontaktovat? Využijte formulář níže._
