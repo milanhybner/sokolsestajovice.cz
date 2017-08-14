@@ -11,12 +11,68 @@ permalink: /oddily/florbal/
 [](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
 [Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)
 
-Probíhá každý čtvrtek ve sportovní hale, U Váhy 1000, Šestajovice:
+Probíhá ve sportovní hale, U Váhy 1000, Šestajovice:
 
-* mladší žáci (1.–5. třída): čtvrtek 16:00 – 17:30
-* starší žáci (6.–9. třída): čtvrtek 17:30 – 19:00
+## Předběžné rozdělení hráčů do skupin
 
-Od září 2017 budou probíhat tréninky i v úterý od 16:00.
+**Elévové**
+
+* Angelovič Filip
+* Böhm Dominik
+* Čejka Ondřej
+* Havelková Eliška
+* Hlista Jakub
+* Hraník Matyáš
+* Hubálek Jan
+* Kinzler Kryštof
+* Kroupa Matěj
+* Němec Štěpán
+* Pavlík Tomáš
+* Pospíšil Vojtěch
+* Pšenička Richard
+* Sikačová Vendula
+* Šilhan Filip
+* (Synecký Petr)
+* Tichý Lukáš
+* (Tresčák Filip)
+* Votoček Lukáš
+* Čech Filip
+* Holub Mikuláš
+* noví členové: Filip, Patrik
+
+**Mladší žáci**
+
+* Alexandr Jan
+* Boháček Jiří
+* Hruška Vít
+* (Jochová Kristýna)
+* Netušil Matyáš
+* Novák Šimon
+* (Seres Jan)
+* Ševěček Petr
+* (Škarka Samuel)
+* (Tresčák Jakub)
+* Woller Adam
+* Kotek Štěpán
+* Pecka Václav
+* nový člen: Filip
+
+**Starší žáci**
+
+* Dohnal Šimon
+* Halačka Petr
+* Houžvička Matěj
+* Hruška Jan
+* Jaroš Lukáš
+* Kubíšková Markéta
+* Kuchař Ivan František
+* Kuda Jan
+* Satran Marek
+* Sobota Jiří
+* Watson Jones Jakub
+* Wolf Otakar
+
+
 
 ## Kontakt
 
