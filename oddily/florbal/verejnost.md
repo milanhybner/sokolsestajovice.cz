@@ -47,7 +47,6 @@ Hráči psaní kurzívou vyjádřili zájem o účast v lize (soutěži pod ČFb
 * Alexandr Jan
 * Boháček Jiří
 * Hruška Vít
-* (Jochová Kristýna)
 * Netušil Matyáš
 * Novák Šimon
 * (Seres Jan)
