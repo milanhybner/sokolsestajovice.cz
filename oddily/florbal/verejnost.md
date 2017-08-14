@@ -17,25 +17,27 @@ Probíhá ve sportovní hale, U Váhy 1000, Šestajovice:
 
 **Elévové**
 
-* Angelovič Filip
+Hráči psaní kurzívou vyjádřili zájem o účast v lize (soutěži pod ČFbU).
+
+* _Angelovič Filip_
 * Böhm Dominik
-* Čejka Ondřej
+* _Čejka Ondřej_
 * Havelková Eliška
-* Hlista Jakub
+* _Hlista Jakub_
 * Hraník Matyáš
 * Hubálek Jan
-* Kinzler Kryštof
+* _Kinzler Kryštof_
 * Kroupa Matěj
 * Němec Štěpán
-* Pavlík Tomáš
-* Pospíšil Vojtěch
-* Pšenička Richard
-* Sikačová Vendula
-* Šilhan Filip
+* _Pavlík Tomáš_
+* _Pospíšil Vojtěch_
+* _Pšenička Richard_
+* _Sikačová Vendula_
+* _Šilhan Filip_
 * (Synecký Petr)
-* Tichý Lukáš
-* (Tresčák Filip)
-* Votoček Lukáš
+* _Tichý Lukáš_
+* _(Tresčák Filip)_
+* _Votoček Lukáš_
 * Čech Filip
 * Holub Mikuláš
 * noví členové: Filip, Patrik
