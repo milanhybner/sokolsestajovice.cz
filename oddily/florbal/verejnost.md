@@ -5,6 +5,8 @@ oddil: florbal
 permalink: /oddily/florbal/
 ---
 
+![Florbalový tým T.J. Sokol Šestajovice]({{relative}}/images/logo-florbal-hor.jpeg){:.image .fit}
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 

@@ -82,6 +82,17 @@ permalink: /oddily/
       </div>
     </a>
   </article>
+  <article class="style2">
+    <span class="image">
+      <img src="{{relative}}/images/logo-florbal.png" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.florbal.dlouhe-url}}/">
+      <h2>Florbal</h2>
+      <div class="content">
+        <p>18:00 – 19:00 a 19:00 – 20:00 ve velké sportovní hale</p>
+      </div>
+    </a>
+  </article>
 </section>
 
 <p><br /></p>
@@ -124,7 +135,7 @@ permalink: /oddily/
 <section class="tiles" id="oddily">
   <article class="style2">
     <span class="image">
-      <img src="{{relative}}/images/pic07.jpg" alt="" />
+      <img src="{{relative}}/images/logo-florbal.png" alt="" />
     </span>
     <a href="{{ relative }}{{site.data.oddil.florbal.dlouhe-url}}/">
       <h2>Florbal</h2>
