@@ -11,7 +11,7 @@ Vážení rodiče, milí skokani, **začínáme už v pátek 1. září 2017** a
 Termíny tréninků:
 
 Pátek 1.9. od 18:00
-Pondělí 4.9. od 18:00
+Pondělí 4.9. od 17:00
 Středa 6.9. od 16:30 – vystoupení na veletrhu kroužků
 Čtvrtek 7. 9. – trénink se nekoná
 
