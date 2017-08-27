@@ -89,7 +89,7 @@ permalink: /oddily/
     <a href="{{ relative }}{{site.data.oddil.predskolaci.dlouhe-url}}/">
       <h2>Předškoláci</h2>
       <div class="content">
-        <p>16:30 – 17:30 Sportovní hala</p>
+        <p>16:30 – 17:30 ve velké sportovní hale</p>
       </div>
     </a>
   </article>
@@ -150,7 +150,7 @@ permalink: /oddily/
     <a href="{{ relative }}{{site.data.oddil.florbal.dlouhe-url}}/">
       <h2>Florbal</h2>
       <div class="content">
-        <p>Oddíl florbalu pro věkovou kategorii mladších žáků (1.–5. třída) od 16:00 a starších žáků (6.–9. třída) od 17:30 ve velké sportovní hale</p>
+        <p>Od 16:00 do 17:30 elévové a přípravka, od 17:30 do 19:00 mladší žáci, od 19:00 do 20:00 starší žáci a dorost – vše ve velké sportovní hale</p>
       </div>
     </a>
   </article>
