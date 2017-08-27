@@ -7,73 +7,79 @@ permalink: /oddily/florbal/
 
 ![Florbalový tým T.J. Sokol Šestajovice]({{relative}}/images/logo-florbal-hor.jpeg){:.image .fit}
 
-[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
+## Zápis
+
+**Nabíráme nové členy!** Přijďte se zaregistrovat v úterý 5. září 2017 do sportovní haly v Šestajovicích.
+
+<!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}-->
 
 
 [](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
 [Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)
 
-Probíhá ve sportovní hale, U Váhy 1000, Šestajovice:
+Probíhá ve sportovní hale, U Váhy 1000, Šestajovice.
+
 
 ## Předběžné rozdělení hráčů do skupin
 
-**Elévové**
+**Přípravka (2009 a mladší)**
 
-Hráči psaní kurzívou vyjádřili zájem o účast v lize (soutěži pod ČFbU).
+Němec Štěpán
+Holub Mikuláš
 
-* _Angelovič Filip_
-* Böhm Dominik
-* _Čejka Ondřej_
-* Havelková Eliška
-* _Hlista Jakub_
-* Hraník Matyáš
-* Hubálek Jan
-* _Kinzler Kryštof_
-* Kroupa Matěj
-* Němec Štěpán
-* _Pavlík Tomáš_
-* _Pospíšil Vojtěch_
-* _Pšenička Richard_
-* _Sikačová Vendula_
-* _Šilhan Filip_
-* (Synecký Petr)
-* _Tichý Lukáš_
-* _(Tresčák Filip)_
-* _Votoček Lukáš_
-* Čech Filip
-* Holub Mikuláš
-* noví členové: Filip, Patrik
+**Elévové (2007-2008)**
 
-**Mladší žáci**
+Böhm Dominik
+Čejka Ondřej – ČT
+Havelková Eliška 
+Hlista Jakub
+Hraník Matyáš
+Hubálek Jan
+Kinzler Kryštof
+Kroupa Matěj
+Pavlík Tomáš
+Pospíšil Vojtěch
+Pšenička Richard
+Sikačová Vendula
+Šilhan Filip
+Tichý Lukáš – ČT
+(Tresčák Filip)
+Votoček Lukáš
+Čech Filip – ČT 
+Woller Adam – ČT
 
-* Alexandr Jan
-* Boháček Jiří
-* Hruška Vít
-* Netušil Matyáš
-* Novák Šimon
-* (Seres Jan)
-* Ševěček Petr
-* (Škarka Samuel)
-* (Tresčák Jakub)
-* Woller Adam
-* Kotek Štěpán
-* Pecka Václav
-* nový člen: Filip
+**Mladší žáci (2006-2005)**
 
-**Starší žáci**
+Alexandr Jan
+Boháček Jiří
+Hruška Vít
+(Netušil Matyáš)
+(Seres Jan)
+Ševěček Petr
+(Škarka Samuel)
+(Tresčák Jakub)
+Pecka Václav
+Kotek Štěpán
+Wolf Otakar
 
-* Dohnal Šimon
-* Halačka Petr
-* Houžvička Matěj
-* Hruška Jan
-* Jaroš Lukáš
-* Kubíšková Markéta
-* Kuchař Ivan František
-* Kuda Jan
-* Satran Marek
-* Sobota Jiří
-* Watson Jones Jakub
-* Wolf Otakar
+**Starší žáci (2004-2003)**
+
+Novák Šimon
+Sobota Jiří
+Dohnal Šimon
+Běhounek Tomáš
+Halačka Petr
+Houžvička Matěj
+Hruška Jan
+Satran Marek
+
+**Dorostenci (2002 a starší)**
+
+Jaroš Lukáš
+Kubísková Markéta
+Kuchař Ivan František
+Kuda Jan
+Watson Jones Jakub
 
 
 
