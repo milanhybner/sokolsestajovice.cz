@@ -82,6 +82,28 @@ permalink: /oddily/
       </div>
     </a>
   </article>
+  <article class="style5">
+    <span class="image">
+      <img src="{{relative}}/images/predskolaci.png" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.predskolaci.dlouhe-url}}/">
+      <h2>Předškoláci</h2>
+      <div class="content">
+        <p>16:30 – 17:30 Sportovní hala</p>
+      </div>
+    </a>
+  </article>
+  <article class="style1">
+    <span class="image">
+      <img src="{{relative}}/images/parkour.jpg" alt="" />
+    </span>
+    <a href="{{ relative }}{{site.data.oddil.parkour.dlouhe-url}}">
+      <h2>Parkour</h2>
+      <div class="content">
+        <p>Pro dospívající i dospělé. Umění přesunu z jednoho bodu do druhého v jakémkoli prostředí. Trénink odvahy, disciplíny a soustředění. Rozvoj síly, obratnosti a pohyblivosti.</p>
+      </div>
+    </a>
+  </article>
   <article class="style2">
     <span class="image">
       <img src="{{relative}}/images/logo-florbal.png" alt="" />
@@ -113,18 +135,6 @@ permalink: /oddily/
       </div>
     </a>
   </article>
-  <article class="style5">
-    <span class="image">
-      <img src="{{relative}}/images/pic05.jpg" alt="" />
-    </span>
-    <a href="{{ relative }}{{site.data.oddil.tanecky.dlouhe-url}}/">
-      <h2>Tanečky a rytmika</h2>
-      <div class="content">
-        <p>17:00 – 18:00 ZŠ Šestajovice</p>
-      </div>
-    </a>
-  </article>
-</section>
 
 <p><br /></p>
 
