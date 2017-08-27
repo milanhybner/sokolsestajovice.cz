@@ -205,15 +205,15 @@ permalink: /oddily/
 
 # Rozvrh
 
-Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte na příslušný oddíl.
+Uvedený čas je orientační. Pro podrobnější informace klikněte na příslušný oddíl.
 
-|    | 14:00 |      15:00       | 16:00 |      17:00       | 18:00 |       19:00       |
-|----|-------|------------------|-------|------------------|-------|-------------------|
-| Po |       | [TAN]<br />[VŠE] |       | [RaD]            |       | [ŽEN]<br />[MUŽ]  |
-| Út |       |                  | [TR1] | [TR2]            |       |                   |
-| St |       |                  | [ZÁL] | [ZÁL]<br />[TaR] |       |                   |
-| Čt |       |                  | [FL1] | [FL1]/[FL2]      |       | [FL2]<br />[ZDR]* |
-| Pá | [MÍČ] |                  |       |                  |       |                   |
+|    | 14:00 |      15:00       |    16:00    |     17:00     | 18:00 |      19:00       |
+|----|-------|------------------|-------------|---------------|-------|------------------|
+| Po |       | [TAN]<br />[VŠE] |             | [RaD]         |       | [ŽEN]<br />[MUŽ] |
+| Út |       |                  | [TR1]–[PŘE] | [PŘE]–[TR2]   | [FlE] | [FlS]            |
+| St |       |                  | [ZÁL]       | [ZÁL]         |       |                  |
+| Čt |       |                  | [FlP+E]     | [FlP+E]/[FlM] | [FlM] | [FlS]<br />[ZDR] |
+| Pá | [MÍČ] |                  |             |               |       |                  |
 
 [TAN]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanec.dlouhe-url}} "Tanec"
 [VŠE]: http://www.sokolsestajovice.cz/{{site.data.oddil.vsestrannost.dlouhe-url}} "Všestrannost"
@@ -222,8 +222,10 @@ Uvedený čas značí začátek lekcí. Pro podrobnější informace klikněte n
 [ZÁL]: http://www.sokolsestajovice.cz/{{site.data.oddil.zalesak.dlouhe-url}} "Zálesák"
 [TR1]: http://www.sokolsestajovice.cz/{{site.data.oddil.trampoliny.dlouhe-url}} "Trampolíny – mladší"
 [TR2]: http://www.sokolsestajovice.cz/{{site.data.oddil.trampoliny.dlouhe-url}} "Trampolíny – starší"
-[FL1]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – mladší žáci"
-[FL2]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – starší žáci"
+[FlP+E]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – přípravka + elévové"
+[FlE]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – elévové"
+[FlM]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – mladší žáci"
+[FlS]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – starší žáci"
 [ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení"
 [TaR]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanecky.dlouhe-url}} "Tanečky a rytmika"
 [MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
