@@ -84,7 +84,7 @@ permalink: /oddily/
   </article>
   <article class="style5">
     <span class="image">
-      <img src="{{relative}}/images/predskolaci.png" alt="" />
+      <img src="{{relative}}/images/predskolaci.jpg" alt="" />
     </span>
     <a href="{{ relative }}{{site.data.oddil.predskolaci.dlouhe-url}}/">
       <h2>Předškoláci</h2>
@@ -135,7 +135,7 @@ permalink: /oddily/
       </div>
     </a>
   </article>
-
+</section>
 <p><br /></p>
 
 ---
