@@ -232,7 +232,7 @@ Uvedený čas je orientační. Pro podrobnější informace klikněte na přísl
 [PK1]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – mladší"
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
 [MUŽ]: http://www.sokolsestajovice.cz/{{site.data.oddil.muzi.dlouhe-url}} "Oddíl mužů"
-
+[PŘE]: http://www.sokolsestajovice.cz/{{site.data.oddil.predskolaci.dlouhe-url}} "Předškoláci"
 
 ## Seznam oddílů
 
