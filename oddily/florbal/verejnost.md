@@ -9,7 +9,7 @@ permalink: /oddily/florbal/
 
 ## Zápis
 
-**Nabíráme nové členy!** Přijďte se zaregistrovat v úterý 5. září 2017 do sportovní haly v Šestajovicích.
+**Nabíráme nové členy!** Přijďte se zaregistrovat v úterý 5. září 2017 v 18:00 do sportovní haly v Šestajovicích.
 
 <!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}-->
 
