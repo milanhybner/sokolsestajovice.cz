@@ -24,62 +24,62 @@ Probíhá ve sportovní hale, U Váhy 1000, Šestajovice.
 
 **Přípravka (2009 a mladší)**
 
-Němec Štěpán
-Holub Mikuláš
+Němec Štěpán  
+Holub Mikuláš  
 
 **Elévové (2007-2008)**
 
-Böhm Dominik
-Čejka Ondřej – ČT
-Havelková Eliška 
-Hlista Jakub
-Hraník Matyáš
-Hubálek Jan
-Kinzler Kryštof
-Kroupa Matěj
-Pavlík Tomáš
-Pospíšil Vojtěch
-Pšenička Richard
-Sikačová Vendula
-Šilhan Filip
-Tichý Lukáš – ČT
-(Tresčák Filip)
-Votoček Lukáš
-Čech Filip – ČT 
-Woller Adam – ČT
+Böhm Dominik  
+Čejka Ondřej – ČT  
+Havelková Eliška   
+Hlista Jakub  
+Hraník Matyáš  
+Hubálek Jan  
+Kinzler Kryštof  
+Kroupa Matěj  
+Pavlík Tomáš  
+Pospíšil Vojtěch  
+Pšenička Richard  
+Sikačová Vendula  
+Šilhan Filip  
+Tichý Lukáš – ČT  
+(Tresčák Filip)  
+Votoček Lukáš  
+Čech Filip – ČT   
+Woller Adam – ČT  
 
 **Mladší žáci (2006-2005)**
 
-Alexandr Jan
-Boháček Jiří
-Hruška Vít
-(Netušil Matyáš)
-(Seres Jan)
-Ševěček Petr
-(Škarka Samuel)
-(Tresčák Jakub)
-Pecka Václav
-Kotek Štěpán
-Wolf Otakar
+Alexandr Jan  
+Boháček Jiří  
+Hruška Vít  
+(Netušil Matyáš)  
+(Seres Jan)  
+Ševěček Petr  
+(Škarka Samuel)  
+(Tresčák Jakub)  
+Pecka Václav  
+Kotek Štěpán  
+Wolf Otakar  
 
 **Starší žáci (2004-2003)**
 
-Novák Šimon
-Sobota Jiří
-Dohnal Šimon
-Běhounek Tomáš
-Halačka Petr
-Houžvička Matěj
-Hruška Jan
-Satran Marek
+Novák Šimon  
+Sobota Jiří  
+Dohnal Šimon  
+Běhounek Tomáš  
+Halačka Petr  
+Houžvička Matěj  
+Hruška Jan  
+Satran Marek  
 
 **Dorostenci (2002 a starší)**
 
-Jaroš Lukáš
-Kubísková Markéta
-Kuchař Ivan František
-Kuda Jan
-Watson Jones Jakub
+Jaroš Lukáš  
+Kubísková Markéta  
+Kuchař Ivan František  
+Kuda Jan  
+Watson Jones Jakub  
 
 
 
