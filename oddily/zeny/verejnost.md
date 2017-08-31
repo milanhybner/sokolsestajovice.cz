@@ -4,6 +4,8 @@ title: Oddíl kondičního cvičení žen
 permalink: /oddily/zeny/
 ---
 
+Začínáme cvičit 18. září.
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pondělí 19:00 – 20:00.

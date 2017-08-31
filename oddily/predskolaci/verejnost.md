@@ -4,6 +4,8 @@ title: Předškoláci
 permalink: /oddily/predskolaci/
 ---
 
+Začínáme cvičit 19. září.
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Úterý 16:30 – 17:30 ve velké sportovní hale, U Váhy 1000, 250 92 Šestajovice.

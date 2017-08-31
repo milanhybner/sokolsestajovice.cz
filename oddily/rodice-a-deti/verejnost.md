@@ -4,6 +4,8 @@ title: Oddíl rodičů a dětí
 permalink: /oddily/rodice-a-deti/
 ---
 
+Začínáme cvičit 11. září.
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Cvičení rodičů s dětmi pro děti ve věku 2–5 let.
