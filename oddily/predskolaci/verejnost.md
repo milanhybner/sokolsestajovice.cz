@@ -8,6 +8,8 @@ permalink: /oddily/predskolaci/
 
 Úterý 16:30 – 17:30 ve velké sportovní hale, U Váhy 1000, 250 92 Šestajovice.
 
+V dnešní době tabletů a věčného vysedávání u internetu se snažíme nabídnout alternativu ve zdravém všestranném pohybu zaměřeném na pohybové aktivity: gymnastika, atletika, míčové hry…  Délka cvičební jednotky se pohybuje okolo 50 minut a je rozdělena do 4 částí – zahřátí, rozcvička, hlavní část na tělocvičném nářadí nebo s míči a závěrečná relaxace a strečink.
+Primární snahou je zvýšení fyzické kondice dětí, posílení správného držení těla a v mimo-fyzických schopnostech posílení vzájemné kooperace dětí, schopnost spolupracovat a hrát fair.
 
 ## Kontakt
 

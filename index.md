@@ -12,7 +12,6 @@ permalink: /
   <div class="6u$ 12u$(medium)">
     <p><a href="{{ site.baseurl }}/clenstvi/" class="button">Členství a příspěvky</a>
     <a href="{{ site.baseurl }}/oddily/" class="button">Oddíly a rozvrh</a>
-    <a href="{{ site.baseurl }}/kalendar/" class="button">Kalendář</a>
     <a href="http://sokolsestajovice.rajce.idnes.cz" class="button">Fotogalerie</a>
     <a href="{{ site.baseurl }}/o-sokole/" class="button">O Sokole</a>
     <a href="{{ site.baseurl }}/kontakt/" class="button">Kontakt</a>
@@ -30,6 +29,8 @@ permalink: /
 {{ post.excerpt | markdownify }}
     {% endif %}
 {% endfor %}
+
+<a href="{{ site.baseurl }}/kalendar/" class="button">Více info v kalendáři</a>
 
 ---
 

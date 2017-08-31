@@ -4,9 +4,7 @@ title: Trampolíny
 permalink: /trampoliny/
 ---
 
-<!--
-http://trampolinypraha.cz/letni-bublanina-2017/letni-bublanina-2017.html
--->
+Začínáme v úterý 5. září v 16:00!
 
 ## Kontakty
 
