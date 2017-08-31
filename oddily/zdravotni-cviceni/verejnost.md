@@ -4,6 +4,8 @@ title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni/
 ---
 
+Začínáme 7. září!
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 **Zdravotní cvičení – TV sál v Základní škole.**
