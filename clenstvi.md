@@ -32,7 +32,6 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 
 **Děkujeme za pochopení**
 
-<!--
 <form action="" id="form" onsubmit="return false;"><div class="row uniform">
 <div class="6u 12u$(small)">
   <input type="checkbox" name="clensky" id="clensky" value="clensky" onchange="vypis()" checked>
@@ -75,7 +74,6 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 </div>
 </form>
 <div id="zobraz"></div>
--->
 
 ---
 
@@ -134,17 +132,16 @@ clenske_vs["dospeli"]=120;
 var oddilove_vs = new Array();
 oddilove_vs["nic"]="";
 oddilove_vs["flp"]=920;
-oddilove_vs["fle"]=930;
-oddilove_vs["flm"]=;
-oddilove_vs["fls"]=;
+oddilove_vs["fle"]=920;
+oddilove_vs["flm"]=920;
+oddilove_vs["fls"]=920;
 oddilove_vs["zen"]=840;
 oddilove_vs["muz"]=620;
 oddilove_vs["mic"]=940;
 oddilove_vs["pkr"]=610;
-oddilove_vs["pre"]=;
+oddilove_vs["pre"]=860;
 oddilove_vs["rdd"]=810;
 oddilove_vs["rdr"]=810;
-oddilove_vs["rat"]=860;
 oddilove_vs["tan"]=820;
 oddilove_vs["tr1"]=640;
 oddilove_vs["tr2"]=650;
