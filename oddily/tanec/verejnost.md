@@ -4,6 +4,8 @@ title: Taneční oddíl
 permalink: /oddily/tanec/
 ---
 
+Ve cvičebním roce 2017/2018 začínáme až v polovině října.
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pondělí 15:00 – 15:45.
