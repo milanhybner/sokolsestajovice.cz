@@ -4,6 +4,8 @@ title: Oddíl míčových her
 permalink: /oddily/micovky/
 ---
 
+Začínáme 22. září!
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pátek 14:00 – 15:00
@@ -22,4 +24,3 @@ vedoucí oddílu
 605 433 430
 
 ![Eva Vaňková, vedoucí oddílu rodičů a dětí]({{ site.baseurl }}/images/vankova.jpg "Eva Vaňková, vedoucí oddílu rodičů a dětí"){:.image .fit}
-
