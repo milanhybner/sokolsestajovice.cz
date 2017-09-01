@@ -4,7 +4,7 @@ title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni/
 ---
 
-Začínáme 7. září!
+Začínáme 14. září!
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
