@@ -4,6 +4,8 @@ title: Oddíl všestrannosti
 permalink: /oddily/vsestrannost/
 ---
 
+Začínáme cvičit 18. září 2017!
+
 [//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.vsestrannost.kratke-url}}){:.button}  )
 
 [Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
