@@ -8,8 +8,13 @@ Začínáme 22. září!
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
-Pátek 14:00 – 15:00
-Sportovní hala Šestajovice
+Pátek 14:00 – 15:00 Sportovní hala Šestajovice.
+
+**Badminton/Basketbal/Volejbal**
+
+Pro děti 1.–4. třídy ZŠ.
+
+Pravidla míčových her, všestranná průprava pro míčové hry.
 
 Cílem oddílu je naučit se zvládnout a prohloubit základy jednotlivých her a jejich pravidel.
 

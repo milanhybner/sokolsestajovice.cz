@@ -195,7 +195,7 @@ permalink: /oddily/
         <p><b>Badminton/Basketbal/Volejbal</b><br />
         Pátek 14:00 – 15:00 Sportovní hala Šestajovice.<br />
         Pro děti 1.–4. třídy ZŠ.<br />
-        Pravidla míčových her, všestranná průprava pro míčové hry.</p>
+        Všestranná průprava pro míčové hry.</p>
       </div>
     </a>
   </article>
