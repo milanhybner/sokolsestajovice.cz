@@ -172,7 +172,7 @@ permalink: /oddily/
     <a href="{{ relative }}{{site.data.oddil.zdravotni.dlouhe-url}}/">
       <h2>Zdravotní cvičení</h2>
       <div class="content">
-        <p>Zdravotní cvičení – sraz je před ZŠ Šestajovice v&nbsp;18:50.</p>
+        <p>Cvičíme v ZŠ Šestajovice – sraz před ZŠ v&nbsp;18.55 hod.</p>
       </div>
     </a>
   </article>
@@ -190,9 +190,12 @@ permalink: /oddily/
       <img src="{{relative}}/images/micovky.jpg" alt="" />
     </span>
     <a href="{{ relative }}{{site.data.oddil.micovky.dlouhe-url}}/">
-      <h2>Míčové hry</h2>
+      <h2>Oddíl míčových her</h2>
       <div class="content">
-        <p>práce s míčem<br />pravidla míčových her<br />všestranná průprava pro míčové hry</p>
+        <p><b>Badminton/Basketbal/Volejbal</b><br />
+        Pátek 14:00 – 15:00 Sportovní hala Šestajovice.<br />
+        Pro děti 1.–4. třídy ZŠ.<br />
+        Pravidla míčových her, všestranná průprava pro míčové hry.</p>
       </div>
     </a>
   </article>
@@ -227,8 +230,7 @@ Uvedený čas je orientační. Pro podrobnější informace klikněte na přísl
 [FLM]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – mladší žáci"
 [FLS]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – starší žáci"
 [ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení"
-[TaR]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanecky.dlouhe-url}} "Tanečky a rytmika"
-[MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
+[TaR]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanecky.dlouhe-url}} "Míčové hry"
 [PK1]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – mladší"
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
 [MUŽ]: http://www.sokolsestajovice.cz/{{site.data.oddil.muzi.dlouhe-url}} "Oddíl mužů"

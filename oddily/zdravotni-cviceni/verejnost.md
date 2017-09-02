@@ -4,7 +4,7 @@ title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni/
 ---
 
-Začínáme 14. září!
+Začínáme cvičit 14. září 2017.
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
@@ -12,11 +12,11 @@ Začínáme 14. září!
 
 **Čtvrtek 19:00 – 20:00.**
 
-Sraz je před ZŠ Šestajovice v 18.50 hod.
+Sraz je před ZŠ Šestajovice v 18.55 hod.
 
-Cvičení je zaměřeno na posílení těla přirozenými metodami – zařazujeme prvky Pilátes, Jógy, relaxačních cvičení. Používáme především overbally a cvičební gumy. Cviky jsou vybírány tak, aby co nejméně přetěžovaly pohybový aparát.  
+Cvičení je zaměřeno na posílení těla přirozenými, avšak pro pohybový aparát nepřetěžujícími metodami. Zařazujeme také prvky Pilátes, Jógy a relaxačních cvičení. Používáme především overbally a cvičební gumy.
 
-Cvičení je určeno pro všechny věkové kategorie, doporučujeme především seniorkám a seniorům, lze jej využít i při zdravotních zatíženích (po schválení lékařem).
+Cvičení je určeno pro všechny věkové kategorie, doporučujeme také především seniorkám a seniorům, lze jej využít i při zdravotních zatíženích.
 
 [Poslat zprávu](#f){:.button .icon .fa-envelope}
 
