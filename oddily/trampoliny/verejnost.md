@@ -4,6 +4,8 @@ title: Oddíl trampolín
 permalink: /oddily/trampoliny/
 ---
 
+Kapacita oddílu je naplněna, nové členy již nepřijímáme.
+
 [info pro členy]({{ site.baseurl }}/trampoliny/){:.button}
 
 Probíhá každé úterý ve sportovní hale, U Váhy 1000, Šestajovice:

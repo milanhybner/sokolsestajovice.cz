@@ -230,7 +230,7 @@ Uvedený čas je orientační. Pro podrobnější informace klikněte na přísl
 [FLM]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – mladší žáci"
 [FLS]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – starší žáci"
 [ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení"
-[TaR]: http://www.sokolsestajovice.cz/{{site.data.oddil.tanecky.dlouhe-url}} "Míčové hry"
+[MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
 [PK1]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – mladší"
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
 [MUŽ]: http://www.sokolsestajovice.cz/{{site.data.oddil.muzi.dlouhe-url}} "Oddíl mužů"
