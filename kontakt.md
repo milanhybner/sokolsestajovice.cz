@@ -42,13 +42,12 @@ Mgr. Hana Otáhalová
 605 204 967
 
 Náčelnice zodpovídá za oddíl 
-[tanečků a rytmiky]({{ relative }}{{site.data.oddil.tanecky.dlouhe-url}}), 
+[všestrannosti]({{ relative }}{{site.data.oddil.vsestrannost.dlouhe-url}}), 
 [tance]({{ relative }}{{site.data.oddil.tanec.dlouhe-url}}), 
-[zdravotního cvičení]({{ relative }}{{site.data.oddil.zdravotni.dlouhe-url}}) a 
-[zdr. cv. v přírodě]({{ relative }}{{site.data.oddil.priroda.dlouhe-url}}), 
+[kondičního cvičení žen]({{ relative }}{{site.data.oddil.zeny.dlouhe-url}}),
 [rodičů a dětí]({{ relative }}{{site.data.oddil.rd.dlouhe-url}}), 
-[kondičního cvičení žen]({{ relative }}{{site.data.oddil.zeny.dlouhe-url}}) a 
-[všestrannosti]({{ relative }}{{site.data.oddil.vsestrannost.dlouhe-url}}).
+[předškoláků]({{ relative }}{{site.data.oddil.predskolaci.dlouhe-url}}) a 
+[zdravotního cvičení]({{ relative }}{{site.data.oddil.zdravotni.dlouhe-url}}).
 
 ### Hospodářka
 
