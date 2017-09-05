@@ -7,9 +7,6 @@ permalink: /oddily/florbal/
 
 ![Florbalový tým T.J. Sokol Šestajovice]({{relative}}/images/logo-florbal-hor.jpeg){:.image .fit}
 
-## Zápis
-
-**Nabíráme nové členy!** Přijďte se zaregistrovat v úterý 5. září 2017 v 18:00 do sportovní haly v Šestajovicích.
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
@@ -29,6 +26,10 @@ Probíhá ve sportovní hale, U Váhy 1000, Šestajovice.
 | Mladší žáci | 2006-2005     |
 | Starší žáci | 2004-2003     |
 | Dorostenci  | 2002 a starší |
+
+## Rozpis tréninků
+
+![Rozpis dnů a časů tréninků jednotlivých skupin]({{relative}}/images/florbal-rozpis-treninku.jpeg "Rozpis dnů a časů tréninků jednotlivých skupin"){:.image .fit}
 
 ## Kontakt
 
