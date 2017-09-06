@@ -4,14 +4,9 @@ title: Oddíl parkouru
 permalink: /oddily/parkour/
 ---
 
-## Tréninky od září
+## Termíny tréninků
 
-Vážení rodiče, milí skokani, **začínáme už v pátek 1. září 2017** a výjimečně budou první tři tréninky **v Klánovicích**, sraz před halou starosty Hanzala, V Soudním 1000, 190 14 Praha-Klánovice.
-
-Termíny tréninků:
-
-* Pondělí 4.9. od 17:00
-* Středa 6.9. od 16:30 – vystoupení na veletrhu kroužků
+* Středa 6.9. od 16:30 – vystoupení na veletrhu kroužků, sraz před halou starosty Hanzala, V Soudním 1000, 190 14 Praha-Klánovice
 * Čtvrtek 7. 9. – trénink se nekoná
 
 V dalších dnech budou tréninky – pokud nebude dáno vědět alespoň dva dny předem jinak – vždy v úterý od 18:00 a ve čtvrtek od 17:00 sraz před ZŠ Šestajovice.
