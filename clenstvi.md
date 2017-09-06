@@ -26,11 +26,6 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 
 Údaje pro zaslání příspěvků se zobrazí po vyplnění následujícího formuláře. Při hrazení členského a oddílového příspěvku uhraďte prosím každý příspěvek samostatným příkazem s příslušným variabilním symbolem.
 
----
-
-**Informace o příspěvcích na cvičební rok 2017/2018 pro Vás připravujeme**
-
-**Děkujeme za pochopení**
 
 <form action="" id="form" onsubmit="return false;"><div class="row uniform">
 <div class="6u 12u$(small)">
