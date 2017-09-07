@@ -4,20 +4,19 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-* 31\. srpna 19:00 Schůze výboru jednoty
 
 ## září 2017
 
-* 6\. září 15:00 – 18:30 Veletrh kroužků v Klánovicích
 * 22\. – 24. září – [Sletová štafeta](http://www.zbarakova.cz/slet/stafeta.html)
 * 24\. září – Vzpomínková akce na manžele Staré
+* 30\. září – župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
+
 * \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
 * \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
-* 30\. září – župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
 
 ## říjen 2017
 
-* 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/2017/10/08/sestajovicka-sestka.html)
+* 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/sestka/)
 * 8\. října – Památný den sokolstva (Šestajovice)
 * 28\. října – Oslava Den vzniku Československa (Šestajovice)
 
@@ -70,3 +69,12 @@ Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy B
 * \[zálesák\] 18\. června – Pietní akt - boj parašutistů v kostele (Praha, Resslova ulice)
 * 21\. června – [T-Mobile olympijský běh](http://www.sokolsestajovice.cz/2017/06/21/olympijsky-beh.html)
 * 30\. června 17:00 – [Slavnostní zakončení cvičebního roku (Klánovice)](http://www.sokolsestajovice.cz/2017/06/30/slavnostni-zakonceni-roku.html)
+
+## srpen 2017
+
+* 31\. srpna 19:00 Schůze výboru jednoty
+
+## září 2017
+
+* 6\. září 15:00 – 18:30 Veletrh kroužků v Klánovicích
+
