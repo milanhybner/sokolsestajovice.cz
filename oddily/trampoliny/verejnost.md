@@ -11,9 +11,9 @@ Kapacita oddílu je naplněna, nové členy již nepřijímáme.
 Probíhá každé úterý ve sportovní hale, U Váhy 1000, Šestajovice:
 
 * mladší žactvo (6–8 let) od 16:00 do 17:00,
-* starší žactvo (9–11 let) od 17:00 do 18:00.
+* starší žactvo (9–14 let) od 17:00 do 18:00.
 
-Oddíl pro děti ve věku 6–15 let, jehož náplní je všeobecná pohybová příprava prostřednictvím převážně gymnastických cvičení a skoky na trampolíně.
+Oddíl pro děti ve věku 6–14 let, jehož náplní je všeobecná pohybová příprava prostřednictvím převážně gymnastických cvičení a skoky na trampolíně.
 
 Filosofie vedení cvičenců se odvíjí od myšlenky sportovní všestrannosti, tak jak je definována ve cvičebním programu České obce sokolské. Myšlenkově a co se týče zásad rozvoje cvičence vychází také z konceptu [sportu pro život](http://canadiansportforlife.ca/parents/ltad-path) rozpracovaného kanadskou skupinou expertů, který je zaměřen na pohybovou gramotnost, dlouhodobý rozvoje potenciálu cvičence a schopnost účastnit se pohybových aktivit po celý život.
 
