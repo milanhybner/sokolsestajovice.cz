@@ -8,7 +8,7 @@ Začínáme cvičit 18. září.
 
 [//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.vsestrannost.kratke-url}}){:.button}  )
 
-[Chci se přidat]({{ site.baseurl }}/2016/09/15/nabor.html){:.button .special}
+[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Sportovní všestrannost – cvičení žactva.
 
