@@ -4,6 +4,8 @@ title: Oddíl parkouru
 permalink: /oddily/parkour/
 ---
 
+**Kapacita Oddílu je naplněna, už nepřijímáme další členy.**
+
 ## Termíny tréninků
 
 * Středa 6.9. od 16:30 – vystoupení na veletrhu kroužků, sraz před halou starosty Hanzala, V Soudním 1000, 190 14 Praha-Klánovice
