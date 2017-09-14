@@ -13,6 +13,8 @@ permalink: /oddily/parkour/
 
 V dalších dnech budou tréninky – pokud nebude dáno vědět alespoň dva dny předem jinak – vždy v úterý od 18:00 a ve čtvrtek od 17:00 sraz před ZŠ Šestajovice.
 
+Poznámka: Nejpozději od listopadu nastane změna – čtvrteční trénink se konat nebude a úterní trénink bude od 17:00 do 18:00 ve velké sportovní hale v Šestajovicích.
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 
