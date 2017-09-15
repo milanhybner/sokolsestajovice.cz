@@ -212,7 +212,7 @@ function vypis() {
 
   var popis_clensky1 = "<h3>Příspěvek č. 1</h3>Částka: <b>" + castka_clensky;
   var popis_clensky2 = " Kč</b><br />Číslo účtu: 2200622110<br />Kód banky: 2010 (Fio banka)<br />Variabilní symbol: <b>" + vybratClenskyVS();
-  var popis_clensky3 = "</b><br />Zpráva pro příjemce: <i>Příjmení Jméno</i> (" + vybranyOddil.options[vybranyOddil.selectedIndex].text + ")";
+  var popis_clensky3 = "</b><br />Zpráva pro příjemce: <i>Příjmení Jméno</i>";
   var text_clensky = popis_clensky1 + popis_clensky2 + popis_clensky3 ;
   var popis_clensky3_bez_oddilu = "</b><br />Zpráva pro příjemce: <i>Příjmení Jméno</i>"
 
