@@ -6,6 +6,8 @@ permalink: /oddily/vsestrannost/
 
 Začínáme cvičit 18. září.
 
+[Informace o vyzvedávání dětí ze školní družiny](http://www.sokolsestajovice.cz/2017/09/13/vyzvedavani-deti.html)
+
 [//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.vsestrannost.kratke-url}}){:.button}  )
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}

@@ -6,6 +6,8 @@ permalink: /oddily/micovky/
 
 Začínáme 22. září!
 
+[Informace o vyzvedávání dětí ze školní družiny](http://www.sokolsestajovice.cz/2017/09/13/vyzvedavani-deti.html)
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pátek 14:00 – 15:00 Sportovní hala Šestajovice.

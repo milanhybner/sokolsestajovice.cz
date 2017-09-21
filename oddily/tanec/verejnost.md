@@ -6,6 +6,8 @@ permalink: /oddily/tanec/
 
 Ve cvičebním roce 2017/2018 začínáme až 16. října.
 
+[Informace o vyzvedávání dětí ze školní družiny](http://www.sokolsestajovice.cz/2017/09/13/vyzvedavani-deti.html)
+
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
 Pondělí 15:00 – 15:45.
