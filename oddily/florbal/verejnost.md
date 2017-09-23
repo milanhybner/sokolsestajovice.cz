@@ -27,6 +27,8 @@ Probíhá ve sportovní hale, U Váhy 1000, Šestajovice.
 | Starší žáci | 2004-2003     |
 | Dorostenci  | 2002 a starší |
 
+* [Přihláška do České florbalové unie]({{relative}}/files/Přihláška člena ČFbU_1065_T.J. Sokol Šestajovice.pdf)
+
 ## Rozpis tréninků
 
 ![Rozpis dnů a časů tréninků jednotlivých skupin]({{relative}}/images/florbal-rozpis-treninku.jpeg "Rozpis dnů a časů tréninků jednotlivých skupin"){:.image .fit}
