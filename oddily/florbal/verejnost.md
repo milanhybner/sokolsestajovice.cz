@@ -5,17 +5,12 @@ oddil: florbal
 permalink: /oddily/florbal/
 ---
 
-![Florbalový tým T.J. Sokol Šestajovice]({{relative}}/images/logo-florbal-hor.jpeg){:.image .fit}
 
+**Ve čtvrtek 28. září se trénink florbalu nekoná.**
+
+(Obvykle se tréninky ve dnech školního volna – svátky, prázdniny – nekonají.)
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
-
-
-[](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
-[Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)
-
-Probíhá ve sportovní hale, U Váhy 1000, Šestajovice.
-
 
 ## Rozdělení do skupin podle věku
 
@@ -27,13 +22,17 @@ Probíhá ve sportovní hale, U Váhy 1000, Šestajovice.
 | Starší žáci | 2004-2003     |
 | Dorostenci  | 2002 a starší |
 
-* [Přihláška do České florbalové unie]({{relative}}/files/Přihláška člena ČFbU_1065_T.J. Sokol Šestajovice.pdf)
+* Pro elévy: [Přihláška do České florbalové unie]({{relative}}/files/Přihláška člena ČFbU_1065_T.J. Sokol Šestajovice.pdf)
 
 ## Rozpis tréninků
 
 ![Rozpis dnů a časů tréninků jednotlivých skupin]({{relative}}/images/florbal-rozpis-treninku.jpeg "Rozpis dnů a časů tréninků jednotlivých skupin"){:.image .fit}
 
+Tréninky probíhají ve sportovní hale, U Váhy 1000, Šestajovice.
+
 ## Kontakt
+
+* [Facebookový profil florbalu](https://www.facebook.com/sestajoviceflorbal/)
 
 [Poslat zprávu](#f){:.button .icon .fa-envelope}
 
@@ -93,4 +92,6 @@ Délka florbalky by měla dosahovat po pupík. Správná délka je důležitá k
 1. malý dosah
 2. nebezpečí zranění zad
 
----
+[](https://www.facebook.com/sestajoviceflorbal/){:.icon .style2 .fa-facebook}
+
+![Florbalový tým T.J. Sokol Šestajovice]({{relative}}/images/logo-florbal-hor.jpeg){:.image .fit}
