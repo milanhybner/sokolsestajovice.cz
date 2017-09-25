@@ -16,7 +16,7 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 # Jak se stát členem Sokola
 
-1. [Vyplňte přihlášku online](https://goo.gl/forms/2LCaS4E1x8TJD8zb2){:target="_blank"},
+1. [**Vyplňte přihlášku online**](https://goo.gl/forms/2LCaS4E1x8TJD8zb2){:target="_blank"},
 2. na e-mail uvedený v přihlášce je automaticky odeslán PDF dokument předvyplněný údaji z přihlášky; dokument zkontrolujte, vytiskněte, podepište a přineste Vašemu cvičiteli,
 3. uhraďte převodem na účet příspěvky
 
