@@ -4,9 +4,7 @@ title: Oddíl míčových her
 permalink: /oddily/micovky/
 ---
 
-Začínáme 22. září!
-
-[Informace o vyzvedávání dětí ze školní družiny](http://www.sokolsestajovice.cz/2017/09/13/vyzvedavani-deti.html)
+Děti, které chodí do družiny budeme vyzvedávat už ve 13.30 hod (dle nových pravidel družiny) a pokud bude potřeba také po skončení vracet zpět do družiny. Je to proto, aby děti byly pod dohledem a sami se nepotulovaly po okolí školy.
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
