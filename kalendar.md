@@ -4,26 +4,29 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-
-## září 2017
-
-* 22\. – 24. září – [Sletová štafeta](http://www.zbarakova.cz/slet/stafeta.html)
-* 24\. září – Vzpomínková akce na manžele Staré
-* 30\. září – župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
-
-* \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
-* \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
-
 ## říjen 2017
 
 * 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/sestka/)
 * 8\. října – Památný den sokolstva (Šestajovice)
 * 28\. října – Oslava Den vzniku Československa (Šestajovice)
 
+## listopad 2017
+
+* (florbal) 26\. listopadu – Turnaj
+
 ## prosinec 2017
 
 * 3\. prosince (bude potvrzeno podle plánu obce) – Punčobraní
 * 16\. prosince 18:00 – Betlémské světlo
+* 16\. prosince 
+
+## březen 2018
+
+* 25\. března 13:00 – 16:00 – Zábavné sportovní odpoledne
+
+## květen 2017
+
+* 27\. května – Oblastní slet v Brandýse nad Labem
 
 ---
 
@@ -77,4 +80,9 @@ Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy B
 ## září 2017
 
 * 6\. září 15:00 – 18:30 Veletrh kroužků v Klánovicích
+* 22\. – 24. září – [Sletová štafeta](http://www.zbarakova.cz/slet/stafeta.html)
+* 24\. září – Vzpomínková akce na manžele Staré
+* 30\. září – župní doškolovací seminář s Helenou Peerovou (Fitjazz, Musical Dance)
+* \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
+* \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
 
