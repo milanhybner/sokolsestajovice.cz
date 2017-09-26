@@ -4,9 +4,11 @@ title: Oddíl míčových her
 permalink: /oddily/micovky/
 ---
 
+**Kapacita oddílu byla naplněna, další členy už nelze přijmout. Děkujeme za pochopení.**
+
 Děti, které chodí do družiny budeme vyzvedávat už ve 13.30 hod (dle nových pravidel družiny) a pokud bude potřeba také po skončení vracet zpět do družiny. Je to proto, aby děti byly pod dohledem a sami se nepotulovaly po okolí školy.
 
-[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
+<!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
 
 Pátek 14:00 – 15:00 Sportovní hala Šestajovice.
 
