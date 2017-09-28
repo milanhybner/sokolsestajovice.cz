@@ -22,7 +22,8 @@ permalink: /oddily/florbal/
 | Starší žáci | 2004-2003     |
 | Dorostenci  | 2002 a starší |
 
-* Pro elévy: [Přihláška do České florbalové unie]({{relative}}/files/Přihláška člena ČFbU_1065_T.J. Sokol Šestajovice.pdf)
+* Pro elévy: [Přihláška do České florbalové unie]({{relative}}/files/Přihláška člena ČFbU_1065_T.J. Sokol Šestajovice.pdf), [Žádost o posouzení zdravotní způsobilosti](https://www.ceskyflorbal.cz/dms/serve/assigned-file/1473/1447)
+
 
 ## Rozpis tréninků
 
