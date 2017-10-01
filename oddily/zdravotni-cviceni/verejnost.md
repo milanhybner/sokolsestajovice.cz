@@ -4,9 +4,9 @@ title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni/
 ---
 
-Začínáme cvičit 14. září 2017.
+**Kapacita oddílu byla naplněna, další členy už nelze přijmout. Děkujeme za pochopení.**
 
-[Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
+<!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
 
 **Zdravotní cvičení – TV sál v Základní škole.**
 

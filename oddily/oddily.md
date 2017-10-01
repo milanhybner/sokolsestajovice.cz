@@ -4,6 +4,16 @@ title: Oddíly
 permalink: /oddily/
 ---
 
+Vážení zájemci, oddíly, do kterých ještě přijímáme nové členy, jsou:
+
+* [Zálesák]({{relative}}/oddily/zalesak/)
+* [Rodiče a děti]({{relative}}/oddily/rodice-a-deti/)
+* [Předškoláci]({{relative}}/oddily/predskolaci/)
+* [Florbal]({{relative}}/oddily/florbal/)
+* [Tanec]({{relative}}/oddily/tanec/)
+* [Muži]({{relative}}/oddily/mzui/)
+* [Ženy]({{relative}}/oddily/zeny/)
+
 # Pondělí
 
 <section class="tiles" id="oddily">
