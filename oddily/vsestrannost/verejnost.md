@@ -12,7 +12,7 @@ permalink: /oddily/vsestrannost/
 
 Sportovní všestrannost – cvičení žactva.
 
-Pondělí 15:00 – 15:45 hala Šestajovice.
+Pondělí 15:15 – 16:00 hala Šestajovice.
 
 [Poslat zprávu](#f){:.button .icon .fa-envelope}
 

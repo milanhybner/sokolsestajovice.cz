@@ -24,7 +24,7 @@ Vážení zájemci, oddíly, do kterých ještě přijímáme nové členy, jsou
     <a href="{{ relative }}{{site.data.oddil.vsestrannost.dlouhe-url}}/">
       <h2>Všestrannost</h2>
       <div class="content">
-        <p>15:00 – 15:45 ve velké sportovní hale</p>
+        <p>15:15 – 16:00 ve velké sportovní hale</p>
       </div>
     </a>
   </article>
