@@ -1,9 +1,9 @@
 ---
 title: Památný den sokolstva
-excerpt: Vzpomínkový akt vypouštění svíček se bude konat v Šestajovicích v neděli 8. října od 19:00.
+excerpt: Vzpomínkový akt vypouštění svíček se bude konat v Šestajovicích v neděli 8. října od 19:00 u rybníku na Berance.
 ---
 
-Vzpomínkový akt vypouštění svíček se bude konat v Šestajovicích v neděli 8. října od 19:00.
+Vzpomínkový akt vypouštění svíček se bude konat v Šestajovicích v neděli 8. října od 19:00 u rybníku na Berance.
 
 ---
 
