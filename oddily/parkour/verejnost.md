@@ -4,21 +4,33 @@ title: Oddíl parkouru
 permalink: /oddily/parkour/
 ---
 
-**Kapacita Oddílu je naplněna, už nepřijímáme další členy.**
+**Kapacita oddílu je naplněna, už nepřijímáme další členy.**
 
 ## Termíny tréninků
 
-Nejbližší tréninky:
+Vážení rodiče, milí skokani,
 
-* **Úterý 26. září** – sraz v 18:00, rozchod v 19:00 před ZŠ Šestajovice (jako obvykle)
-* **Čtvrtek 28. září** – ano, i ve státní svátek trénujeme – trénink je dobrovolný, jako ostatně vždycky :-) – jako obvykle 17:00 – 18:00, sraz i rozchod před ZŠ Šestajovice
-* **Pátek 29. září** od 17:00 mimořádný trénink na mimořádném místě, na parkourovém hřišti na Černém Mostě – mapa: <https://mapy.cz/s/24Ina>. Sraz v 16:50 [před kašnou před výstupem z metra](https://mapy.cz/s/24Iwe), případně na hřišti. Rozchod v 18:00 na hřišti. Pokud byste měli zájem, můžu děti (vybavené příslušnými jízdenkami) dopravit na zast. Šestajovice, Za Stodolami, [očekávaný příjezd v 18:45](http://jizdnirady.idnes.cz/draha/?p=5v8Y0Vic6PRVLd8tWS5hL381fpkyGDLirp1KS2M.35xdgNlLjWI3SfoPs8yNV5clWvpGwkh3AByYACYQvmYaI85KGWbn91hXcsFzoUACiOMpOS3YO.HO.GGMlFF5YhnJ15F7E87PMtzlo0IfBsMCUA--). V tomto případě mi dejte prosím vědět.
+naneštěstí jsem nucen kvůli jiným povinnostem tři úterný tréninky zrušit. Náhradou za ně budou dva delší páteční tréninky na Černém Mostě a jeden trénink v parkourové hale.
 
----
+Na Černém Mostě sraz a rozchod v uvedený čas [na hřišti](https://mapy.cz/s/2737O).
 
-Tréninky jsou (pokud není dáno vědět alespoň dva dny předem jinak) – vždy v úterý od 18:00 a ve čtvrtek od 17:00 sraz před ZŠ Šestajovice.
+[Hala](http://imacademy.cz/kontakt/) je zatím v jednání a trénink tedy bude teprve potvrzen a upřesněn.
 
-Poznámka: Nejpozději od listopadu nastane změna – čtvrteční trénink se konat nebude a úterní trénink bude od 17:00 do 18:00 ve velké sportovní hale v Šestajovicích.
+Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajovicích.
+
+* úterý 10. října 2017 18:00-19:00 poslední úterní venkovní trénink, před ZŠ Šestajovice
+* čtvrtek 12. října 2017 17:00-18:00, před ZŠ Šestajovice
+* pátek 13. října 2017 16:00-17:15 mladší, 17:15-18:30 starší, Černý Most
+* úterý 17. října 2017 trénink zrušen
+* čtvrtek 19. října 2017 17:00-18:00, před ZŠ Šestajovice
+* pátek 20. října 2017 16:00-17:15 mladší, 17:15-18:30 starší, Černý Most
+* úterý 24. října 2017 trénink zrušen
+* čtvrtek 26. října 2017 17:00-18:00 poslední letošní čtvrteční trénink, před ZŠ Šestajovice
+* úterý 31. října 2017 trénink zrušen
+* sobota 4. nebo neděle 5. listopadu pravděpodobně trénink v parkourové hale v Praze
+* úterý 7. listopadu 2017 17:00-18:00 první trénink ve sportovní hale Šestajovice
+
+Dále až do 19. prosince 2017 a 9., 16., 23. a 30. ledna 2018 úterky ve sportovní hale Šestajovice.
 
 <!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
 
