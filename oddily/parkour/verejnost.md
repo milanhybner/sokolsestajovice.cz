@@ -14,7 +14,7 @@ naneštěstí jsem nucen kvůli jiným povinnostem tři úterný tréninky zruš
 
 Na Černém Mostě sraz a rozchod v uvedený čas [na hřišti](https://mapy.cz/s/2737O).
 
-[Hala](http://imacademy.cz/kontakt/) je zatím v jednání a trénink tedy bude teprve potvrzen a upřesněn.
+Trénink v parkourové [hale](http://imacademy.cz/kontakt/) bude ještě potvrzen a upřesněn.
 
 Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajovicích.
 
@@ -27,7 +27,7 @@ Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajo
 * úterý 24. října 2017 trénink zrušen
 * čtvrtek 26. října 2017 17:00-18:00 poslední letošní čtvrteční trénink, před ZŠ Šestajovice
 * úterý 31. října 2017 trénink zrušen
-* sobota 4. nebo neděle 5. listopadu pravděpodobně trénink v parkourové hale v Praze
+* neděle 5. listopadu od 16:00 trénink v parkourové hale v Praze
 * úterý 7. listopadu 2017 17:00-18:00 první trénink ve sportovní hale Šestajovice
 
 Dále až do 19. prosince 2017 a 9., 16., 23. a 30. ledna 2018 úterky ve sportovní hale Šestajovice.
