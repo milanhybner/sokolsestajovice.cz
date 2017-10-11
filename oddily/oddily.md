@@ -13,6 +13,7 @@ Vážení zájemci, oddíly, do kterých ještě přijímáme nové členy, jsou
 * [Tanec]({{relative}}/oddily/tanec/)
 * [Muži]({{relative}}/oddily/mzui/)
 * [Ženy]({{relative}}/oddily/zeny/)
+* Zdravotní cvičení
 
 # Pondělí
 
@@ -180,7 +181,7 @@ Vážení zájemci, oddíly, do kterých ještě přijímáme nové členy, jsou
       <img src="{{relative}}/images/pic16.jpg" alt="" />
     </span>
     <a href="{{ relative }}{{site.data.oddil.zdravotni.dlouhe-url}}/">
-      <h2>Zdravotní cvičení</h2>
+      <h2>Zdravotní cvičení pro seniory</h2>
       <div class="content">
         <p>Cvičíme v ZŠ Šestajovice – sraz před ZŠ v&nbsp;18.55 hod.</p>
       </div>
@@ -239,7 +240,7 @@ Uvedený čas je orientační. Pro podrobnější informace klikněte na přísl
 [FLE]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – elévové"
 [FLM]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – mladší žáci"
 [FLS]: http://www.sokolsestajovice.cz/{{site.data.oddil.florbal.dlouhe-url}} "Florbal – starší žáci"
-[ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení"
+[ZDR]: http://www.sokolsestajovice.cz/{{site.data.oddil.zdravotni.dlouhe-url}} "Zdravotní cvičení pro seniory"
 [MÍČ]: http://www.sokolsestajovice.cz/{{site.data.oddil.micovky.dlouhe-url}} "Míčové hry"
 [PK1]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – mladší"
 [PK2]: http://www.sokolsestajovice.cz/{{site.data.oddil.parkour.dlouhe-url}} "Parkour – starší"
