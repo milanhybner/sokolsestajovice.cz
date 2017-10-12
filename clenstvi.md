@@ -20,6 +20,8 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 2. na e-mail uvedený v přihlášce je automaticky odeslán PDF dokument předvyplněný údaji z přihlášky; dokument zkontrolujte, vytiskněte, podepište a přineste Vašemu cvičiteli,
 3. uhraďte převodem na účet příspěvky
 
+Pozn.: Pokud se hlásíte do více oddílů, přihlášku vyplňte jen jednou a do evidenčního listu ručně připište druhý oddíl. Pokud už jste členy jednoho oddílu a hlásíte se do dalšího a evidenční list už jste odevzdávali, přihlášku už znovu nevyplňujte. Stačí domluvit členství v novém oddíle s jeho vedoucím a uhradit oddílový příspěvek.
+
 # Příspěvky
 
 Příspěvek člena České obce sokolské (**členský příspěvek**) se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Většinou také chcete cvičit a aktivně navštěvovat nějaký oddíl; pak je třeba uhradit ještě **oddílový příspěvek**. Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června.
