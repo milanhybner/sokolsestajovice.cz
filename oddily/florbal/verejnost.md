@@ -6,8 +6,6 @@ permalink: /oddily/florbal/
 ---
 
 
-**Ve čtvrtek 28. září se trénink florbalu nekoná.**
-
 (Obvykle se tréninky ve dnech školního volna – svátky, prázdniny – nekonají.)
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
