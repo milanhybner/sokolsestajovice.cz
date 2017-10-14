@@ -8,6 +8,8 @@ permalink: /sestka/
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrtwZpCN7tQ2nin7?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+Pozn.: Anně Brabcové z Musher klub JCC byl chybně odečten výsledný čas; kdyby byl odečten správně, skončila by v kategorii CC nad 10 kg na 3. místě s časem 0:30:25.
+
 ---
 
 V neděli 8. října 2017 jsme pořádali 4. ročník šestajovického seriálu běžeckých a canicrossových závodů v délce 6 km pro širokou veřejnost, všechny výkonnostní a věkové skupiny.
