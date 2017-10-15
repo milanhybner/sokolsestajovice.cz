@@ -12,15 +12,12 @@ Vážení rodiče, milí skokani,
 
 naneštěstí jsem nucen kvůli jiným povinnostem tři úterný tréninky zrušit. Náhradou za ně budou dva delší páteční tréninky na Černém Mostě a jeden trénink v parkourové hale.
 
-Na Černém Mostě sraz a rozchod v uvedený čas [na hřišti](https://mapy.cz/s/2737O). Mladší trénují do 17:15, starší od 17:15. Ve skupině starších jsou: Vobiš, Filáček, Vodička, Hejna, Merhaut. Ve skupině mladších jsou: Adámek, Angelovič, Čejka, Čermák, Katiukov, Malina, Sikačová, Tichý, Námisňák, Opletal. (pokud jste se / své dítě nenašli na seznamu, tak mě prosím kontaktujte.)
+Na Černém Mostě sraz a rozchod v uvedený čas [na hřišti](https://mapy.cz/s/2737O). Mladší trénují do 17:15, starší od 17:15. Ve skupině starších jsou: Vobiš, Filáček, Vodička, Hejna, Merhaut. Ve skupině mladších jsou: Adámek, Angelovič, Čejka, Čermák, Katiukov, Malina, Sikačová, Schejbal, Tichý, Námisňák, Opletal.
 
 Trénink v parkourové [hale](http://imacademy.cz/kontakt/) bude ještě potvrzen a upřesněn.
 
 Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajovicích.
 
-* úterý 10. října 2017 18:00-19:00 poslední úterní venkovní trénink, před ZŠ Šestajovice
-* čtvrtek 12. října 2017 17:00-18:00, před ZŠ Šestajovice
-* pátek 13. října 2017 16:00-17:15 mladší, 17:15-18:30 starší, Černý Most
 * úterý 17. října 2017 trénink zrušen
 * čtvrtek 19. října 2017 17:00-18:00, před ZŠ Šestajovice
 * pátek 20. října 2017 16:00-17:15 mladší, 17:15-18:30 starší, Černý Most
