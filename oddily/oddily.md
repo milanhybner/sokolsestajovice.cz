@@ -13,7 +13,7 @@ Vážení zájemci, oddíly, do kterých ještě přijímáme nové členy, jsou
 * [Tanec]({{relative}}/oddily/tanec/)
 * [Muži]({{relative}}/oddily/mzui/)
 * [Ženy]({{relative}}/oddily/zeny/)
-* Zdravotní cvičení
+* [Zdravotní cvičení pro seniory]({{relative}}/oddily/zdravotni/)
 
 # Pondělí
 
