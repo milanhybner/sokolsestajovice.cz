@@ -8,13 +8,7 @@ permalink: /oddily/parkour/
 
 ## Termíny tréninků
 
-Vážení rodiče, milí skokani,
-
-naneštěstí jsem nucen kvůli jiným povinnostem tři úterný tréninky zrušit. Náhradou za ně budou dva delší páteční tréninky na Černém Mostě a jeden trénink v parkourové hale.
-
-Na Černém Mostě sraz a rozchod v uvedený čas [na hřišti](https://mapy.cz/s/2737O). Mladší trénují do 17:15, starší od 17:15. Ve skupině starších jsou: Vobiš, Filáček, Vodička, Hejna, Merhaut. Ve skupině mladších jsou: Adámek, Angelovič, Čejka, Čermák, Katiukov, Malina, Sikačová, Schejbal, Tichý, Námisňák, Opletal.
-
-Trénink v parkourové [hale](http://imacademy.cz/kontakt/) bude ještě potvrzen a upřesněn.
+Trénink v parkourové [hale]() bude ještě potvrzen a upřesněn.
 
 Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajovicích.
 
@@ -23,11 +17,18 @@ Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajo
 * pátek 20. října 2017 16:00-17:15 mladší, 17:15-18:30 starší, Černý Most
 * úterý 24. října 2017 trénink zrušen
 * čtvrtek 26. října 2017 17:00-18:00 poslední letošní čtvrteční trénink, před ZŠ Šestajovice
-* úterý 31. října 2017 trénink zrušen
-* neděle 5. listopadu od 16:00 trénink v parkourové hale v Praze
+* neděle 29. října 2017 [jam na Vltavské](https://www.facebook.com/events/328453397629302/) Pozn.: Nejedná se o oficiální trénink ani akci T.J. Sokol Šestajovice, ale spíše o společenskou událost, účast s rodiči nebo na vlastní zodpovědnost.
+* úterý 31. října 2017 trénink nakonec **není** zrušen, sraz v 18:00 před ZŠ Šestajovice
+* neděle 5. listopadu od 16:30 do 18:30 trénink v [parkourové hale v Praze](http://imacademy.cz/kontakt/)
 * úterý 7. listopadu 2017 17:00-18:00 první trénink ve sportovní hale Šestajovice
+* úterý 14. listopadu 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
+* úterý 21. listopadu 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
+* úterý 28. listopadu 2017 trénink zrušen
+* úterý 21. listopadu 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
+* úterý 5. prosince 2017 – bude upřesněno
+* úterý 12. prosince 2017 – trénink ve sportovní hale Šestajovice
 
-Dále až do 19. prosince 2017 a 9., 16., 23. a 30. ledna 2018 úterky ve sportovní hale Šestajovice.
+Dále 19. prosince 2017 a 9., 16., 23. a 30. ledna 2018 úterky ve sportovní hale Šestajovice.
 
 <!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
 
