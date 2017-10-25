@@ -8,14 +8,6 @@ permalink: /oddily/parkour/
 
 ## Termíny tréninků
 
-Trénink v parkourové [hale]() bude ještě potvrzen a upřesněn.
-
-Od listopadu se také úterní tréninky přesunou do sportovní haly v Šestajovicích.
-
-* úterý 17. října 2017 trénink zrušen
-* čtvrtek 19. října 2017 17:00-18:00, před ZŠ Šestajovice
-* pátek 20. října 2017 16:00-17:15 mladší, 17:15-18:30 starší, Černý Most
-* úterý 24. října 2017 trénink zrušen
 * čtvrtek 26. října 2017 17:00-18:00 poslední letošní čtvrteční trénink, před ZŠ Šestajovice
 * neděle 29. října 2017 [jam na Vltavské](https://www.facebook.com/events/328453397629302/) Pozn.: Nejedná se o oficiální trénink ani akci T.J. Sokol Šestajovice, ale spíše o společenskou událost, účast s rodiči nebo na vlastní zodpovědnost.
 * úterý 31. října 2017 trénink nakonec **není** zrušen, sraz v 18:00 před ZŠ Šestajovice
