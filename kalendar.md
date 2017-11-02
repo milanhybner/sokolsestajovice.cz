@@ -4,12 +4,6 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-## říjen 2017
-
-* 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/sestka/)
-* 8\. října – Památný den sokolstva (Šestajovice)
-* 28\. října – Oslava Den vzniku Československa (Šestajovice)
-
 ## listopad 2017
 
 * (florbal) 26\. listopadu – Turnaj
@@ -18,7 +12,6 @@ permalink: /kalendar/
 
 * 3\. prosince (bude potvrzeno podle plánu obce) – Punčobraní
 * 16\. prosince 18:00 – Betlémské světlo
-* 16\. prosince 
 
 ## březen 2018
 
@@ -86,3 +79,8 @@ Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy B
 * \[zálesák\] 8\.–10. září – Krajem kamenů (Týnčany)
 * \[zálesák\] 29\.–30. září – výprava Čs. opevnění (pevnost Hanička u Rokytnice v OH)
 
+## říjen 2017
+
+* 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/sestka/)
+* 8\. října – Památný den sokolstva (Šestajovice)
+* 28\. října – Oslava Den vzniku Československa (Šestajovice)
