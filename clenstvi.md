@@ -48,11 +48,8 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 <div class="6u$ 12u$(small)">
 <select id="oddil" name="oddil" onchange="vypis()">
 <option value="nic">Vyberte oddíl</option>
-<option value="flp">Florbal – přípravka</option>
-<option value="fle">Florbal – elévové</option>
-<option value="flm">Florbal – mladší žáci</option>
-<option value="fls">Florbal – starší žáci a dorost</option>
 <option value="fl1t">Florbal – jednou týdně</option>
+<option value="fl2t">Florbal – dvakrát týdně</option>
 <option value="zen">Kondiční cvičení žen</option>
 <option value="muz">Kondiční cvičení mužů</option>
 <option value="mic">Míčové hry</option>
@@ -103,11 +100,8 @@ clenske_cena["dospeli"]=550;
 
 var oddilove_cena = new Array();
 oddilove_cena["nic"]=0;
-oddilove_cena["flp"]=1000;
-oddilove_cena["fle"]=2000;
 oddilove_cena["fl1t"]=1000;
-oddilove_cena["flm"]=2000;
-oddilove_cena["fls"]=2000;
+oddilove_cena["fl2t"]=2000;
 oddilove_cena["zen"]=1000;
 oddilove_cena["muz"]=1000;
 oddilove_cena["mic"]=1000;
