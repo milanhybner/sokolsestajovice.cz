@@ -6,11 +6,11 @@ permalink: /kalendar/
 
 ## listopad 2017
 
-* (florbal) 26\. listopadu – Turnaj
+* 26\. listopadu – Turnaj pořádaný florbalovým oddílem
 
 ## prosinec 2017
 
-* 3\. prosince (bude potvrzeno podle plánu obce) – Punčobraní
+* 16\. prosince – „Punčobraní“
 * 16\. prosince 18:00 – Betlémské světlo
 
 ## březen 2018
