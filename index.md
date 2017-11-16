@@ -4,6 +4,10 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
+# Dnešní tréninky florbalu se nekonají!
+
+Děkujeme za pochopení
+
 <div class="row">
   <div class="12u$(medium)">
     <img src="{{relative}}/images/slet-hlavicka.png" class="image fit">
