@@ -254,7 +254,7 @@ Uvedený čas je orientační. Pro podrobnější informace klikněte na přísl
 
 ---
 
-[Kontaktujte nás!]({{ http://www.sokolsestajovice.cz }}/kontakt/){:.button}
+[Kontaktujte nás!]({{ relative }}/kontakt/){:.button}
 
 
 
