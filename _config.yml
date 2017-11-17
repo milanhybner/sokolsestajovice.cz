@@ -16,5 +16,3 @@ defaults:
 
 future: true
 
-gems:
-  - jekyll-feed
