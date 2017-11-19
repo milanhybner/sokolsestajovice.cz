@@ -17,5 +17,4 @@ collections:
       - {label: "Výcuc", name: "excerpt", widget: "string"}
       - {label: "Název do adresy - krátký bez interpunkce a mezer", name: "nazevurl", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
-      - {label: "Obrázek", name: "image", widget: "image", required: false}
       - {label: "Text obsahu", name: "body", widget: "markdown"}
