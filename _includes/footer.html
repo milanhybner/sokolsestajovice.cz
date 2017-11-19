@@ -19,19 +19,19 @@
 				</section>
 				<section>
 					<h2>Napište nám</h2>
-					<form id="f" netlify>
+					<form id="napiste-nam" netlify>
 						<div class="field half first">
-							<input type="text" name="nameg" id="nameg" placeholder="Jméno" />
-							<input id="nazevg" type="hidden" value="{{ page.title }}">
+							<input type="text" name="jmeno" placeholder="Jméno" />
+							<input name="ze-stranky" type="hidden" value="{{ page.title }}">
 						</div>
 						<div class="field half">
-							<input type="email" name="emailg" id="emailg" placeholder="E-mail" />
+							<input type="email" name="email" placeholder="E-mail" />
 						</div>
 						<div class="field">
-							<textarea name="messageg" id="messageg" placeholder="Zpráva"></textarea>
+							<textarea name="zprava" placeholder="Zpráva"></textarea>
 						</div>
 						<ul class="actions">
-							<li><input id="btng" type="submit" value="Odeslat" class="special" /></li>
+							<li><input type="submit" value="Odeslat" class="special" /></li>
 						</ul>
 					</form>
 					<div class="box alt">
