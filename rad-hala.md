@@ -4,21 +4,21 @@ title: Provozní řád školní tělocvičny obce Šestajovice
 permalink: /rad-hala/
 ---
 
-# Článek 1
+## Článek 1
 
 Provozovatel: Obec Šestajovice, Husova 60, 250 92 Sestajovice, IČ 00240851.
 
 Školní tělocvična obce Šestajovice slouží přednostně potřebám Základní školy Šestajovice, Mateřské školy Šestajovice, T.J. SOKOL Šestajovice a občanům obce Šestajovice, dále jiným osobám a organizacím.
 
-# Článek 2
+## Článek 2
 
 Všichni uživatelé jsou povinni řídit se tímto provozní řádem a požárními poplachovými směrnicemi.
 
-# Článek 3
+## Článek 3
 
 Vedoucí cvičení (učitel, trenér, cvičitel, vedoucí skupiny), dále každý vedoucí pořadatel podniku s přístupem veřejnosti, který přichází do tělocvičny, si při své první návštěvě pročte provozní řád a písemně potvrdí seznámení se s jeho obsahem. Seznam povede správce tělocvičny.
 
-# Článek 4
+## Článek 4
 
 Všichni uživatelé ručí za všechny škody, které v průběhu užívání způsobili, mimo škod vzniklých běžným opotřebením.
 
@@ -26,31 +26,31 @@ Vedoucí cvičení jsou povinni každou škodu na zařízení tělocvičny ihned
 
 Mimo škod vzniklých běžným opotřebením jsou uživatelé povinni každou škodu finančně hradit, eventuelně sami uvést nejpozději do 14 dnů do původního stavu.
 
-# Článek 5
+## Článek 5
 
 Manipulace s vodou a plynem je povolena pouze správci, manipulace s elektrickým osvětlením je povolena pouze osobám k tomu určeným tzn. správci a cvičitelům.
 
-# Článek 6
+## Článek 6
 
 Ve všech prostorách tělocvičny je přísný zákaz kouření, požívání alkoholu a psychotropních látek.
 
-# Článek 7
+## Článek 7
 
 Všichni vedoucí cvičebních hodin a pořadatelé akcí za přítomnosti veřejnosti jsou povinni řídit se pokyny správce.
 
-# Článek 8
+## Článek 8
 
 Veškerá sportovní činnost se provozuje pouze na vlastní ploše tělocvičny. Pro všechny uživatele tělocvičny platí přísný zákaz sportování/cvičení v jiných prostorách, zejména v nářaďovně.
 
-# Článek 9
+## Článek 9
 
 Jednotlivým cvičebním skupinám, družstvu nebo jednotlivcům může být vstup do tělocvičny umožněn jen v přítomnosti předem nahlášených odpovědných vedoucích nebo jejich zástupců, a to ve stanovené dny a hodiny.
 
-# Článek 10
+## Článek 10
 
 Všichni vedoucí cvičebních hodin a pořadatelé jednotlivých sportovních akcí zodpovídají za dodržování úsporných energetických opatření.
 
-# Článek 11
+## Článek 11
 
 Při vstupu do budovy tělocvičny se řídíme těmito zásadami:
 
@@ -66,7 +66,7 @@ Při vstupu do budovy tělocvičny se řídíme těmito zásadami:
 * je zakázán vstup se psy nebo jiným domácími zvířaty
 * je zakázáno užívat tělocvičnu k jiným účelům než k tomu určeným
 
-# Článek 12
+## Článek 12
 
 Při vstupu do šaten a sprch se řídíme těmito zásadami:
 
@@ -76,7 +76,7 @@ Při vstupu do šaten a sprch se řídíme těmito zásadami:
 * používání sprch musí být zaměřeno na krátké nejnutnější osprchování s vyloučením svévolného plýtvání vodou nebo dokonce ničením zařízení sprch
 * za vzniklé škody v šatnách a ve sprchách zodpovídají vedoucí cvičení
 
-# Článek 13
+## Článek 13
 
 Při vstupu do tělocvičny se řídíme těmito zásadami:
 
@@ -86,7 +86,7 @@ Při vstupu do tělocvičny se řídíme těmito zásadami:
 * v případě, že vedoucí cvičení zjistí, že přes veškeré nařízení je v tělocvičně někdo nepřezutý, vykáže ho ihned z tělocvičny
 * namátkovou kontrolu přezouvání provádí správce tělocvičny
 
-# Článek 14
+## Článek 14
 
 Při používání nářadí z nářaďovny se řídíme těmito zásadami:
 
@@ -95,7 +95,7 @@ Při používání nářadí z nářaďovny se řídíme těmito zásadami:
 * za bezpečnou dopravu nářadí do tělocvičny a z tělocvičny nebo za vzniklou škodu v tělocvičné nebo nářaďovně zodpovídají vedoucí cvičení
 * po skončení cvičení bude nářadí a náčiní vráceno na původní místo
 
-# Článek 15
+## Článek 15
 
 Při používání tělocvičny za účasti veřejnosti se řídí pořadatelé těmito zásadami:
 
@@ -104,11 +104,11 @@ Při používání tělocvičny za účasti veřejnosti se řídí pořadatelé 
 * prostory tělocvičny včetně všech přilehlých prostor předá pořadatelům správce tělocvičny
 * v případě zjištění závad sepíše správce s pořadatelem krátký protokol
 
-# Článek 16
+## Článek 16
 
 Přestupky při porušení zásad uvedených v Provozním řádu školní tělocvičny budou řešeny následovně: porušení zásad uvedených v provozním řádu bude mít za následek vydání zákazu porušiteli k užívání tělocvičny na dobu určitou, eventuelně na dobu trvalou. Rozhodnutí o zákazu používání tělocvičny provede Obecní úřad Šestajovice.
 
-# Článek 17
+## Článek 17
 
 Úklid tělocvičny
 
