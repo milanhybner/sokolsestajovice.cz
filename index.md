@@ -6,11 +6,6 @@ permalink: /
 
 <div class="row">
   <div class="12u$(medium)">
-    <img src="{{relative}}/images/slet-hlavicka.png" class="image fit">
-  </div>
-</div>
-<div class="row">
-  <div class="12u$(medium)">
     <p><a href="{{ site.baseurl }}/clenstvi/" class="button">Členství a příspěvky</a>
     <a href="{{ site.baseurl }}/oddily/" class="button">Oddíly a rozvrh</a>
     <a href="http://sokolsestajovice.rajce.idnes.cz" class="button">Fotogalerie</a>
