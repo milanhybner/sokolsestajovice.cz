@@ -4,10 +4,6 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-## listopad 2017
-
-* 26\. listopadu – Turnaj pořádaný florbalovým oddílem
-
 ## prosinec 2017
 
 * 16\. prosince – „Punčobraní“
@@ -84,3 +80,8 @@ Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy B
 * 8\. října – [Šestajovická šestka](http://www.sokolsestajovice.cz/sestka/)
 * 8\. října – Památný den sokolstva (Šestajovice)
 * 28\. října – Oslava Den vzniku Československa (Šestajovice)
+
+## listopad 2017
+
+* 26\. listopadu – Turnaj pořádaný florbalovým oddílem
+
