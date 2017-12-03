@@ -8,9 +8,6 @@ permalink: /oddily/parkour/
 
 ## Termíny tréninků
 
-* úterý 21. listopadu 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
-* úterý 28. listopadu 2017 **trénink zrušen**
-* úterý 21. listopadu 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
 * úterý 5. prosince 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
 * úterý 12. prosince 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
 * úterý 19. prosince 2017 17:00-18:00 trénink ve sportovní hale Šestajovice
@@ -18,7 +15,6 @@ permalink: /oddily/parkour/
 Dále 9., 16., 23. a 30. ledna 2018 úterky ve sportovní hale Šestajovice.
 
 <!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
-
 
 [Historie úprav této stránky](https://github.com/milanhybner/sokolsestajovice.cz/commits/gh-pages/oddily/parkour)
 
