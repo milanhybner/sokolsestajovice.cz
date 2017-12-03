@@ -17,6 +17,10 @@ permalink: /kalendar/
 
 * 27\. května – Oblastní slet v Brandýse nad Labem
 
+## červenec 2018
+
+* 1\.–6. července – Všesokolský slet Praha Eden
+
 ---
 
 Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy Barákovy](https://airtable.com/shrB0jgejZMvEXFMJ/tblWoZJfcbaOsz5BL?backgroundColor=cyan&viewControls=on)
