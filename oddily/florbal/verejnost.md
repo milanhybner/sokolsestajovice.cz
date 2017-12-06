@@ -10,6 +10,8 @@ permalink: /oddily/florbal/
 
 [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special}
 
+Upozornění: Do skupiny _přípravka_ (čtvrtek 16:00) už nepřijímáme nové členy. 
+
 ## Rozdělení do skupin podle věku
 
 |   Skupina   |     Ročník    |
