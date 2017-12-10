@@ -6,13 +6,14 @@ permalink: /kalendar/
 
 ## prosinec 2017
 
-* 16\. prosince – „Punčobraní“
+- [trampolíny] 10\. prosince - Vánoční štrůdl (závod)
+* 16\. prosince – „Punčobraní“ 14:00 náměstí 9. května Šestajovice
 * 16\. prosince 18:00 – Betlémské světlo
 
 ## leden 2018
 
 - 11\. ledna - schůze výboru jednoty
-- 31\. ledna - deadline objednávek sletových úborů
+- 31\. ledna - deadline předposlední kolo objednávek sletových úborů
 
 ## březen 2018
 
