@@ -10,9 +10,9 @@ permalink: /oddily/zdravotni/
 
 **TV sál v Základní škole.**
 
-**Čtvrtek 19:00 – 20:00.**
+**Čtvrtek 19:10 – 20:10.**
 
-Sraz je před ZŠ Šestajovice v 18.55 hod.
+Sraz je před ZŠ Šestajovice v 19.05 hod.
 
 Cvičení je zaměřeno na posílení těla přirozenými, avšak pro pohybový aparát nepřetěžujícími metodami. Zařazujeme také prvky Pilátes, Jógy a relaxačních cvičení. Používáme především overbally a cvičební gumy.
 
