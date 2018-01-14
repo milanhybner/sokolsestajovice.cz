@@ -18,13 +18,19 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 1. [**Vyplňte přihlášku online**](https://goo.gl/forms/2LCaS4E1x8TJD8zb2){:target="_blank"},
 2. na e-mail uvedený v přihlášce je automaticky odeslán PDF dokument předvyplněný údaji z přihlášky; dokument zkontrolujte, vytiskněte, podepište a přineste Vašemu cvičiteli,
-3. uhraďte převodem na účet příspěvky
+3. uhraďte převodem na účet příspěvky podle pokynů v tomto článku
 
-Pozn.: Pokud se hlásíte do více oddílů, přihlášku vyplňte jen jednou a do evidenčního listu ručně připište druhý oddíl. Pokud už jste členy jednoho oddílu a hlásíte se do dalšího a evidenční list už jste odevzdávali, přihlášku už znovu nevyplňujte. Stačí domluvit členství v novém oddíle s jeho vedoucím a uhradit oddílový příspěvek.
+**Poznámky**
+
+* Pokud se hlásíte do více oddílů, přihlášku vyplňte jen jednou a do evidenčního listu ručně připište druhý oddíl.
+* Pokud už jste členy jednoho oddílu a hlásíte se do dalšího a evidenční list už jste odevzdávali, přihlášku už znovu nevyplňujte. Stačí domluvit členství v novém oddíle s jeho vedoucím a uhradit oddílový příspěvek.
+* Pokud jste se už v minulém pololetí nebo roce přihlašovali, není třeba přihlašovat se znova. Pokud by se změnily nějaké údaje, které jste v přihlášce vyplňovali, dejte nám prosím vědět přes [kontaktní formulář](#napiste-nam).
 
 # Příspěvky
 
 Příspěvek člena České obce sokolské (**členský příspěvek**) se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Většinou také chcete cvičit a aktivně navštěvovat nějaký oddíl; pak je třeba uhradit ještě **oddílový příspěvek**. Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června.
+
+<!--
 
 Údaje pro zaslání příspěvků se zobrazí po vyplnění následujícího formuláře. Při hrazení členského a oddílového příspěvku uhraďte prosím každý příspěvek samostatným příkazem s příslušným variabilním symbolem.
 
@@ -68,13 +74,15 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 </div>
 </div>
 </form>
+
 <div id="zobraz"></div>
 
----
+
 
 * _Poznámka k oddílu rodičů a dětí:_ **Oddíl rodičů a dětí** hradí 2000,– Kč za rok i když cvičí dva cvičenci - rodič a dítě. U cvičení v tomto oddíle se předpokládá, že jsou oba cvičenci členy Sokola - ne pouze dítě. *Celková cena tedy činí 2800,– Kč/rok.*
 
 * V případě, že cvičenec není členem Sokola, je oddílový poplatek 4250,– Kč za rok pro jakýkoli oddíl. Cena pro nesokolskou veřejnost je vyšší a vychází z reálných nákladů. Důvodem jsou dotace, které jako Sokol získáváme a hradíme z těchto prostředků další náklady s aktivitami sokolských cvičenců spojené. Cena je tedy pro členy nižší a to o dotace, granty a jiné pro Sokol získané finanční prostředky, závazně použitelné pouze pro členy Sokola.
+-->
 
 * Platby v hotovosti přijímáme ve výjimečných případech. Důvodem je přehlednost plateb a nezdržování samotného cvičení administrativními úkony.
 
@@ -88,7 +96,7 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 
 Přečtěte si o Sokole na stránkách [České obce sokolské](http://www.sokol.eu/menu/18), na stránkách [župy Barákovy](http://www.zbarakova.cz/) nebo na informačním serveru [Sokol.cz](http://www.sokol.cz/sokol).
 
-**Hledáme cvičitele a dobrovolníky** ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. Rodinní příslušníci cvičitelů a činovníků T.J. Sokol Šestajovice nehradí oddílový příspěvek. V případě zájmu nás prosím [kontaktujte prostřednictvím formuláře níže](#f).
+**Hledáme cvičitele a dobrovolníky** ochotné pomoci s organizováním aktivit T.J. Sokol Šestajovice. Rodinní příslušníci cvičitelů a činovníků T.J. Sokol Šestajovice nehradí oddílový příspěvek. V případě zájmu nás prosím [kontaktujte prostřednictvím formuláře níže](#napiste-nam).
 
 Také nás můžete podpořit [nakoupením v e-shopu prostřednictvím _givt_](https://givt.cz/RAOSset.php?organizationId=2903) – nezaplatíte nic navíc, přesto nám přispějete.
 
