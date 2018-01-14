@@ -29,7 +29,7 @@ permalink: /
     {% endif %}
 {% endfor %}
 
-<a href="https://calendar.google.com/calendar?cid=dm0ydW1rdTRhcTJrdDg1bWhxczRidG5oaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" class="button">Kalendář akcí</a>
+<a href="{{relative}}/kalendar" class="button">Kalendář akcí</a>
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts limit: 8 %}
