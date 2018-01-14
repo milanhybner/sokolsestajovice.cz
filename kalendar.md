@@ -4,36 +4,8 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-## prosinec 2017
+<iframe src="https://calendar.google.com/calendar/embed?src=vm2umku4aq2kt85mhqs4btnhio%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-- [trampolíny] 10\. prosince - Vánoční štrůdl (závod)
-* 16\. prosince – „Punčobraní“ 14:00 náměstí 9. května Šestajovice
-* 16\. prosince 18:00 – Betlémské světlo
-
-## leden 2018
-
-- 11\. ledna - schůze výboru jednoty
-- 31\. ledna - deadline předposlední kolo objednávek sletových úborů
-
-## březen 2018
-
-* 25\. března 13:00 – 16:00 – Zábavné sportovní odpoledne ve SH Šestajovice
-
-## květen 2017
-
-* 27\. května – Oblastní slet v Brandýse nad Labem
-
-## červen 2017
-
-- 20\. června - T-Mobile Olympijský běh
-
-## červenec 2018
-
-* 1\.–6. července – Všesokolský slet Praha Eden
-
-## říjen 2018
-
-- 28\. října - Oslavy 100 let republiky
 
 ---
 
@@ -103,3 +75,8 @@ Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy B
 
 * 26\. listopadu – Turnaj pořádaný florbalovým oddílem
 
+## prosinec 2017
+
+- [trampolíny] 10\. prosince - Vánoční štrůdl (závod)
+* 16\. prosince – „Punčobraní“ 14:00 náměstí 9. května Šestajovice
+* 16\. prosince 18:00 – Betlémské světlo

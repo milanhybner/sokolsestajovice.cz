@@ -6,7 +6,7 @@ permalink: /
 
 <div class="row">
   <div class="12u$(medium)">
-    <p><a href="{{ site.baseurl }}/clenstvi/" class="button">Členství a příspěvky</a>
+    <p><a href="{{ site.baseurl }}/clenstvi/" class="button">Členství</a>
     <a href="{{ site.baseurl }}/oddily/" class="button">Oddíly a rozvrh</a>
     <a href="http://sokolsestajovice.rajce.idnes.cz" class="button">Fotogalerie</a>
     <a href="{{ site.baseurl }}/o-sokole/" class="button">O Sokole</a>
@@ -20,8 +20,6 @@ permalink: /
   </div>
 </div>
 
-# Chystáme
-
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
@@ -31,11 +29,7 @@ permalink: /
     {% endif %}
 {% endfor %}
 
-<a href="{{ site.baseurl }}/kalendar/" class="button">Více info v kalendáři</a>
-
----
-
-# Proběhlo
+<a href="https://calendar.google.com/calendar?cid=dm0ydW1rdTRhcTJrdDg1bWhxczRidG5oaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" class="button">Kalendář akcí</a>
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts limit: 8 %}
