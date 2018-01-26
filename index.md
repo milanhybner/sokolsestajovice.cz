@@ -42,5 +42,6 @@ permalink: /
 
 [Všechny články]({{ relative }}/archiv/){:.button .special}
 
+<embed src="http://www.sokolsestajovice.cz/files/zalesan-nabor.pdf" width="500" height="375" type='application/pdf'>
 
 
