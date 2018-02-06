@@ -19,7 +19,7 @@ permalink: /
     <p><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftjsokolsestajovice%2F&tabs=timeline&height=400&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=469260143436623" style="width:500px;height:400px;border:none;overflow:hidden;margin-bottom:20px" scrolling="no" frameborder="0" allowTransparency="true" ></iframe></p>
   </div>
   <div class="6u$(medium)">
-    <p><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vm2umku4aq2kt85mhqs4btnhio%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=Europe%2FPrague" style="width:100%;height:400px;border:none;overflow:hidden;margin-bottom:20px" scrolling="no" frameborder="0" allowTransparency="true" ></iframe></p>
+    <p><iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vm2umku4aq2kt85mhqs4btnhio%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=Europe%2FPrague" style="width:500px;height:400px;border:none;overflow:hidden;margin-bottom:20px" scrolling="no" frameborder="0" allowTransparency="true" ></iframe></p>
   </div>
 </div>
 
