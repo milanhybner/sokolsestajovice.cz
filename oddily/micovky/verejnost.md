@@ -27,5 +27,3 @@ Zvýšit svojí pohyblivost, zlepšit postřeh a koordinaci pohybů.
 Simona Čermáková  
 vedoucí oddílu  
 602 110 931
-
-Od února 2018 rozšíří naše řady další cvičitel – Eva Vaňková – specializace volejbal.
