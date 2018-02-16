@@ -30,6 +30,9 @@ Milan Hybner
 
 vedoucí oddílu
 
+
+---
+
 <!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
 
 [Historie úprav této stránky](https://github.com/milanhybner/sokolsestajovice.cz/commits/gh-pages/oddily/parkour)
