@@ -6,30 +6,40 @@ permalink: /oddily/parkour/
 
 **Kapacita oddílu je naplněna, už nepřijímáme další členy.**
 
-## Dotazník ohledně tréninků
+Do 20. března včetně zůstávají tréninky v úterý od 17:00 ve sportovní hale Šestajovice.
 
-Vzhledem k tomu, že
+Rozpis tréninků platný od 27. března:
 
-* blíží se čas, kdy bude možné trénovat venku
-* mezi členy oddílu jsou takové rozdíly (v dovednostech, ambicích i disciplíně), že zvažuji rozdělení na dvě skupiny
-* chystám náhradní tréninky místo odpadlých tréninků v únoru
+**Pondělí 18:00-19:00**
 
-bych rád zjistil Vaše časové možnosti (Vašich dětí).
+* Filáček
+* Hejna
+* Veselý
+* Vobiš
+* Vodička
+* Merhaut
 
-Za tímto účelem prosím o vyplnění dotazníku, který najdete na **<https://goo.gl/forms/KEuBHmCT85V7u8Wi2>**
+**Út 18:15-19:15**
 
-Odpovědi vyhodnotím ve čtvrtek, prosím tedy vyplnit nejpozději do středy 21. 2.
+* Adámek
+* Böjtös 
+* Čejka
+* Malina
+* Opletal
+* Tichý
 
-Věřte, že jediným důvodem pro takto důkladné zjišťování Vašich časových možností je snaha vyjít Vám vstříc.
+**Čt 16:30-17:30**
 
-Technická poznámka: Prosím domluvte se v rámci rodiny na jedné osobě, která za člena dotazník vyplní. Vzhledem k tomu, že není ověřováno, kdo dotazník vyplňuje, jakmile se v něm objeví více odpovědí za jednoho člena, budu odpovědi považovat za zfalšované a nebudu je brát v potaz.
+* Angelovič
+* Čermák
+* Müller
+* Námisňák
+* Schejbal
+* Sikačová
 
-Předem děkuji za vyplnění,
+Pokud není předem informováno jinak, bude sraz před ZŠ Šestajovice.
 
-Milan Hybner
-
-vedoucí oddílu
-
+V pondělí 2. dubna, ve čtvrtek 12. dubna a v úterý 24. dubna se tréninky konat nebudou. Společně s tréninky zrušenými v únoru je možné je nahradit během ostatních dubnových tréninků jiných skupin, tedy 3., 5., 9., 10., 17., 19. nebo 26. dubna.
 
 ---
 
