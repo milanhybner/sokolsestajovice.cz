@@ -39,7 +39,7 @@ Rozpis tréninků platný od 27. března:
 
 Pokud není předem informováno jinak, bude sraz před ZŠ Šestajovice.
 
-V pondělí 2. dubna, ve čtvrtek 12. dubna a v úterý 24. dubna se tréninky konat nebudou. Společně s tréninky zrušenými v únoru je možné je nahradit během ostatních dubnových tréninků jiných skupin, tedy 3., 5., 9., 10., 17., 19. nebo 26. dubna.
+V pondělí 2. dubna, ve čtvrtek 12. dubna, v úterý 24. dubna a v úterky 1. a 8. května se tréninky konat nebudou. Společně s tréninky zrušenými v únoru je možné je nahradit během ostatních dubnových tréninků jiných skupin, tedy 3., 5., 9., 10., 17., 19. nebo 26. dubna.
 
 ---
 
