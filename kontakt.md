@@ -8,7 +8,7 @@ permalink: /kontakt/
 
 Žižkova 142/1  
 250 92 Šestajovice  
-IČ: 02952173  
+[IČ: 02952173](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=867001&typ=PLATNY)  
 
 ### Starosta
 
