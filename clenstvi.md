@@ -28,7 +28,7 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 # Příspěvky
 
-[Aktuální informace o přípsěvcích](http://www.sokolsestajovice.cz/2018/01/14/platby.html)
+[Aktuální informace o přípsěvcích]({{relative}}/2018/01/14/platby.html)
 
 Příspěvek člena České obce sokolské (**členský příspěvek**) se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Většinou také chcete cvičit a aktivně navštěvovat nějaký oddíl; pak je třeba uhradit ještě **oddílový příspěvek**. Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června.
 
@@ -93,6 +93,12 @@ Příspěvek člena České obce sokolské (**členský příspěvek**) se hrad�
 * Stávající členové hradí členský příspěvek v lednu.
 
 * Členové obdrží na základě zaplacení členského příspěvku na daný rok známku (a v letech 2017 a 2018 tzv. „sletovou“ známku pro podporu všesokolského sletu), kterou nalepí na členský průkaz, jímž se na akcích prokážou jako aktivní členové České obce sokolské.
+
+# Práva a povinnosti člena
+
+* Práva a povinnosti členů jsou vymezeny [Stanovami České obce sokolské]({{relative}}/files/stanovy-verze-0_1.pdf).
+
+* Další pravidla specifická pro T.J. Sokol Šestajovice jsou uvedena v [provozním řádu jednoty]({{relative}}/rad/).
 
 # Líbí se Vám sokolská myšlenka a filosofie?
 
