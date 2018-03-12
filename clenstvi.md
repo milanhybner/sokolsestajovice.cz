@@ -26,6 +26,10 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 * Pokud už jste členy jednoho oddílu a hlásíte se do dalšího a evidenční list už jste odevzdávali, přihlášku už znovu nevyplňujte. Stačí domluvit členství v novém oddíle s jeho vedoucím a uhradit oddílový příspěvek.
 * Pokud jste se už v minulém pololetí nebo roce přihlašovali, není třeba přihlašovat se znova. Pokud by se změnily nějaké údaje, které jste v přihlášce vyplňovali, dejte nám prosím vědět přes [kontaktní formulář](#napiste-nam).
 
+# Odhlášky
+
+Odhlásit se z oddílu, případně zrušit členství můžete pomocí formuláře na adrese <https://airtable.com/shr1DArZuWaoQ0pZQ>. Přihláška není právně závazná, slouží pouze pro účely vnitřní evidence členů. Pro zrušení členství je třeba podat písemnou žádost o ukončení členství v T.J. Sokol Šestajovice na adresu sídla jednoty, kterou naleznete na stránce [kontaktů]({{relative}}/kontakt/).
+
 # Příspěvky
 
 [Aktuální informace o přípsěvcích]({{relative}}/2018/01/14/platby.html)
