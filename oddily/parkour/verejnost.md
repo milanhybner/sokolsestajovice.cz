@@ -4,7 +4,7 @@ title: Oddíl parkouru
 permalink: /oddily/parkour/
 ---
 
-**Kapacita oddílu je naplněna, už nepřijímáme další členy.**
+**Do čtvrteční skupiny přijímáme další členy**
 
 Do 20. března včetně zůstávají tréninky v úterý od 17:00 ve sportovní hale Šestajovice.
 
