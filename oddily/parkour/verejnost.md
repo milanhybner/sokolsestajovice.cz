@@ -14,16 +14,18 @@ Rozpis tréninků platný od 27. března:
 
 * Filáček
 * Hejna
+* Merhaut
+* Sikačová
 * Veselý
 * Vobiš
 * Vodička
-* Merhaut
 
 **Út 18:15-19:15**
 
 * Adámek
 * Böjtös 
 * Čejka
+* Čermák
 * Malina
 * Opletal
 * Tichý
@@ -31,11 +33,9 @@ Rozpis tréninků platný od 27. března:
 **Čt 16:30-17:30**
 
 * Angelovič
-* Čermák
 * Müller
 * Námisňák
 * Schejbal
-* Sikačová
 
 Pokud není předem informováno jinak, bude sraz před ZŠ Šestajovice.
 
