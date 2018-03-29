@@ -23,6 +23,8 @@ permalink: /
   </div>
 </div>
 
+![Uklidně česko plakát]({{relative}}/images/Uklidme_cesko-2018.jpg "Ukliďme česko plakát"){:.image .fit}
+
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
@@ -42,7 +44,3 @@ permalink: /
 {% endfor %}
 
 [Všechny články]({{ relative }}/archiv/){:.button .special}
-
-<embed src="http://www.sokolsestajovice.cz/files/zalesak-nabor.pdf" width="100%" height="600" type='application/pdf'>
-
-
