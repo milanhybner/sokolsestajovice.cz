@@ -23,7 +23,7 @@ permalink: /
   </div>
 </div>
 
-![Uklidně česko plakát]({{relative}}/images/Uklidme_cesko-2018.jpg "Ukliďme česko plakát"){:.image .fit}
+<!-- ![Uklidně česko plakát]({{relative}}/images/Uklidme_cesko-2018.jpg "Ukliďme česko plakát"){:.image .fit} -->
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
