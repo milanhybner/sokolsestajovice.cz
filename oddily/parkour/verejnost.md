@@ -77,7 +77,7 @@ Stále platí, že trénink je především pro danou skupinu (pondělky pro pon
 * Schejbal - nezaplaceno
 * Semerák - nepřihlášen
 * Votava - nepřihlášen
-* Mikuláš - nepřihlášen
+* Matyáš - nepřihlášen
 * Tobiáš - nepřihlášen
 
 ---
