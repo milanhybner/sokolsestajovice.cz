@@ -13,7 +13,7 @@ permalink: /oddily/
 * [15:15 – 16:00 Všestrannost]({{relative}}/oddily/vsestrannost)
 * [**15:00 – 15:45 Tanec**]({{relative}}/oddily/tanec)
 * [**17:00 – 18:00 Rodiče a děti**]({{relative}}/oddily/rodice-a-deti)
-* [18:00 – 19:00 Parkour]({{relative}}/oddily/parkour) (sraz před ZŠ)
+* [18:00 – 19:00 Parkour]({{relative}}/oddily/parkour)
 * [**19:00 – 20:00 Kondiční cvičení mužů**]({{relative}}/oddily/muzi)
 * [**19:00 – 20:00 Kondiční cvičení žen**]({{relative}}/oddily/zeny)
 
@@ -33,7 +33,7 @@ permalink: /oddily/
 ## Čtvrtek
 
 * [16:00 – 17:30 Florbal]({{relative}}/oddily/florbal)
-* [16:30 – 17:30 Parkour]({{relative}}/oddily/parkour) (sraz před ZŠ)
+* [16:30 – 17:30 Parkour]({{relative}}/oddily/parkour)
 * [**17:30 – 19:00 Florbal**]({{relative}}/oddily/florbal)
 * [**19:00 – 20:00 Florbal**]({{relative}}/oddily/florbal)
 * [**19:00 – 20:00 Zdravotní cvičení (nejen) pro seniory**]({{relative}}/oddily/zdravotni) (sraz před ZŠ v 18:55)
