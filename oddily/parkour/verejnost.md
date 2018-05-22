@@ -6,28 +6,16 @@ permalink: /oddily/parkour/
 
 **Nové členy již nepřijímáme.**
 
-## Rozpis tréninků
 
-Zkoumání možností pohybu v různých prostředích je podstatnou součástí parkouru. Proto, a také na základě žádostí od členů, budou některé tréninky probíhat na jiném místě (a kvůli časové návaznosti jiných tréninků, na kterých musím být, i v jinou dobu). Věřím, že to bude pro všechny zajímavé a přínosné, omlouvám se za vzniklé komplikace a děkuji za pochopení.
-
-Stále platí, že trénink je především pro danou skupinu (pondělky pro pondělní, atd...), nicméně nahrazovat zrušené tréninky (tj. úterky 24. 4 a 1. a 8. 5.) případně neúčast si můžete nahrazovat na trénincích jiných skupin.
 
 |   Datum   |               Místo                |   Čas srazu    |
 |-----------|------------------------------------|----------------|
-| čt 3. 5.  | Šestajovice u ZŠ                   | 16:30          |
-| po 7. 5.  | Šestajovice u ZŠ                   | 18:00          |
-| čt 10. 5. | Šestajovice u ZŠ                   | 16:30          |
-| po 14. 5. | Černý Most, parkourové hřiště      | 17:30          |
-| út 15. 5. | Černý Most, parkourové hřiště      | 18:30          |
-| čt 17. 5. | Černý Most, parkourové hřiště      | 16:00          |
-| po 21. 5. | Klánovice u školy                  | 17:30          |
-| út 22. 5. | Klánovice u školy                  | bude upřesněno |
+| út 22. 5. | K̶l̶á̶n̶o̶v̶i̶c̶e̶ ̶u̶ ̶š̶k̶o̶l̶y̶  zrušeno   	     | –––            |
 | čt 24. 5. | Klánovice u školy                  | 16:30          |
-|           | B̶r̶a̶n̶d̶ý̶s̶ ̶n̶a̶d̶ ̶L̶a̶b̶e̶m̶ |                |
 | po 28. 5. | Šestajovice u ZŠ                   | 18:00          |
 | út 29. 5. | Šestajovice u ZŠ                   | 18:15          |
 | čt 31. 5. | Šestajovice u ZŠ                   | 16:30          |
-| po 4. 6.  | u Nuselského mostu                 | 18:00          |
+| po 4. 6.  | [u Nuselského mostu](http://www.dpsc.8u.cz/spoty/ip-pavlova/) na východní straně	| 18:00          |
 | út 5. 6.  | u Nuselského mostu                 | bude upřesněno |
 | čt 7. 6.  | u Nuselského mostu                 | 17:00          |
 | so 9. 6.  | Černý Most, parkourové hřiště      | 14:00          |
