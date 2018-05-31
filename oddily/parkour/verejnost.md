@@ -6,29 +6,38 @@ permalink: /oddily/parkour/
 
 **Nové členy již nepřijímáme.**
 
+**Čtvrteční tréninky jsou trvale zrušeny.**
+
+|   Datum   |             Místo             | Čas srazu |
+|-----------|-------------------------------|-----------|
+| po 4. 6.  | u Nuselského mostu            | 18:00     |
+| út 5. 6.  | u Nuselského mostu            | 19:15     |
+| so 9. 6.  | Černý Most, parkourové hřiště | 14:00     |
+| po 11. 6. | Klánovice na nádraží          | 17:30     |
+| út 12. 6. | Klánovice na nádraží          | 18:40     |
+| po 18. 6. | metro Vltavská                | 18:00     |
+| so 23. 6. | Praha Jarov                   | 13:00     |
+| po 25. 6. | Šestajovice u ZŠ              | 18:00     |
+| út 26. 6. | Šestajovice u ZŠ              | 18:15     |
 
 
-|   Datum   |               Místo                |   Čas srazu    |
-|-----------|------------------------------------|----------------|
-| út 22. 5. | K̶l̶á̶n̶o̶v̶i̶c̶e̶ ̶u̶ ̶š̶k̶o̶l̶y̶  zrušeno   	     | –––            |
-| čt 24. 5. | Klánovice u školy                  | 16:30          |
-| po 28. 5. | Šestajovice u ZŠ                   | 18:00          |
-| út 29. 5. | Šestajovice u ZŠ                   | 18:15          |
-| čt 31. 5. | Šestajovice u ZŠ                   | 16:30          |
-| po 4. 6.  | [u Nuselského mostu](http://www.dpsc.8u.cz/spoty/ip-pavlova/) na východní straně	| 18:00          |
-| út 5. 6.  | u Nuselského mostu                 | bude upřesněno |
-| čt 7. 6.  | u Nuselského mostu                 | 17:00          |
-| so 9. 6.  | Černý Most, parkourové hřiště      | 14:00          |
-| po 11. 6. | Klánovice na nádraží               | 17:30          |
-| út 12. 6. | Klánovice na nádraží               | bude upřesněno |
-| čt 14. 6. | Klánovice na nádraží               | bude upřesněno |
-| po 18. 6. | metro Vltavská                     | 18:00          |
-| út 19. 6. | metro Vltavská                     | bude upřesněno |
-| čt 21. 6. | metro Vltavská                     | 16:30          |
-| so 23. 6. | Praha Jarov                        | 13:00          |
-| po 25. 6. | Šestajovice u ZŠ                   | 18:00          |
-| út 26. 6. | Šestajovice u ZŠ                   | 18:15          |
-| čt 28. 6. | Šestajovice u ZŠ                   | 16:30          |
+**Bližší informace k tréninkům**
+
+Pondělí 4. června u Nuselského mostu: pro zájemce sraz na stanici metra Vyšehrad na nástupišti v 17:40, po tréninku mohu děti dopravit na zast. autobusu Nádraží Klánovice - sever, kde budeme v cca ve 20:10.
+
+Tréninkové místo se nachází na na východní straně severního konce Nuselského mostu, více info na http://www.dpsc.8u.cz/spoty/ip-pavlova/ 
+
+Úterý 4. června: možný sraz v 18:06 na zast. Šestajovice, Za stodolami, děti můžu dovézt do Klánovic na nádraží, předpokládaný příjezd 21:22.
+
+Sobota 9. června: Možnost zúčastnit se jako figuranti tréninku vedeného (pod mým dohledem) budoucími certifikovanými cvičiteli parkouru v rámci jejich závěrečné zkoušky, sraz ve 14:00 na parkourovém hřišti, rozchod v 15:00 tamtéž.
+
+Pondělí 11. června a úterý 12. června: sraz v čas uvedený v tabulce na zast. Nádraží klánovice - sever, rozchod o hodinu později tamtéž.
+
+Pondělí 18. června: sraz v 18:00 na místě, po východu ze stanice metra se dejte vlevo. Po tréninku mohu děti vzít do Klánovic na nádraží, předpokládaný příjezd 19:52.
+
+Upozornění – v úterý 19. června se trénink nekoná. Náhrada možná na jakémkoli jiném tréninku.
+
+Sobota 23. června: Opět možnost zúčastnit se jako figuranti tréninku vedeného (pod mým dohledem) budoucími certifikovanými cvičiteli parkouru v rámci jejich závěrečné zkoušky, tentokrát v parkourové hale InMotion Academy na Jarově. Sraz 12:50 na místě, rozchod ve 14:00 tamtéž.
 
 ## Rozdělení do skupin
 
@@ -37,11 +46,12 @@ permalink: /oddily/parkour/
 * Filáček
 * Hejna
 * Merhaut
-* Sikačová
 * Veselý
 * Vobiš
 * Vodička
 * Adámek
+* Námisňák
+* Sikačová
 
 **Úterý**
 
@@ -51,18 +61,8 @@ permalink: /oddily/parkour/
 * Malina
 * Opletal
 * Tichý
-
-**Čtvrtek**
-
-* Angelovič
-* Čichoň
-* Frey - nepřihlášen
 * Müller
-* Námisňák
-* Schejbal - nezaplaceno
-* Semerák - nepřihlášen
-* Votava - nepřihlášen
-* Matyáš - nepřihlášen
+* Angelovič
 
 ---
 
