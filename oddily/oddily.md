@@ -12,7 +12,7 @@ Od září chystáme změny, zatím lze předpokládat tento rozvrh:
 
 * [15:15 – 16:00 Všestrannost]({{relative}}/oddily/vsestrannost)
 * [15:00 – 15:45 Tanec]({{relative}}/oddily/tanec)
-* [17:00 – 18:00 Rodiče a děti*]({{relative}}/oddily/rodice-a-deti)
+* [17:00 – 18:00 Rodiče a děti]({{relative}}/oddily/rodice-a-deti)
 * [19:00 – 20:00 Kondiční cvičení žen]({{relative}}/oddily/zeny)
 
 ## Úterý
