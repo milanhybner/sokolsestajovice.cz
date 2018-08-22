@@ -23,7 +23,7 @@ permalink: /
   </div>
 </div>
 
-![Zálesák nábor plakát]({{relative}}/images/2018-zalesak-nabor.jpg "Ukliďme česko plakát"){:.image .fit}
+![Zálesák nábor plakát]({{relative}}/images/2018-zalesak-nabor.jpg "Zálesák nábor plakát"){:.image .fit}
 
 [Zálesák – nábor – plakát (.pdf)]({{ relative }}/files/2018-zalesak-nabor.pdf){:.button .icon .fa-download}
 
