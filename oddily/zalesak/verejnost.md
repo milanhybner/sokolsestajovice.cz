@@ -12,7 +12,7 @@ Schůzky začnou v průběhu měsíce září, termín bude ještě upřesněn.
 
 ## Kontakt
 
-[](https://www.facebook.com/sokol.zalesak){:.icon .style2 .fa-facebook} [Facebookový profil Zálesáka](https://www.facebook.com/sokol.zalesak)
+[Facebookový profil Zálesáka](https://www.facebook.com/sokol.zalesak)
 
 [Poslat zprávu](#f){:.button .icon .fa-envelope}
 
