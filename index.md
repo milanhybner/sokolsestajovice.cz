@@ -23,7 +23,9 @@ permalink: /
   </div>
 </div>
 
-<!-- ![Uklidně česko plakát]({{relative}}/images/Uklidme_cesko-2018.jpg "Ukliďme česko plakát"){:.image .fit} -->
+![Zálesák nábor plakát]({{relative}}/images/2018-zalesak-nabor.jpg "Ukliďme česko plakát"){:.image .fit}
+
+[Zálesák – nábor – plakát (.pdf)]({{ relative }}/files/2018-zalesak-nabor.pdf){:.button .icon .fa-download}
 
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts reversed limit: 5 %}
