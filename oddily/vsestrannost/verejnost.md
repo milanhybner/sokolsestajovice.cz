@@ -26,5 +26,5 @@ Cvičení pohybové všestrannosti pro děti ve věku 6–10 let. Cvičení je z
 
 Vaše děti naučíme dovednosti odpovídající jejich fyziologickému vývoji. Sport činíme pro děti zábavným i užitečným! Dětem s nadáním nebo chutí pro konkrétní sportovní disciplínu, doporučíme specializované sportovní oddíly.
 
-![Radana Kolbabová, vedoucí oddílu všestrannosti]({{ site.baseurl }}/images/kolbabova.jpg "Radana Kolbabová, vedoucí oddílu všestrannosti"){:.image .fit}
+<!-- ![Radana Kolbabová, vedoucí oddílu všestrannosti]({{ site.baseurl }}/images/kolbabova.jpg "Radana Kolbabová, vedoucí oddílu všestrannosti"){:.image .fit} -->
 
