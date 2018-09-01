@@ -6,19 +6,23 @@ permalink: /oddily/
 
 Pokud není uvedeno jinak, probíhají hodiny ve velké sportovní hale U váhy 1000, 250 92 Šestajovice.
 
-Od září chystáme změny, zatím lze předpokládat tento rozvrh:
+# Rozvrh cvičení od září 2018
+
+Přečtěte si také [informace k platbám příspěvků]({{relative}}/2018/09/01/platby.html).
+
 
 ## Pondělí
 
 * [15:15 – 16:00 Všestrannost]({{relative}}/oddily/vsestrannost)
-* [15:00 – 15:45 Tanec]({{relative}}/oddily/tanec)
 * [17:00 – 18:00 Rodiče a děti]({{relative}}/oddily/rodice-a-deti)
 * [19:00 – 20:00 Kondiční cvičení žen]({{relative}}/oddily/zeny)
 
 ## Úterý
 
-* [16:30 – 17:30 Předškoláci]({{relative}}/oddily/predskolaci)
-* [18:00 – 19:00 Florbal]({{relative}}/oddily/florbal)
+* [15:30 – 16:30 Předškoláci]({{relative}}/oddily/predskolaci)
+* [16:30 – 18:00 Florbal mladší žáctvo]({{relative}}/oddily/florbal)
+* [18:00 – 19:00 Florbal dorost]({{relative}}/oddily/florbal)
+
 
 ## Středa
 
@@ -26,10 +30,11 @@ Od září chystáme změny, zatím lze předpokládat tento rozvrh:
 
 ## Čtvrtek
 
-* [16:00 – 17:30 Florbal]({{relative}}/oddily/florbal)
-* [17:30 – 19:00 Florbal]({{relative}}/oddily/florbal)
-* [19:00 – 20:00 Florbal]({{relative}}/oddily/florbal)
+* [16:00 – 17:00 Florbal elévové B]({{relative}}/oddily/florbal)
+* [17:00 – 18:15 Florbal elévové A]({{relative}}/oddily/florbal)
+* [18:15 – 19:30 Florbal mladší žacto]({{relative}}/oddily/florbal)
 * [19:00 – 20:00 Zdravotní cvičení (nejen) pro seniory]({{relative}}/oddily/zdravotni) (sraz před ZŠ v 18:55)
+* [19:30 – 21:00 Florbal dorost]({{relative}}/oddily/florbal)
 
 ## Pátek
 
