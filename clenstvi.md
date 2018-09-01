@@ -34,7 +34,7 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 # Příspěvky
 
-[Aktuální informace o příspěvcích]({{relative}}/2018/01/14/platby.html)
+[Aktuální informace o příspěvcích]({{relative}}/2018/09/01/platby.html)
 
 Příspěvek člena České obce sokolské (**členský příspěvek**) se hradí na kalendářní rok. Částka je vždy stejná, ať se platí kdykoli v průběhu roku. Většinou také chcete cvičit a aktivně navštěvovat nějaký oddíl; pak je třeba uhradit ještě **oddílový příspěvek**. Oddílový příspěvek se platí za pololetí, tedy od září do ledna a od února do června.
 
