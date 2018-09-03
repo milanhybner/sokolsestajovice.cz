@@ -4,7 +4,7 @@ title: Oddíl míčových her
 permalink: /oddily/micovky/
 ---
 
-
+**Začínáme 21. 9.**
 
 Děti, které chodí do družiny budeme vyzvedávat už ve 13.30 hod (dle nových pravidel družiny) a pokud bude potřeba také po skončení vracet zpět do družiny. Je to proto, aby děti byly pod dohledem a sami se nepotulovaly po okolí školy.
 
