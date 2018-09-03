@@ -4,25 +4,27 @@ title: Struktura tréninkové jednotky
 permalink: /trampoliny/struktura/
 ---
 
-1. Zahájení a rozcvičení obecné (10 minut)
-2. Trampolína nebo gymnastika (3×15 minut)
-3. Strečink, úklid a ukončení (5 minut)
+1. Zahájení a rozcvičení obecné (3 minuty)
+2. Trampolína a gymnastika (40 minut)
+3. Strečink, úklid a ukončení (2 minuty)
 
 ## Trampolína
 
-1. Rozcvičení specifické pro trampolínu (2 minuty)
-2. Skoky na čas (3 minut)
-3. Zvládnuté prvky a sestavy (4 minuty)
-4. Nové prvky (4 minuty)
-5. Hra (2 minut)
+1. Rozcvičení specifické pro trampolínu
+2. Skoky na čas
+3. Zopakování prvků a sestav
+4. Nové prvky, nácvik sestav
+5. Hra
 
 ## Gymnastika
 
-1. Rozcvičení specifické pro gymnastiku (2 minuty)
-2. Nácvik prvků a sestav (3 minut)
-3. Motoricko funkční příprava (5 minut)
-4. Ostatní (4 minuty)
-5. Kompenzace a přestávka (1 minuta)
+1. Rozcvičení specifické pro gymnastiku
+2. Zopakování a nácvik prvků a sestav
+3. Motoricko funkční příprava
+4. Hry, soutěže a rozvoj pohybové kreativity
+5. Kompenzační cvičení
+
+<!--
 
 Motoricko-funkční příprava zahrnuje
 
@@ -76,3 +78,5 @@ Houpání
     * driblování
     * chytání
     * odpalování
+
+-->
