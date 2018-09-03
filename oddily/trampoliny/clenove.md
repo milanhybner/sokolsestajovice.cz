@@ -4,8 +4,6 @@ title: Trampolíny
 permalink: /trampoliny/
 ---
 
-Začínáme v úterý 5. září v 16:00!
-
 ## Kontakty
 
 **Vedoucí oddílu**  
@@ -13,51 +11,10 @@ Milan Hybner
 [trampoliny@sokolsestajovice.cz](mailto:trampoliny@sokolsestajovice.cz)  
 [776 412 328](tel:+420776412328)  
 
-**Cvičitelka**  
+**Cvičitelé**  
 
-Hana Otáhalová
-
-## Mladší
-
-**Členové**
-
-Bartkovský Michal  
-Ciampela Dalia  
-Ciampela Sofia  
-Jokel Vít  
-Karásek Adam  
-Karásková Lada  
-Kos Daniel  
-Lacina Matyáš  
-Leeb Oliver  
-Otáhal Jáchym  
-Otáhal Viktor  
-Synecký Petr  
-
-## Starší
-
-**Pomahatelé**
-
-Michaela Denemarková
 Pavel Doležal
-
-**Členové**
-
-Albert Kryštof  
-Berousková Marie  
-Berousková Natálie  
-Boháček Jiří  
-Herel „John“ Jan  
-Jakešová Eliška  
-Jonathan „Jony“ Janes  
-Semerádová Kristýna  
-Sikač Ondřej  
-Strejcová Miroslava  
-Vilímková Týna  
-Voerman Zuzana  
-Šubertová Anna  
-Šubertová Kateřina  
-
+Hana Otáhalová
 
 ## Další informace
 
