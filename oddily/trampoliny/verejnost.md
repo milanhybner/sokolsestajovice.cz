@@ -8,10 +8,7 @@ Kapacita oddílu je naplněna, nové členy již nepřijímáme.
 
 [info pro členy]({{ site.baseurl }}/trampoliny/){:.button}
 
-Probíhá každé úterý ve sportovní hale, U Váhy 1000, Šestajovice:
-
-* mladší žactvo (6–8 let) od 16:00 do 17:00,
-* starší žactvo (9–14 let) od 17:00 do 18:00.
+Probíhá každé úterý ve sportovní hale, U Váhy 1000, Šestajovice od 15:00 do 16:30.
 
 Oddíl pro děti ve věku 6–14 let, jehož náplní je všeobecná pohybová příprava prostřednictvím převážně gymnastických cvičení a skoky na trampolíně.
 
