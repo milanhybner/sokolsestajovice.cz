@@ -4,6 +4,8 @@ title: Oddíl zdravotního cvičení pro seniory
 permalink: /oddily/zdravotni/
 ---
 
+**Začínáme 19. září 2018**
+
 **Kapacita oddílu byla naplněna, další členy už nelze přijmout. Děkujeme za pochopení.**
 
 <!-- [Chci se přidat]({{ site.baseurl }}/clenstvi/){:.button .special} -->
