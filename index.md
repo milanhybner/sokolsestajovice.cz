@@ -45,5 +45,6 @@ permalink: /
 
 [Zálesák – nábor – plakát (.pdf)]({{ relative }}/files/2018-zalesak-nabor.pdf){:.button .icon .fa-download}
 
+![Florbal nábor plakát]({{ relative }}/images/2018-florbal-nabor.jpg "Florbal nábor plakát"){:.image .fit}
 
 [Všechny články]({{ relative }}/archiv/){:.button .special}
