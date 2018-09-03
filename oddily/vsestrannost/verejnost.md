@@ -4,11 +4,14 @@ title: Oddíl všestrannosti
 permalink: /oddily/vsestrannost/
 ---
 
-**Kapacita oddílu je naplněna – do tohoto oddílu už nepřijímáme další členy.**
+**Začínáme 24. září 2018**
 
 [Informace o vyzvedávání dětí ze školní družiny](http://www.sokolsestajovice.cz/2017/09/13/vyzvedavani-deti.html)
 
 [//]: "" (   [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.vsestrannost.kratke-url}}){:.button}  )
+
+<!-- **Kapacita oddílu je naplněna – do tohoto oddílu už nepřijímáme další členy.** -->
+
 
 Sportovní všestrannost – cvičení žactva.
 
@@ -22,7 +25,7 @@ vedoucí oddílu
 
 ---
 
-Cvičení pohybové všestrannosti pro děti ve věku 6–10 let. Cvičení je zaměřeno na pohybové aktivity gymnastika, atletika, míčové hry, plavání. V současné době je trendem pohybové zatížení dítěte jednostranným tréninkem. Cvičení všestrannosti proto doporučujeme nesportujícím dětem i dětem, které se již sportu aktivně věnují. Děti se naučí základy gymnastických a atletických disciplín, šplh a v případě zájmu rodičů, formou soustředění, zvládnutí základních plaveckých dovedností a plavecké způsoby kraul a znak. Zjistěte, jestli Váš sportovec/sportovkyně umí kotoul, vyšplhá na prádelní šňůru a udělá výmyk na klepadle.
+Cvičení pohybové všestrannosti pro děti ve věku 6–10 let. Cvičení je zaměřeno na pohybové aktivity gymnastika, atletika, míčové hry. V současné době je trendem pohybové zatížení dítěte jednostranným tréninkem. Cvičení všestrannosti proto doporučujeme nesportujícím dětem i dětem, které se již sportu aktivně věnují. Děti se naučí základy gymnastických a atletických disciplín, šplh. Zjistěte, jestli Váš sportovec/sportovkyně umí kotoul, vyšplhá na prádelní šňůru a udělá výmyk na klepadle.
 
 Vaše děti naučíme dovednosti odpovídající jejich fyziologickému vývoji. Sport činíme pro děti zábavným i užitečným! Dětem s nadáním nebo chutí pro konkrétní sportovní disciplínu, doporučíme specializované sportovní oddíly.
 
