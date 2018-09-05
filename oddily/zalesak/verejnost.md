@@ -4,7 +4,7 @@ title: Zálesák
 permalink: /oddily/zalesak/
 ---
 
-Schůzky začnou v průběhu měsíce září, termín bude ještě upřesněn.
+Schůzky 19. září.
 
 [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zalesak.kratke-url}}){:.button}
 
