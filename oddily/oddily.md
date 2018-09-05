@@ -27,7 +27,7 @@ Přečtěte si také [informace k platbám příspěvků]({{relative}}/2018/09/0
 
 ## Středa
 
-* [16:30 – 18:30 Zálesák]({{relative}}/oddily/zalesak) – probíhá nábor
+* [16:30 – 18:30 Zálesák]({{relative}}/oddily/zalesak) – od 19. 9., probíhá nábor
 
 ## Čtvrtek
 
