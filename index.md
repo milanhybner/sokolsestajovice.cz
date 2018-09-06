@@ -33,7 +33,7 @@ permalink: /
 {% endfor %}
 
 {% assign curDate = site.time | date: '%s' %}
-{% for post in site.posts limit: 1 %}
+{% for post in site.posts limit: 2 %}
     {% assign postStartDate = post.date | date: '%s' %}
     {% if postStartDate < curDate %}
 ## [{{ post.title }}]({{ relative }}{{ post.url }})
