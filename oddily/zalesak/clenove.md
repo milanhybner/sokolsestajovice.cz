@@ -4,7 +4,7 @@ title: Zalesák – Informace pro členy
 permalink: /zalesak/
 ---
 
-[](https://www.facebook.com/sokol.zalesak){:.icon .style2 .fa-facebook} [Facebookový profil Zálesáka](https://www.facebook.com/sokol.zalesak)
+[Facebookový profil Zálesáka](https://www.facebook.com/sokol.zalesak)
 
 # Kalendář
 
