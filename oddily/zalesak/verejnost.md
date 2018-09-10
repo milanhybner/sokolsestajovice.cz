@@ -4,7 +4,7 @@ title: Zálesák
 permalink: /oddily/zalesak/
 ---
 
-Schůzky 19. září.
+První schůzka se koná 19. září 2018.
 
 [Info pro členy]({{ site.baseurl }}/{{site.data.oddil.zalesak.kratke-url}}){:.button}
 
