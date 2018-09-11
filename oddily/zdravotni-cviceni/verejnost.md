@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oddíl zdravotního cvičení pro seniory
+title: Oddíl zdravotního cvičení
 permalink: /oddily/zdravotni/
 ---
 
