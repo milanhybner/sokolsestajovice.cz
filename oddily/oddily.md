@@ -34,9 +34,9 @@ Přečtěte si také [informace k platbám příspěvků]({{relative}}/2018/09/0
 * [16:00 – 17:00 Florbal elévové B]({{relative}}/oddily/florbal)
 * [17:00 – 18:15 Florbal elévové A]({{relative}}/oddily/florbal)
 * [18:15 – 19:30 Florbal mladší žactvo]({{relative}}/oddily/florbal)
-* [19:00 – 20:00 Zdravotní cvičení (nejen) pro seniory]({{relative}}/oddily/zdravotni) (sraz před ZŠ v 18:55) – od 27. 9.
+* [19:00 – 20:00 Zdravotní cvičení]({{relative}}/oddily/zdravotni) (sraz před ZŠ v 18:55) – od 20. 9.
 * [19:30 – 21:00 Florbal dorost]({{relative}}/oddily/florbal)
 
 ## Pátek
 
-* [14:00 – 15:00 Míčové hry]({{relative}}/oddily/micovky) od 28. 9.
+* [14:00 – 15:00 Míčové hry]({{relative}}/oddily/micovky) od 21. 9.
