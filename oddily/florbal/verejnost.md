@@ -5,8 +5,8 @@ oddil: florbal
 permalink: /oddily/florbal/
 ---
 
-* [Informace o členství]({{ site.baseurl }}/clenstvi/){:.button}
-* [Poslat zprávu](#napiste-nam){:.button .icon .fa-envelope}
+[Informace o členství]({{ site.baseurl }}/clenstvi/){:.button}
+[Poslat zprávu](#napiste-nam){:.button .icon .fa-envelope}
 
 **Rozdělení do skupin podle věku**
 
