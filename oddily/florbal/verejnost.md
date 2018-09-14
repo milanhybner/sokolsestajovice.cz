@@ -29,14 +29,14 @@ Tréninky probíhají ve sportovní hale, U Váhy 1000, Šestajovice.
 
 **Úterý**
 
-16:30 – 18:00 Florbal mladší žactvo
+16:30 – 18:00 Florbal mladší žactvo  
 18:00 – 19:00 Florbal dorost
 
 **Čtvrtek**
 
-16:00 – 17:00 Florbal elévové B
-17:00 – 18:15 Florbal elévové A
-18:15 – 19:30 Florbal mladší žactvo
+16:00 – 17:00 Florbal elévové B  
+17:00 – 18:15 Florbal elévové A  
+18:15 – 19:30 Florbal mladší žactvo  
 19:30 – 21:00 Florbal dorost
 
 <div class="embed-responsive embed-responsive-16by9">
