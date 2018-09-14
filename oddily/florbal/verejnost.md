@@ -39,6 +39,11 @@ Tréninky probíhají ve sportovní hale, U Váhy 1000, Šestajovice.
 18:15 – 19:30 Florbal mladší žactvo
 19:30 – 21:00 Florbal dorost
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.notion.so/chytroun/2555b5f581614e8c8d1672b8fe39093a?v=0a141ad599184ed99c120c35aa41b8a3" allowfullscreen></iframe>
+</div>
+
+
 ## Termíny turnajů
 
 **Elévové**
