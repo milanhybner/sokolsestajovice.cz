@@ -14,6 +14,10 @@ permalink: /
     </p>
   </div>
 </div>
+
+# Ženy kondiční cvičení začíná 24.9. v 19.00!
+
+
 <div class="row">
   <div class="12u$(medium)">
     <p><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftjsokolsestajovice%2F&tabs=timeline&height=400&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=469260143436623" style="width:400px;height:400px;border:none;overflow:hidden;margin-bottom:20px" scrolling="no" frameborder="0" allowTransparency="true" ></iframe></p>
