@@ -15,8 +15,6 @@ permalink: /
   </div>
 </div>
 
-# Ženy kondiční cvičení začíná 24.9. v 19.00!
-
 
 <div class="row">
   <div class="12u$(medium)">
