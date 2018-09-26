@@ -13,30 +13,30 @@ Přečtěte si také [informace k platbám příspěvků]({{relative}}/2018/09/0
 
 ## Pondělí
 
-* [15:15 – 16:00 Všestrannost]({{relative}}/oddily/vsestrannost) od 24. 9.
-* [15:15 – 16:00 Tanec]({{relative}}/oddily/tanec) od 24. 9.
-* [17:00 – 18:00 Rodiče a děti]({{relative}}/oddily/rodice-a-deti) od 17. 9.
-* [19:00 – 20:00 Kondiční cvičení žen]({{relative}}/oddily/zeny) od 24. 9.
+* [15:15 – 16:00 Všestrannost]({{relative}}/oddily/vsestrannost)
+* [15:15 – 16:00 Tanec]({{relative}}/oddily/tanec)
+* [17:00 – 18:00 Rodiče a děti]({{relative}}/oddily/rodice-a-deti)
+* [19:00 – 20:00 Kondiční cvičení žen]({{relative}}/oddily/zeny)
 
 ## Úterý
 
-* [15:00 – 16:30 Trampolíny]({{relative}}/oddily/trampoliny) od 18. 9.
-* [15:30 – 16:30 Předškoláci]({{relative}}/oddily/predskolaci) od 18. 9.
+* [15:00 – 16:30 Trampolíny]({{relative}}/oddily/trampoliny)
+* [15:30 – 16:30 Předškoláci]({{relative}}/oddily/predskolaci)
 * [16:30 – 18:00 Florbal mladší žactvo]({{relative}}/oddily/florbal)
 * [18:00 – 19:00 Florbal dorost]({{relative}}/oddily/florbal)
 
 ## Středa
 
-* [16:30 – 18:30 Zálesák]({{relative}}/oddily/zalesak) – od 19. 9., probíhá nábor
+* [16:30 – 18:30 Zálesák]({{relative}}/oddily/zalesak)
 
 ## Čtvrtek
 
 * [16:00 – 17:00 Florbal elévové B]({{relative}}/oddily/florbal)
 * [17:00 – 18:15 Florbal elévové A]({{relative}}/oddily/florbal)
 * [18:15 – 19:30 Florbal mladší žactvo]({{relative}}/oddily/florbal)
-* [19:00 – 20:00 Zdravotní cvičení]({{relative}}/oddily/zdravotni) (sraz před ZŠ v 18:55) – od 20. 9.
+* [19:00 – 20:00 Zdravotní cvičení]({{relative}}/oddily/zdravotni) (sraz před ZŠ v 18:55)
 * [19:30 – 21:00 Florbal dorost]({{relative}}/oddily/florbal)
 
 ## Pátek
 
-* [14:00 – 15:00 Míčové hry]({{relative}}/oddily/micovky) od 21. 9.
+* [14:00 – 15:00 Míčové hry]({{relative}}/oddily/micovky)
