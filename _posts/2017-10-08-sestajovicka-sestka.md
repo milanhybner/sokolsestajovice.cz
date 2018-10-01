@@ -62,7 +62,7 @@ V každé kategorii bude vyhlášeno 1.–3. místo.
 
 **Startovné**: Děti do 18-ti let a účastníci nad 60 let zdarma. Ostatní 50,– Kč. Platí se při registraci hotově.
 
-**Kontakt**: nacelnik@sokolsestajovice.cz, 776 412 328
+**Kontakt**: Hana Otáhalová, sokol.sestajovice@gmail.com, 605 204 967
 
 **Doprovodný program:** Zábavné aktivity pro děti během závodu hlavní kategorie.
 
