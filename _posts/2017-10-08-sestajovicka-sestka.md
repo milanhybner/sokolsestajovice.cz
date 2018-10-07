@@ -1,7 +1,6 @@
 ---
 title: Šestajovická šestka
 excerpt: V neděli 8. října 2017 jsme pořádali 4. ročník šestajovického seriálu běžeckých a canicrossových závodů v délce 6 km pro širokou veřejnost, všechny výkonnostní a věkové skupiny.
-permalink: /sestka/
 ---
 
 <iframe src="//www.rajce.net/a14577546/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
