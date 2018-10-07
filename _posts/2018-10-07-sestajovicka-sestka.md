@@ -8,6 +8,8 @@ V neděli 7. října 2018 jsme pořádali 5. ročník šestajovického seriálu 
 
 [Fotogalerie na https://photos.app.goo.gl/ictYXuDLZBxVPTnx7](https://photos.app.goo.gl/ictYXuDLZBxVPTnx7)
 
+Startovalo celkem 55 dospělých: 24 mužů, 11 žen, 7 veteránů, 1 veteránka a 12 závodníků canicrossu.
+
 Výsledky již brzy zde.
 
 ---
