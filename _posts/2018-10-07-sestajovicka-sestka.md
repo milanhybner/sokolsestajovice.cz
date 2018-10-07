@@ -9,7 +9,7 @@ V neděli 7. října 2018 jsme pořádali 5. ročník šestajovického seriálu 
 Výsledky a fotogalerie již brzy zde.
 
 
-**Start a cíl**: fotbalové hřiště Šestajovice – [](https://mapy.cz/s/17ZQ1){:.fa .fa-map-o} [mapa trasy závodu na 6000 m](https://mapy.cz/s/17ZQ1)
+**Start a cíl**: fotbalové hřiště Šestajovice – [mapa trasy závodu na 6000 m](https://mapy.cz/s/17ZQ1)
 
 ![sestajovicka-sestka-2016-mapa.jpg](http://sokolsestajovice.cz/images/sestajovicka-sestka-2016-mapa.jpg "Mapa trasy závodu na 6000 m")
 
