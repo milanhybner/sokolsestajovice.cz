@@ -6,8 +6,11 @@ permalink: /sestka/
 
 V neděli 7. října 2018 jsme pořádali 5. ročník šestajovického seriálu běžeckých a canicrossových závodů v délce 6 km pro širokou veřejnost, všechny výkonnostní a věkové skupiny.
 
-Výsledky a fotogalerie již brzy zde.
+[Fotogalerie na https://photos.app.goo.gl/ictYXuDLZBxVPTnx7](https://photos.app.goo.gl/ictYXuDLZBxVPTnx7)
 
+Výsledky již brzy zde.
+
+---
 
 **Start a cíl**: fotbalové hřiště Šestajovice – [mapa trasy závodu na 6000 m](https://mapy.cz/s/17ZQ1)
 
