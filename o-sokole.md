@@ -15,7 +15,8 @@ Historie T.J. Sokol Šestajovice z let 1918 až 1925 ke stažení zde:
 - právní forma: pobočný spolek
 - identifikační číslo: 029 52 173
 - účel spolku: tělovýchovná, sportovní a společenská činnost
-* [výpis ze spolkového rejstříku](https://or.justice.cz/ias/ui/print-pdf?subjektId=867001&typVypisu=UPLNY&full=false)
+- [výpis ze spolkového rejstříku](https://or.justice.cz/ias/ui/print-pdf?subjektId=867001&typVypisu=UPLNY&full=false)
+- ID datové schránky: `b8ehfed`
 
 
 ## Statutární orgány
