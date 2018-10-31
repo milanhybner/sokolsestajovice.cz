@@ -4,9 +4,9 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-# Dnešní cvičení se z důvodu podzimních prázdnin nekoná.
 
-[O prázdninách necvičíváme.](http://sokolsestajovice.cz/rad/#ruen-hodin). Děkujeme za pochopení.
+
+
 
 <div class="row">
   <div class="12u$(medium)">
