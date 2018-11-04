@@ -1,6 +1,6 @@
 ---
 title: Šestajovická šestka
-excerpt: V neděli 7. října 2018 jsme pořádali 5. ročník šestajovického seriálu běžeckých a canicrossových závodů v délce 6 km pro širokou veřejnost, všechny výkonnostní a věkové skupiny.
+excerpt: Novinka – výsledky
 permalink: /sestka/
 ---
 
@@ -11,6 +11,15 @@ V neděli 7. října 2018 jsme pořádali 5. ročník šestajovického seriálu 
 Startovalo celkem 55 dospělých: 24 mužů, 11 žen, 7 veteránů, 1 veteránka a 12 závodníků canicrossu.
 
 # Výsledky
+
+## Běžecký závod
+
+Canicross je níže.
+
+M - muži  
+VM - muži veteráni  
+Z - ženy  
+VZ - ženy veteránky
 
 | Číslo | ročník |  Trať  |  čas  |
 |-------|--------|--------|-------|
@@ -44,6 +53,26 @@ Startovalo celkem 55 dospělých: 24 mužů, 11 žen, 7 veteránů, 1 veteránka
 |    21 |   1981 | 6000Z  | 34:50 |
 |    32 |   1973 | 6000Z  | 35:18 |
 |    27 |   2000 | 6000Z  | 45:06 |
+
+## Canicross
+
+M - muži  
+Z - ženy
+
+| Číslo | ročník |         Rasa        |  Kategorie (kg)  |  čas  |
+|-------|--------|---------------------|------------------|-------|
+|    81 |   1978 | beagle              | 6000 do 10 kg M  | 25:44 |
+|    79 |   1986 | Chrt                | 6000 do 10 kg M  | 27:23 |
+|    73 |   2008 | Boloňský psík       | 6000 do 10 kg M  | 31:09 |
+|    70 |   1975 | Parson laser teriér | 6000 do 10 kg Z  | 25:57 |
+|    67 |   1995 | Hrubosrstý jezevčík | 6000 do 10 kg Z  | 32:50 |
+|    80 |   1987 | samojed             | 6000 nad 10 kg M | 24:30 |
+|    86 |   1960 | bretaňský ohař      | 6000 nad 10 kg M | 24:49 |
+|    69 |   1982 | Aljašský malamut    | 6000 nad 10 kg Z | 24:34 |
+|    72 |   1972 | Český strakatý pes  | 6000 nad 10 kg Z | 30:44 |
+|    71 |   1993 | Chodský pes         | 6000 nad 10 kg Z | 32:09 |
+|    76 |   1988 | Setr irský          | 6000 nad 10 kg Z | 32:13 |
+|    78 |   1978 | Border kólie        | 6000 nad 10 kg Z | 37:16 |
 
 ---
 
