@@ -19,4 +19,4 @@ Seznam všech dokumentů (zápis, výroční zprávy, přílohy) z valné hromad
 | [Usnesení](https://drive.google.com/open?id=0B0w6gDorCVUkTkZVS0duc0VGRXUxanBwZmh0Y0Q1VXhLNjc4)                                  | <br />[PDF](/files/09.pdf){:.button .icon .fa-download} |
 | [Přehled o členské základně k 1.1.2017](https://drive.google.com/open?id=0B0w6gDorCVUkQ0dDSlFUY2FVUXJpbGx1b3gzcmFJcXQtN2xF)     | <br />[PDF](/files/12.pdf){:.button .icon .fa-download} |
 
-<iframe src="http://www.rajce.net/a14015619/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="https://www.rajce.net/a14015619/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
