@@ -11,4 +11,4 @@ V září do našeho oddílu nastoupilo několik nových členů, ti absolvovali
 
 Cestou ze závodu jsme se za odměnu zastavili v jedné restauraci rychlého občerstvení na horkou čokoládu (někdo kafe) a koláč. Hned jsme se shodli, že toto posezení se stane naší novou tradicí smile.
 
-<iframe src="http://www.rajce.net/a12769406/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="https://www.rajce.net/a12769406/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
