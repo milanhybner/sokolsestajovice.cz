@@ -15,4 +15,4 @@ Druhým zástupcem našeho oddílu šplhu byl br. Lubomír Jokel, který je už 
 
 A proč jsme byli tak úspěšní? To je jasné! Protože jsme měli nejlepší fanoušky na světě!! Díky mohutné podpoře našich manželek a dětí jsme dopadli tak skvěle!!
 
-<iframe src="http://www.rajce.net/a12031372/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
+<iframe src="https://www.rajce.net/a12031372/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
