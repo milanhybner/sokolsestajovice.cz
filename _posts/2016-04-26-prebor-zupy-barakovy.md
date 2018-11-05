@@ -11,5 +11,5 @@ Soutěž zahrnovala sestavy na _akrobacii, přeskoku, hrazdě, lavičce_ a samos
 
 [Výsledky](/files/prebor-2016.xlsx){:.button .icon .fa-download}
 
-<iframe src="http://www.rajce.net/a12678806/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="https://www.rajce.net/a12678806/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
