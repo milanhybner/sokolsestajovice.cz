@@ -7,4 +7,4 @@ Dne 22.11. se 11 šestajovických sokolů všech věkových kategorií z oddíl
 
 Jednotu a obec skvěle reprezentovali děti: Ondřej Žáček, Jiří Filáček, Jan Tatar, Tomáš Hruška, Lucie Horáková, sestry Miláčkovy, bratři Otáhalovi, Lubomír Jokel a Jakub Otáhal. Ve finále jsme postavili i mužskou štafetu, která byla i přesto, že jedním ze členů byl Jiří Filáček ročník 2006 taktéž na bedně! 
 
-<iframe src="http://www.rajce.net/a12176507/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
+<iframe src="https://www.rajce.net/a12176507/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
