@@ -19,7 +19,7 @@ Děkujeme všem, kteří se na konání závodu podíleli: T.J. Sokol Šetsajovi
 
 Všechny fotografie ze závodu nafotil [www.foto-suchy.cz](www.foto-suchy.cz).
 
-<iframe src="http://www.rajce.net/a12031180/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
+<iframe src="https://www.rajce.net/a12031180/mini?bgcolor=&photoNameVisible=0" name="rajce-net" width="356" height="356" frameborder="0" scrolling="no" allowtransparency="false"></iframe>
 
 ---
 
