@@ -57,7 +57,7 @@ V každé kategorii bude vyhlášeno 1.–3. místo.
 **Start a cíl**: fotbalové hřiště Šestajovice – [](https://mapy.cz/s/17ZQ1){:.fa .fa-map-o} [mapa trasy závodu na 6000 m](https://mapy.cz/s/17ZQ1)
 
 
-![sestajovicka-sestka-2016-mapa.jpg](http://sokolsestajovice.cz/images/sestajovicka-sestka-2016-mapa.jpg "Mapa trasy závodu na 6000 m")
+![sestajovicka-sestka-2016-mapa.jpg]({{relative}}/images/sestajovicka-sestka-2016-mapa.jpg "Mapa trasy závodu na 6000 m")
 
 **Startovné**: Děti do 18-ti let a účastníci nad 60 let zdarma. Ostatní 50,– Kč. Platí se při registraci hotově.
 
