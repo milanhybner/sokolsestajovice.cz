@@ -39,7 +39,7 @@ permalink: /
 {% endfor %}
 
 {% assign curDate = site.time | date: '%s' %}
-{% for post in site.posts limit: 2 %}
+{% for post in site.posts limit: 5 %}
     {% assign postStartDate = post.date | date: '%s' %}
     {% if postStartDate < curDate %}
 ## [{{ post.title }}]({{ relative }}{{ post.url }})
@@ -47,10 +47,12 @@ permalink: /
     {% endif %}
 {% endfor %}
 
+<!--
 ![Zálesák nábor plakát]({{ relative }}/images/2018-zalesak-nabor.jpg "Zálesák nábor plakát"){:.image .fit}
 
 [Zálesák – nábor – plakát (.pdf)]({{ relative }}/files/2018-zalesak-nabor.pdf){:.button .icon .fa-download}
 
 ![Florbal nábor plakát]({{ relative }}/images/2018-florbal-nabor.jpg "Florbal nábor plakát"){:.image .fit}
+-->
 
 [Všechny články]({{ relative }}/archiv/){:.button .special}
