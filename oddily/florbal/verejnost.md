@@ -52,7 +52,7 @@ Návod na nalezení zápasů našeho oddílu na stránce s programem (viz ↑): 
 ## Kontakt
 
 * Pokud jste již členem oddílu, požádejte trenéra o přidání do skupiny [WhatsApp](https://www.whatsapp.com/download/?l=cs)
-* [Poslat zprávu přes web](#napiste-nam){:.button .icon .fa-envelope}
+* [Poslat zprávu přes web](#napiste-nam)
 * [Facebook](https://www.facebook.com/sestajoviceflorbal/)
 * [instagram](https://www.instagram.com/tjsokolsestajovice/)
 
