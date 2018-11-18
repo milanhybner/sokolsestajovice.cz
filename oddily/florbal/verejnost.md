@@ -34,14 +34,6 @@ Tréninky probíhají ve sportovní hale, U Váhy 1000, Šestajovice.
 18:15 – 19:30 Florbal mladší žactvo  
 19:30 – 21:00 Florbal dorost
 
-## Termíny turnajů
-
-* [Elévové](https://www.ceskyflorbal.cz/souteze/mladez-kose/liga-elevu-3-1-skupina-3-B/program)
-* [Mladší žáci](https://www.ceskyflorbal.cz/souteze/mladez-kose/liga-mladsich-zaku-skupina-3-A/program)
-* [Dorostenci](https://www.ceskyflorbal.cz/souteze/ostatni/phsc-liga-dorostencu-B/program)
-
-Návod na nalezení zápasů našeho oddílu na stránce s programem (viz ↑): nastavte číslo u textu „počet týdnů“ na požadovanou délku a pomocí prohlížeče vyhledejte text „Šestajovice“.
-
 ## Ke stažení
 
 * [Souhlas GDPR](http://sokol.eu/priloha/33850/formular-cos-souhlas-clena.docx)
