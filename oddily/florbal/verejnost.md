@@ -6,9 +6,8 @@ permalink: /oddily/florbal/
 ---
 
 [Informace o členství]({{ site.baseurl }}/clenstvi/){:.button}
-[Poslat zprávu](#napiste-nam){:.button .icon .fa-envelope}
 
-**Rozdělení do skupin podle věku**
+## Rozdělení do skupin podle věku
 
 Toto rozdělení je pouze orientační. Pro konzultaci vhodnosti zařazení kontaktujte trenéry osobně na tréninku.
 
@@ -35,15 +34,25 @@ Tréninky probíhají ve sportovní hale, U Váhy 1000, Šestajovice.
 18:15 – 19:30 Florbal mladší žactvo  
 19:30 – 21:00 Florbal dorost
 
-[Termíny turnajů](https://www.notion.so/chytroun/2555b5f581614e8c8d1672b8fe39093a?v=0a141ad599184ed99c120c35aa41b8a3)
+## Termíny turnajů
+
+* [Elévové](https://www.ceskyflorbal.cz/souteze/mladez-kose/liga-elevu-3-1-skupina-3-B/program)
+* [Mladší žáci](https://www.ceskyflorbal.cz/souteze/mladez-kose/liga-mladsich-zaku-skupina-3-A/program)
+* [Dorostenci](https://www.ceskyflorbal.cz/souteze/ostatni/phsc-liga-dorostencu-B/program)
+
+Návod na nalezení zápasů našeho oddílu na stránce s programem (viz ↑): nastavte číslo u textu „počet týdnů“ na požadovanou délku a pomocí prohlížeče vyhledejte text „Šestajovice“.
 
 ## Ke stažení
 
+* [Souhlas GDPR](http://sokol.eu/priloha/33850/formular-cos-souhlas-clena.docx)
+* [Přihláška do Sokola](http://sokol.eu/priloha/33853/prihlaska-mladez.docx)
 * [Přihláška do Českého florbalu](https://www.ceskyflorbal.cz/dms/serve/assigned-file/1544/)
 * [Žádost o posouzení zdravotní způsobilosti](https://www.ceskyflorbal.cz/dms/serve/assigned-file/1473/1447)
 
 ## Kontakt
 
+* Pokud jste již členem oddílu, požádejte trenéra o přidání do skupiny [WhatsApp](https://www.whatsapp.com/download/?l=cs)
+* [Poslat zprávu přes web](#napiste-nam){:.button .icon .fa-envelope}
 * [Facebook](https://www.facebook.com/sestajoviceflorbal/)
 * [instagram](https://www.instagram.com/tjsokolsestajovice/)
 
