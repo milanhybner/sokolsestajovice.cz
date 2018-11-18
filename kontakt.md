@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-### T.J. Sokol Šestajovice
+## T.J. Sokol Šestajovice
 
 Žižkova 142/1  
 250 92 Šestajovice  
@@ -28,11 +28,9 @@ Mgr. Milan Hybner
 776 412 328
 
 Náčelník zodpovídá za oddíl
-[parkouru]({{ relative }}{{site.data.oddil.parkour.dlouhe-url}}),
 [trampolín]({{ relative }}{{site.data.oddil.trampoliny.dlouhe-url}}),
 [míčových her]({{ relative }}{{site.data.oddil.micovky.dlouhe-url}}),
 [florbalu]({{ relative }}{{site.data.oddil.florbal.dlouhe-url}}),
-[kondičního cvičení mužů]({{ relative }}{{site.data.oddil.florbal.dlouhe-url}}),
 [zálesáka]({{ relative }}{{site.data.oddil.zalesak.dlouhe-url}}).
 
 ### Náčelnice
