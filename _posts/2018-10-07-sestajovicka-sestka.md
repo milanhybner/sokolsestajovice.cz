@@ -14,7 +14,7 @@ Startovalo celkem 55 dospělých: 24 mužů, 11 žen, 7 veteránů, 1 veteránka
 
 ## Běžecký závod
 
-Canicross je níže.
+[Canicross je níže](#canicross)
 
 M - muži  
 VM - muži veteráni  
