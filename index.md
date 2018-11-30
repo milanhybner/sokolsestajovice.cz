@@ -5,8 +5,6 @@ permalink: /
 ---
 
 
-# Dnešní (30. 11. 2018) hodina míčových her je zrušena!
-
 
 <div class="row">
   <div class="12u$(medium)">
