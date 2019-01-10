@@ -4,7 +4,7 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-Máme nového webmastera
+# Máme nového webmastera
 
 <div class="row">
   <div class="12u$(medium)">
