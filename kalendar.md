@@ -4,14 +4,156 @@ title: Nadcházející akce
 permalink: /kalendar/
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=vm2umku4aq2kt85mhqs4btnhio%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+|          Datum          |                 Událost                  |
+|-------------------------|------------------------------------------|
+| 2019-01-19              | Mladší žáci turnaj pořádáme              |
+| 2019-01-20              | Dorostenci turnaj                        |
+| 2019-01-24              | Schůze výboru turnaj                     |
+| 2019-01-26              | Elévové turnaj                           |
+| 2019-02-01              | **Pololetní prázdniny Šestajovice**      |
+| 2019-02-03              | Mladší žáci turnaj                       |
+| 2019-02-09              | Elévové turnaj                           |
+| 2019-02-09              | Zimní přechod Brd                        |
+| 2019-02-14              | Schůze výboru                            |
+| 2019-02-16              | Dorostenci turnaj                        |
+| 2019-02-25 → 2019-03-01 | **Jarní prázdniny Šestajovice**          |
+| 2019-03-03              | Dorostenci turnaj                        |
+| 2019-03-05              | **Valná hromada**                        |
+| 2019-03-10              | Elévové turnaj                           |
+| 2019-03-10 → 2019-03-10 | Župní přebor ZZZ                         |
+| 2019-03-16              | Dorostenci turnaj                        |
+| 2019-03-16              | Mladší žáci turnaj                       |
+| 2019-03-24              | Elévové turnaj                           |
+| 2019-03-31              | Mladší žáci turnaj                       |
+| 2019-04-01 → 2019-04-30 | Výprava VHÚ Lešany                       |
+| 2019-04-06              | Ukliďme Česko                            |
+| 2019-04-07              | Elévové turnaj pořádáme                  |
+| 2019-04-13              | Dorostenci turnaj                        |
+| 2019-04-13              | Mladší žáci turnaj                       |
+| 2019-04-28              | Elévové turnaj                           |
+| 2019-05-05              | Mladší žáci turnaj                       |
+| 2019-05-09              | Oslava Dne osvobození                    |
+| 2019-05-17              | Výprava Křivoklátsko                     |
+| 2019-06-14 → 2019-06-16 | Výprava Brdy                             |
+| 2019-06-28              | **Slavnostní zakončení cvičebního roku** |
+| 2019-09-13 → 2019-09-15 | Výprava Pochod krajem kamenů             |
+| 2019-09-27 → 2019-09-29 | Výprava Pochod po Čsl. Opevnění          |
+| 2019-10-08              | Památný den sokolstva                    |
+| 2019-10-13              | **Šestajovická šestka**                  |
+| 2019-10-26 → 2019-10-30 | **Podzimní prázdniny Šestajovice**       |
+| 2019-10-28              | Oslava Dne vzniku ČSR                    |
+
 
 
 ---
 
-Podívejte se také na [akce sousedních jednot na stránkách Sokolské župy Barákovy](https://airtable.com/shrB0jgejZMvEXFMJ/tblWoZJfcbaOsz5BL?backgroundColor=cyan&viewControls=on)
 
 # Proběhlé akce
+
+## Rok 2018
+
+|   Datum    |                         Událost                         |
+|------------|---------------------------------------------------------|
+| 2018-01-11 | Schůze výboru T.J.                                      |
+| 2018-01-31 | Uzávěrka předposledního kola objednávek sletových úborů |
+| 2018-02-05 | ZRUŠENO Nácvik skladby Borci                            |
+| 2018-02-08 | Schůze výboru T.J.                                      |
+| 2018-02-10 | Regionální přebor Dobříš                                |
+| 2018-02-10 | Zálesák - Přechod Brd                                   |
+| 2018-02-17 | Turnaj florbal ČFbU                                     |
+| 2018-02-26 | Nácvik Borci                                            |
+| 2018-03-08 | Schůze výboru T.J.                                      |
+| 2018-03-11 | Turnaj florbal ČFbU doma                                |
+| 2018-03-13 | Valná hromada T.J. Sokol Šestajovice                    |
+| 2018-03-24 | Turnaj florbal ČFbU                                     |
+| 2018-03-25 | Zábavné sportovní odpoledne                             |
+| 2018-03-27 | Parkour                                                 |
+| 2018-04-07 | Zálesák - Ukliďme Česko                                 |
+| 2018-04-08 | Zálesák - Župní přebor ZZZ                              |
+| 2018-04-12 | Schůze výboru T.J.                                      |
+| 2018-04-14 | Turnaj florbal ČOS (r. 2010-2008)                       |
+| 2018-04-14 | Turnaj florbal ČFbU doma                                |
+| 2018-04-15 | Turnaj florbal ČOS (r. 2007-2005)                       |
+| 2018-04-16 | Parkour                                                 |
+| 2018-04-17 | Parkour                                                 |
+| 2018-04-19 | Parkour                                                 |
+| 2018-04-20 | Zálesák - Výprava Soos                                  |
+| 2018-04-21 | Turnaj florbal ČOS (r. 2004-2001)                       |
+| 2018-05-05 | Turnaj florbal ČFbU                                     |
+| 2018-05-09 | Zálesák - Oslava dne osvobození                         |
+| 2018-05-10 | Schůze výboru T.J.                                      |
+| 2018-05-12 | Florbal Náchod                                          |
+| 2018-05-13 | Florbal elévové                                         |
+| 2018-05-18 | Zálesák - Výprava Křivoklátsko                          |
+| 2018-05-26 | Borci zkouška                                           |
+| 2018-05-27 | Generálka                                               |
+| 2018-05-27 | Průvod                                                  |
+| 2018-05-27 | Vystoupení                                              |
+| 2018-06-02 | Dětský den                                              |
+| 2018-06-16 | Župní slet - župa Blanická                              |
+| 2018-06-17 | Župní slet - župa Tyršova - Pečky                       |
+| 2018-06-18 | Zálesák - Pietní akt - boj parašutistů v kostele        |
+| 2018-06-21 | Schůze výboru T.J.                                      |
+| 2018-06-29 | Slavnostní zakončení cvičebního roku                    |
+| 2018-07-01 | Všesokolský slet                                        |
+| 2018-07-01 | Průvod                                                  |
+| 2018-07-02 | Borci zkouška                                           |
+| 2018-07-02 | Závěr I. programu                                       |
+| 2018-07-03 | Borci zkouška                                           |
+| 2018-07-03 | Sokol Gala                                              |
+| 2018-07-04 | Projížděčka I. programu                                 |
+| 2018-07-04 | Zahájení a závěr II. programu                           |
+| 2018-07-04 | Generálka I. programu                                   |
+| 2018-07-05 | Projížděčka II. programu                                |
+| 2018-07-05 | Generálka II. programu                                  |
+| 2018-07-05 | Vystoupení I. program                                   |
+| 2018-07-06 | Vystoupení II. program                                  |
+| 2018-08-30 | Schůze výboru T.J.                                      |
+| 2018-09-07 | Zálesák - Krajem kamenů                                 |
+| 2018-09-15 | Mladší žáci 1 pořádáme                                  |
+| 2018-09-16 | Dorostenci 1                                            |
+| 2018-09-16 | (návrh) 100 let republiky Klánovice                     |
+| 2018-09-22 | Elévové 1                                               |
+| 2018-09-29 | Zálesák - výprava Čs. opevnění                          |
+| 2018-09-29 | Dorostenci 2                                            |
+| 2018-09-30 | Mladší žáci 2                                           |
+| 2018-10-04 | Schůze výboru T.J.                                      |
+| 2018-10-07 | Šestajovická Šestka                                     |
+| 2018-10-07 | Elévové 2                                               |
+| 2018-10-08 | Památný den sokolstva                                   |
+| 2018-10-13 | Mladší žáci 3 pořádáme                                  |
+| 2018-10-20 | Elévové 3                                               |
+| 2018-10-28 | Oslavy 100 let republiky                                |
+| 2018-11-03 | Dorostenci 4                                            |
+| 2018-11-04 | Mladší žáci 4                                           |
+| 2018-11-10 | Elévové 4                                               |
+| 2018-11-15 | Schůze výboru T.J.                                      |
+| 2018-11-17 | Mladší žáci 5                                           |
+| 2018-11-18 | Dorostenci 5                                            |
+| 2018-11-25 | Elévové 5                                               |
+| 2018-12-13 | Schůze výboru T.J.                                      |
+| 2018-12-15 | Dorostenci 6                                            |
+| 2018-12-16 | Mladší žáci 6                                           |
+| 2019-01-12 | Elévové 6 pořádáme                                      |
+| 2019-01-19 | Mladší žáci 7 pořádáme                                  |
+| 2019-01-20 | Dorostenci 7                                            |
+| 2019-01-26 | Elévové 7                                               |
+| 2019-02-03 | Mladší žáci 8                                           |
+| 2019-02-09 | Elévové 8                                               |
+| 2019-02-16 | Dorostenci 8                                            |
+| 2019-02-18 | Jarní prázdniny Klánovice                               |
+| 2019-03-03 | Dorostenci 9                                            |
+| 2019-03-10 | Elévové 9                                               |
+| 2019-03-16 | Dorostenci 10 pořádáme                                  |
+| 2019-03-16 | Mladší žáci 9                                           |
+| 2019-03-24 | Elévové 10                                              |
+| 2019-03-31 | Mladší žáci 10                                          |
+| 2019-04-07 | Elévové 11 pořádáme                                     |
+| 2019-04-13 | Dorostenci 11                                           |
+| 2019-04-13 | Mladší žáci 11                                          |
+| 2019-04-28 | Elévové 12                                              |
+| 2019-05-05 | Mladší žáci 12                                          |
+
 
 ## leden 2017
 
