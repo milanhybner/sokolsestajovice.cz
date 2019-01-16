@@ -9,7 +9,8 @@ permalink: /
 <div class="row">
   <div class="12u$(medium)">
     <p><a href="{{ site.baseurl }}/clenstvi/" class="button">Členství</a>
-    <a href="{{ site.baseurl }}/oddily/" class="button special">Oddíly a rozvrh</a>
+    <a href="{{ site.baseurl }}/oddily/" class="button">Oddíly a rozvrh</a>
+    <a href="{{ site.baseurl }}/oddily/" class="button">Kalendář akcí</a>
     <a href="http://sokolsestajovice.rajce.idnes.cz" class="button">Fotogalerie</a>
     <a href="{{ site.baseurl }}/o-sokole/" class="button">O Sokole</a>
     <a href="{{ site.baseurl }}/kontakt/" class="button">Kontakt</a>
