@@ -20,7 +20,7 @@ permalink: /kalendar/
 | 2019-03-03              | Dorostenci turnaj                        |
 | 2019-03-05              | **Valná hromada**                        |
 | 2019-03-10              | Elévové turnaj                           |
-| 2019-03-10 → 2019-03-10 | Župní přebor ZZZ                         |
+| 2019-03-10              | **Župní přebor ZZZ**                     |
 | 2019-03-16              | Dorostenci turnaj                        |
 | 2019-03-16              | Mladší žáci turnaj                       |
 | 2019-03-24              | Elévové turnaj                           |
