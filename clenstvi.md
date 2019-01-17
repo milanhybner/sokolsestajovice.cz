@@ -18,7 +18,7 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 1. [**Vyplňte přihlášku pro mládež**](http://sokol.eu/priloha/33853/prihlaska-mladez.docx) nebo [**pro dospělé**](http://sokol.eu/priloha/33854/prihlaska-dospeli.docx) (podle toho, jestli přihlašujete dítě a nebo sebe) a [**souhlas se zpracováním osobních údajů**](http://sokol.eu/priloha/33850/formular-cos-souhlas-clena.docx) – přihlášky jsou také k vyzvednutí u cvičitelů/trenérů,
 2. na e-mail uvedený v přihlášce je automaticky odeslán PDF dokument předvyplněný údaji z přihlášky; dokument zkontrolujte, vytiskněte, podepište a přineste Vašemu cvičiteli,
-3. uhraďte převodem na účet příspěvky podle pokynů v článku [platby příspěků - únor - červen]({{relative}}/2019/01/09-platby.html)
+3. uhraďte převodem na účet příspěvky podle pokynů v článku [platby příspěků - únor - červen]({{relative}}/2019/01/09/platby.html)
 
 **Poznámky**
 
