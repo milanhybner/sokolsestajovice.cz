@@ -8,7 +8,7 @@ Pokud není uvedeno jinak, probíhají hodiny ve velké sportovní hale U váhy 
 
 # Rozvrh cvičení od září 2018
 
-Přečtěte si také [informace k platbám příspěvků]({{relative}}/2018/09/01/platby.html).
+
 
 
 ## Pondělí
