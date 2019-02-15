@@ -29,9 +29,7 @@ Navíc [některé zdravotní pojišťovny svým klientům na sportovní aktivity
 
 ## Odhlášky
 
-* Odhlásit se z oddílu, případně zrušit členství můžete pomocí formuláře na adrese <https://airtable.com/shr1DArZuWaoQ0pZQ>.
-
-* Odhláška není právně závazná, slouží pouze pro účely vnitřní evidence členů. Pro zrušení členství je třeba podat písemnou žádost o ukončení členství v T.J. Sokol Šestajovice na adresu sídla jednoty, kterou naleznete na stránce [kontaktů]({{relative}}/kontakt/).
+* Odhlásit se z oddílu, případně zrušit členství můžete pomocí [kontaktního formuláře](#napiste-nam). Tato odhláška není právně závazná, slouží pouze pro účely vnitřní evidence členů. Pro zrušení členství je třeba podat písemnou žádost o ukončení členství v T.J. Sokol Šestajovice na adresu sídla jednoty, kterou naleznete na stránce [kontaktů]({{relative}}/kontakt/).
 
 ## Příspěvky
 
