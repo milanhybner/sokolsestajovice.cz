@@ -19,9 +19,9 @@ Těšíme se na Vaši účast!!!
 1. Zahájení
 2. Volba mandátové komise, návrhové komise, volební komise, zapisovatele a ověřovatele zápisu
 3. Schválení programu zasedání VH
-4. Vystoupení hostů
-5. Kontrola usnesení VH 2018
-6. Zpráva výboru jednoty za uplynulé období včetně zpráv odborných útvarů a plán činnosti na rok 2019
+4. Vystoupení hostů
+5. Kontrola usnesení VH 2018
+6. Zpráva výboru jednoty za uplynulé období včetně zpráv odborných útvarů a plán činnosti na rok 2019
 7. Zpráva kontrolní komise
 8. Finanční zpráva a rozpočet
 9. Schválení finanční závěrky
