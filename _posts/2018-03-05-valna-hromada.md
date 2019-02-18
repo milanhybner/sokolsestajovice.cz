@@ -1,4 +1,4 @@
-﻿---
+---
 title: Valná hromada T.J. Sokol Šestajovice
 excerpt: Zveme vás na valnou hromadu T.J. Sokol Šestajovice, která se koná v úterý 5. března 2019 od 19.00 v Základní škole Šestajovice, Komenského 158, 250 92, Šestajovice.
 ---
@@ -37,6 +37,6 @@ Těšíme se na Vaši účast!!!
 19. Závěr
 
 
-V Šestajovicích dne 18.2.2018
+V Šestajovicích dne 18.2.2019
 
 Výbor T.J. Sokol Šestajovice
