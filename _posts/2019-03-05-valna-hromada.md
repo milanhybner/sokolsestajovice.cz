@@ -37,6 +37,6 @@ Těšíme se na Vaši účast!!!
 19. Závěr
 
 
-V Šestajovicích dne 18.2.2019
+V Šestajovicích dne 18. 2. 2019
 
 Výbor T.J. Sokol Šestajovice
