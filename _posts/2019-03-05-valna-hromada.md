@@ -6,7 +6,7 @@ excerpt: Zveme vás na valnou hromadu T.J. Sokol Šestajovice, která se koná v
 
 Pozvánka na **valnou hromadu** T.J. Sokol Šestajovice
 
-Dne 5. 3. 2018 v 19.00
+Dne 5. 3. 2019 v 19.00
 
 V Základní škole Šestajovice, 
 
