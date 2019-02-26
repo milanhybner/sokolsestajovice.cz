@@ -40,3 +40,9 @@ Těšíme se na Vaši účast!!!
 V Šestajovicích dne 18. 2. 2019
 
 Výbor T.J. Sokol Šestajovice
+
+---
+
+[Pozvánka v .DOC](/files/01_pozvanka-na-valnou-hromadu-5-3-2019.doc){:.button .icon .fa-download}
+
+[Pozvánka v .PDF](/files/01_pozvanka-na-valnou-hromadu-5-3-2019.pdf){:.button .icon .fa-download}
