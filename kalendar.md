@@ -6,6 +6,25 @@ permalink: /kalendar/
 
 |          Datum          |                 Událost                  |
 |-------------------------|------------------------------------------|
+| 2019-06-28              | **Slavnostní zakončení cvičebního roku** |
+| 2019-09-13 → 2019-09-15 | Výprava Pochod krajem kamenů             |
+| 2019-09-27 → 2019-09-29 | Výprava Pochod po Čsl. Opevnění          |
+| 2019-10-08              | Památný den sokolstva                    |
+| 2019-10-13              | **Šestajovická šestka**                  |
+| 2019-10-26 → 2019-10-30 | **Podzimní prázdniny Šestajovice**       |
+| 2019-10-28              | Oslava Dne vzniku ČSR                    |
+
+
+
+---
+
+
+# Proběhlé akce
+
+## Rok 2019
+
+|   Datum    |                         Událost                         |
+|------------|---------------------------------------------------------|
 | 2019-01-19              | Mladší žáci turnaj pořádáme              |
 | 2019-01-20              | Dorostenci turnaj                        |
 | 2019-01-24              | Schůze výboru turnaj                     |
@@ -33,22 +52,8 @@ permalink: /kalendar/
 | 2019-04-28              | Elévové turnaj                           |
 | 2019-05-05              | Mladší žáci turnaj                       |
 | 2019-05-09              | Oslava Dne osvobození                    |
-| 2019-05-17              | Výprava Křivoklátsko                     |
-| 2019-06-14 → 2019-06-16 | Výprava Brdy                             |
-| 2019-06-28              | **Slavnostní zakončení cvičebního roku** |
-| 2019-09-13 → 2019-09-15 | Výprava Pochod krajem kamenů             |
-| 2019-09-27 → 2019-09-29 | Výprava Pochod po Čsl. Opevnění          |
-| 2019-10-08              | Památný den sokolstva                    |
-| 2019-10-13              | **Šestajovická šestka**                  |
-| 2019-10-26 → 2019-10-30 | **Podzimní prázdniny Šestajovice**       |
-| 2019-10-28              | Oslava Dne vzniku ČSR                    |
+| 2019-05-17 → 2019-05-19 | Zálesácký závod zdatnosti přebor ČOS     |
 
-
-
----
-
-
-# Proběhlé akce
 
 ## Rok 2018
 
