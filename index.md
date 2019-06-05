@@ -4,7 +4,7 @@ title: V Sokole sport pro všechny
 permalink: /
 ---
 
-
+![Tour de Club plakát]({{ relative }}/images/2019-tour-de-club.jpg "Tour de Club plakát"){:.image .fit}
 
 <div class="row">
   <div class="12u$(medium)">
