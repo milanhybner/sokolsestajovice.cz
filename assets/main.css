@@ -6230,12 +6230,16 @@ hr:before {
 	width: 9rem;
 }
 
-#image35 img {
+#image62 img {
 	width: 9rem;
 }
 
 #image23 img {
 	width: 27rem;
+}
+
+#image35 img {
+	width: 9rem;
 }
 
 #image48 img {
@@ -9182,6 +9186,36 @@ th {
 	border: solid 1px #E40521;
 }
 
+#buttons15 {
+	width: calc(100% + 0.75rem);
+	margin-left: -0.375rem;
+}
+
+#buttons15 li {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: calc(100% - 0.75rem);
+	margin: 0.375rem;
+}
+
+#buttons15 li a {
+	display: flex;
+	width: auto;
+	height: 2.5rem;
+	line-height: 2.5rem;
+	vertical-align: middle;
+	padding: 0 1.25rem;
+	font-size: 1em;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+	border-radius: 0rem;
+}
+
+#buttons15 .button {
+	color: #E40521;
+	border: solid 1px #E40521;
+}
+
 #buttons25 {
 	width: calc(100% + 0.75rem);
 	margin-left: -0.375rem;
@@ -10087,6 +10121,50 @@ th {
 }
 
 #list05 ol li:before {
+	color: #E40521;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1rem;
+	font-weight: 500;
+	content: counter(item) ".";
+	border-radius: 100%;
+	line-height: 1.5rem;
+	height: 1.5rem;
+	background-position: left 60%;
+	background-size: contain;
+	min-width: 0.75rem;
+}
+
+#list24 {
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.025rem;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+#list24 a {
+	text-decoration: underline;
+}
+
+#list24 a:hover {
+	text-decoration: none;
+}
+
+#list24 ol {
+	width: 100rem;
+}
+
+#list24 ol li {
+	margin-top: 0.5rem;
+	counter-increment: item;
+}
+
+#list24 ol li p {
+	padding-left: 0.625rem;
+}
+
+#list24 ol li:before {
 	color: #E40521;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 1rem;
@@ -15028,12 +15106,16 @@ th {
 		width: 9rem;
 	}
 	
-	#image35 img {
+	#image62 img {
 		width: 9rem;
 	}
 	
 	#image23 img {
 		width: 27rem;
+	}
+	
+	#image35 img {
+		width: 9rem;
 	}
 	
 	#image48 img {
@@ -16403,6 +16485,32 @@ th {
 	}
 	
 	#buttons21 li a {
+		display: inline-flex;
+		width: 100%;
+		max-width: 32rem;
+	}
+	
+	#buttons15 {
+		margin-left: 0;
+		width: 100%;
+		padding: 0.375rem 0;
+	}
+	
+	#buttons15 li {
+		max-width: 100%;
+		display: block;
+		margin: 0.75rem 0;
+	}
+	
+	#buttons15 li:first-child {
+		margin-top: 0;
+	}
+	
+	#buttons15 li:last-child {
+		margin-bottom: 0;
+	}
+	
+	#buttons15 li a {
 		display: inline-flex;
 		width: 100%;
 		max-width: 32rem;
@@ -18899,6 +19007,17 @@ th {
 	}
 	
 	#buttons21 li {
+		max-width: 100%;
+		margin: 0.5625rem 0;
+	}
+	
+	#buttons15 {
+		width: 100%;
+		margin-left: 0;
+		padding: 0.28125rem 0;
+	}
+	
+	#buttons15 li {
 		max-width: 100%;
 		margin: 0.5625rem 0;
 	}
