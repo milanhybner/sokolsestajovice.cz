@@ -7517,6 +7517,20 @@ h1 .li, h2 .li, h3 .li, p .li {
 	text-decoration: none;
 }
 
+#text77 br + br {
+	margin-top: 0.9rem;
+}
+
+#text77 {
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
 #text75 br + br {
 	margin-top: 0.9rem;
 }
@@ -8249,6 +8263,43 @@ th {
 }
 
 #table16 th:last-child, #table16 td:last-child {
+	padding-right: 0;
+}
+
+#table07 {
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.025rem;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+#table07 .table-inner {
+	width: 40rem;
+}
+
+#table07 thead {
+	border-bottom: solid 2px #E40521;
+}
+
+#table07 tbody tr {
+	border-top: solid 1px #E40521;
+}
+
+#table07 tbody tr:first-child {
+	border-top: 0;
+}
+
+#table07 th, #table07 td {
+	padding: 0.5rem 0.6875rem;
+}
+
+#table07 th:first-child, #table07 td:first-child {
+	padding-left: 0;
+}
+
+#table07 th:last-child, #table07 td:last-child {
 	padding-right: 0;
 }
 
@@ -15986,6 +16037,13 @@ th {
 		line-height: 1.5;
 	}
 	
+	#text77 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
 	#text75 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
@@ -19265,6 +19323,10 @@ th {
 	}
 	
 	#text67 {
+		font-size: 1em;
+	}
+	
+	#text77 {
 		font-size: 1em;
 	}
 	
