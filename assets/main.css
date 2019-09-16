@@ -6291,7 +6291,7 @@ hr:before {
 	width: 30rem;
 }
 
-#image06 img {
+#image63 img {
 	width: 18rem;
 }
 
@@ -6452,11 +6452,11 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
-#text43 br + br {
+#text79 br + br {
 	margin-top: 0.9rem;
 }
 
-#text43 {
+#text79 {
 	color: #000000;
 	font-family: 'Work Sans', sans-serif;
 	letter-spacing: -0.025rem;
@@ -15474,7 +15474,7 @@ th {
 		width: 30rem;
 	}
 	
-	#image06 img {
+	#image63 img {
 		width: 18rem;
 	}
 	
@@ -15617,7 +15617,7 @@ th {
 		line-height: 1.5;
 	}
 	
-	#text43 {
+	#text79 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
 		font-size: 1em;
@@ -19086,7 +19086,7 @@ th {
 		font-size: 1em;
 	}
 	
-	#text43 {
+	#text79 {
 		font-size: 1em;
 	}
 	
