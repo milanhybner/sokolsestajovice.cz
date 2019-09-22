@@ -307,7 +307,7 @@
 							}
 	
 						// Section.
-							else if (e = $('#' + (h ? h : 'home') + '-section')) {
+							else if (e = $('#' + (h ? h : 'sestka') + '-section')) {
 	
 								initialScrollPoint = null;
 								initialSection = e;
@@ -318,7 +318,7 @@
 					// Deactivate all sections (except initial).
 	
 						// Initially hide header and/or footer (if necessary).
-							name = (h ? h : 'home');
+							name = (h ? h : 'sestka');
 							hideHeader = name ? ((name in sections) && ('hideHeader' in sections[name]) && sections[name].hideHeader) : false;
 							hideFooter = name ? ((name in sections) && ('hideFooter' in sections[name]) && sections[name].hideFooter) : false;
 	
@@ -387,7 +387,7 @@
 							}
 	
 						// Section.
-							else if (e = $('#' + (h ? h : 'home') + '-section')) {
+							else if (e = $('#' + (h ? h : 'sestka') + '-section')) {
 	
 								scrollPoint = null;
 								section = e;
@@ -426,7 +426,7 @@
 								locked = true;
 	
 							// Clear index URL hash.
-								if (location.hash == '#home')
+								if (location.hash == '#sestka')
 									history.replaceState(null, null, '#');
 	
 							// Deactivate current section.
