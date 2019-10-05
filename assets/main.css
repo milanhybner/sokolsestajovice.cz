@@ -6203,10 +6203,6 @@ hr:before {
 	width: auto;
 }
 
-#image33 img {
-	width: 100vw;
-}
-
 #image46 img {
 	width: 7rem;
 }
@@ -9641,6 +9637,14 @@ th {
 	font-size: 1em;
 	line-height: 1.5;
 	font-weight: 400;
+}
+
+#list01 a {
+	text-decoration: underline;
+}
+
+#list01 a:hover {
+	text-decoration: none;
 }
 
 #list01 ul {
@@ -15321,10 +15325,6 @@ th {
 	
 	#image12 img {
 		width: 8rem;
-	}
-	
-	#image33 img {
-		width: 100vw;
 	}
 	
 	#image46 img {
