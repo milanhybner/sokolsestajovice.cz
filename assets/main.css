@@ -7550,6 +7550,14 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
+#text74 a {
+	text-decoration: underline;
+}
+
+#text74 a:hover {
+	text-decoration: none;
+}
+
 #text46 br + br {
 	margin-top: 0.6rem;
 }
@@ -7564,6 +7572,28 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 600;
 }
 
+#text03 br + br {
+	margin-top: 0.9rem;
+}
+
+#text03 {
+	color: #000000;
+	font-family: 'Work Sans', sans-serif;
+	letter-spacing: -0.025rem;
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.5;
+	font-weight: 400;
+}
+
+#text03 a {
+	text-decoration: underline;
+}
+
+#text03 a:hover {
+	text-decoration: none;
+}
+
 #text69 br + br {
 	margin-top: 0.9rem;
 }
@@ -7576,6 +7606,14 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 1em;
 	line-height: 1.5;
 	font-weight: 400;
+}
+
+#text69 a {
+	text-decoration: underline;
+}
+
+#text69 a:hover {
+	text-decoration: none;
 }
 
 #text47 br + br {
@@ -15985,6 +16023,13 @@ th {
 		line-height: 1;
 	}
 	
+	#text03 {
+		letter-spacing: -0.021875rem;
+		width: 100%;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
 	#text69 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
@@ -19249,6 +19294,10 @@ th {
 	}
 	
 	#text46 {
+		font-size: 1em;
+	}
+	
+	#text03 {
 		font-size: 1em;
 	}
 	
