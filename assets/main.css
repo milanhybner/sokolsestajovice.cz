@@ -7082,20 +7082,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
-#text27 br + br {
-	margin-top: 0.9rem;
-}
-
-#text27 {
-	color: #000000;
-	font-family: 'Work Sans', sans-serif;
-	letter-spacing: -0.025rem;
-	width: 100%;
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
 #text30 br + br {
 	margin-top: 0.9rem;
 }
@@ -9988,37 +9974,6 @@ th {
 }
 
 #list23 ul li:before {
-	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpath%20d%3D%22M31.7%2C21.1L14.3%2C38.5C14%2C38.8%2C13.7%2C39%2C13.2%2C39c-0.4%2C0-0.7-0.1-1.1-0.5l-3.9-3.9c-0.2-0.2-0.5-0.6-0.5-1.1%20c0-0.4%2C0.1-0.7%2C0.5-1.1L20.7%2C20L8.3%2C7.6C8.1%2C7.3%2C7.8%2C7%2C7.8%2C6.5c0-0.4%2C0.1-0.7%2C0.5-1.1l3.9-3.9C12.5%2C1.2%2C12.8%2C1%2C13.3%2C1%20c0.4%2C0%2C0.7%2C0.1%2C1.1%2C0.5l17.4%2C17.4c0.2%2C0.2%2C0.5%2C0.6%2C0.5%2C1.1C32.1%2C20.4%2C31.9%2C20.7%2C31.7%2C21.1z%22%20fill%3D%22%23E40521%22%20%2F%3E%3C%2Fsvg%3E');
-	border-radius: 100%;
-	line-height: 1.5rem;
-	height: 1.5rem;
-	background-position: left 60%;
-	background-size: contain;
-	min-width: 0.703125rem;
-}
-
-#list19 {
-	color: #000000;
-	font-family: 'Work Sans', sans-serif;
-	letter-spacing: -0.025rem;
-	font-size: 1em;
-	line-height: 1.5;
-	font-weight: 400;
-}
-
-#list19 ul {
-	width: 100rem;
-}
-
-#list19 ul li {
-	margin-top: 0.5rem;
-}
-
-#list19 ul li p {
-	padding-left: 0.625rem;
-}
-
-#list19 ul li:before {
 	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpath%20d%3D%22M31.7%2C21.1L14.3%2C38.5C14%2C38.8%2C13.7%2C39%2C13.2%2C39c-0.4%2C0-0.7-0.1-1.1-0.5l-3.9-3.9c-0.2-0.2-0.5-0.6-0.5-1.1%20c0-0.4%2C0.1-0.7%2C0.5-1.1L20.7%2C20L8.3%2C7.6C8.1%2C7.3%2C7.8%2C7%2C7.8%2C6.5c0-0.4%2C0.1-0.7%2C0.5-1.1l3.9-3.9C12.5%2C1.2%2C12.8%2C1%2C13.3%2C1%20c0.4%2C0%2C0.7%2C0.1%2C1.1%2C0.5l17.4%2C17.4c0.2%2C0.2%2C0.5%2C0.6%2C0.5%2C1.1C32.1%2C20.4%2C31.9%2C20.7%2C31.7%2C21.1z%22%20fill%3D%22%23E40521%22%20%2F%3E%3C%2Fsvg%3E');
 	border-radius: 100%;
 	line-height: 1.5rem;
@@ -15806,13 +15761,6 @@ th {
 		line-height: 1.5;
 	}
 	
-	#text27 {
-		letter-spacing: -0.021875rem;
-		width: 100%;
-		font-size: 1em;
-		line-height: 1.5;
-	}
-	
 	#text30 {
 		letter-spacing: -0.021875rem;
 		width: 100%;
@@ -19170,10 +19118,6 @@ th {
 	}
 	
 	#text32 {
-		font-size: 1em;
-	}
-	
-	#text27 {
 		font-size: 1em;
 	}
 	
