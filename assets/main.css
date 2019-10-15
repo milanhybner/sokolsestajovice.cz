@@ -5943,36 +5943,36 @@ hr:before {
 }
 
 #divider22 {
-	height: 1rem;
-	line-height: 1rem;
+	height: 0.5rem;
+	line-height: 0.5rem;
 }
 
 #divider22:before {
 	width: 100%;
-	border-top: solid 5px #FFFFFF;
-	height: 5px;
+	border-top: solid 2px #FFFFFF;
+	height: 2px;
 }
 
 #divider24 {
-	height: 1rem;
-	line-height: 1rem;
+	height: 0.5rem;
+	line-height: 0.5rem;
 }
 
 #divider24:before {
 	width: 100%;
-	border-top: solid 5px #FFFFFF;
-	height: 5px;
+	border-top: solid 4px #FFFFFF;
+	height: 4px;
 }
 
 #divider05 {
-	height: 1rem;
-	line-height: 1rem;
+	height: 0.875rem;
+	line-height: 0.875rem;
 }
 
 #divider05:before {
 	width: 100%;
-	border-top: solid 5px #FFFFFF;
-	height: 5px;
+	border-top: solid 4px #FFFFFF;
+	height: 4px;
 }
 
 #divider16 {
@@ -16198,18 +16198,18 @@ th {
 	}
 	
 	#divider22 {
-		height: 1rem;
-		line-height: 1rem;
+		height: 0.5rem;
+		line-height: 0.5rem;
 	}
 	
 	#divider24 {
-		height: 1rem;
-		line-height: 1rem;
+		height: 0.5rem;
+		line-height: 0.5rem;
 	}
 	
 	#divider05 {
-		height: 1rem;
-		line-height: 1rem;
+		height: 0.875rem;
+		line-height: 0.875rem;
 	}
 	
 	#divider16 {
