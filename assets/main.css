@@ -18160,9 +18160,812 @@ th {
 		line-height: 1.5rem;
 	}
 	
+	#buttons32 li a {
+		font-size: 1em;
+	}
+	
+	#buttons14 li a {
+		font-size: 1em;
+	}
+	
+	#buttons18 li a {
+		font-size: 1em;
+	}
+	
+	#buttons03 li a {
+		font-size: 1em;
+	}
+	
+	#buttons02 li a {
+		font-size: 1em;
+	}
+	
+	#buttons04 li a {
+		font-size: 1em;
+	}
+	
+	#buttons08 li a {
+		font-size: 1em;
+	}
+	
+	#buttons17 li a {
+		font-size: 1em;
+	}
+	
+	#buttons07 li a {
+		font-size: 1em;
+	}
+	
+	#buttons06 li a {
+		font-size: 1em;
+	}
+	
+	#buttons13 li a {
+		font-size: 1em;
+	}
+	
+	#buttons28 li a {
+		font-size: 1em;
+	}
+	
+	#buttons20 li a {
+		font-size: 1em;
+	}
+	
+	#buttons05 li a {
+		font-size: 1em;
+	}
+	
+	#buttons24 li a {
+		font-size: 1em;
+	}
+	
+	#buttons10 li a {
+		font-size: 1em;
+	}
+	
+	#buttons11 li a {
+		font-size: 1em;
+	}
+	
+	#buttons12 li a {
+		font-size: 1em;
+	}
+	
+	#buttons01 li a {
+		font-size: 1em;
+	}
+	
+	#buttons29 li a {
+		font-size: 1em;
+	}
+	
+	#buttons16 li a {
+		font-size: 1em;
+	}
+	
+	#buttons09 li a {
+		font-size: 1em;
+	}
+	
+	#buttons19 li a {
+		font-size: 1em;
+	}
+	
+	#buttons30 li a {
+		font-size: 1em;
+	}
+	
+	#buttons23 li a {
+		font-size: 1em;
+	}
+	
+	#buttons31 li a {
+		font-size: 1em;
+	}
+	
+	#buttons21 li a {
+		font-size: 1em;
+	}
+	
+	#buttons15 li a {
+		font-size: 1em;
+	}
+	
+	#buttons25 li a {
+		font-size: 1em;
+	}
+	
+	#buttons26 li a {
+		font-size: 1em;
+	}
+	
+	#buttons27 li a {
+		font-size: 1em;
+	}
+	
+	#buttons22 li a {
+		font-size: 1em;
+	}
+	
+	#table08 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table08 th, #table08 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table09 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table09 th, #table09 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table19 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table19 th, #table19 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table20 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table20 th, #table20 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table28 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table28 th, #table28 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table29 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table29 th, #table29 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table30 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table30 th, #table30 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table31 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table31 th, #table31 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table21 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table21 th, #table21 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table22 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table22 th, #table22 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table23 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table23 th, #table23 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table24 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table24 th, #table24 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table25 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table25 th, #table25 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table26 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table26 th, #table26 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table27 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table27 th, #table27 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table02 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table02 th, #table02 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table06 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table06 th, #table06 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table13 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table13 th, #table13 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table05 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table05 th, #table05 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table11 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table11 th, #table11 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table10 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table10 th, #table10 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table15 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table15 th, #table15 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table16 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table16 th, #table16 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table07 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table07 th, #table07 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table17 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table17 th, #table17 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table18 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table18 th, #table18 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table04 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table04 th, #table04 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table03 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table03 th, #table03 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table01 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table01 th, #table01 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table14 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table14 th, #table14 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
+	#table12 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#table12 th, #table12 td {
+		padding: 0.5rem 0.6875rem;
+	}
+	
 	#list01 {
 		margin-top: 0.375rem !important;
 		margin-bottom: 0.375rem !important;
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list01 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list01 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list06 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list06 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list06 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list20 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list20 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list20 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list09 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list09 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list09 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list10 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list10 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list10 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list08 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list08 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list08 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list21 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list21 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list21 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list22 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list22 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list22 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list23 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list23 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list23 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list16 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list16 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list16 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list02 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list02 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list02 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list15 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list15 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list15 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list14 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list14 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list14 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list13 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list13 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list13 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list12 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list12 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list12 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list11 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list11 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list11 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list07 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list07 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list07 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list05 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list05 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list05 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list24 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list24 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list24 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list17 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list17 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list17 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list18 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list18 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list18 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list03 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list03 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list03 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list04 {
+		letter-spacing: -0.021875rem;
+		font-size: 1em;
+		line-height: 1.5;
+	}
+	
+	#list04 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list04 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
 	}
 }
 
@@ -22109,5 +22912,451 @@ th {
 	#buttons22 li {
 		max-width: 100%;
 		margin: 0.5625rem 0;
+	}
+	
+	#table08 {
+		font-size: 1em;
+	}
+	
+	#table09 {
+		font-size: 1em;
+	}
+	
+	#table19 {
+		font-size: 1em;
+	}
+	
+	#table20 {
+		font-size: 1em;
+	}
+	
+	#table28 {
+		font-size: 1em;
+	}
+	
+	#table29 {
+		font-size: 1em;
+	}
+	
+	#table30 {
+		font-size: 1em;
+	}
+	
+	#table31 {
+		font-size: 1em;
+	}
+	
+	#table21 {
+		font-size: 1em;
+	}
+	
+	#table22 {
+		font-size: 1em;
+	}
+	
+	#table23 {
+		font-size: 1em;
+	}
+	
+	#table24 {
+		font-size: 1em;
+	}
+	
+	#table25 {
+		font-size: 1em;
+	}
+	
+	#table26 {
+		font-size: 1em;
+	}
+	
+	#table27 {
+		font-size: 1em;
+	}
+	
+	#table02 {
+		font-size: 1em;
+	}
+	
+	#table06 {
+		font-size: 1em;
+	}
+	
+	#table13 {
+		font-size: 1em;
+	}
+	
+	#table05 {
+		font-size: 1em;
+	}
+	
+	#table11 {
+		font-size: 1em;
+	}
+	
+	#table10 {
+		font-size: 1em;
+	}
+	
+	#table15 {
+		font-size: 1em;
+	}
+	
+	#table16 {
+		font-size: 1em;
+	}
+	
+	#table07 {
+		font-size: 1em;
+	}
+	
+	#table17 {
+		font-size: 1em;
+	}
+	
+	#table18 {
+		font-size: 1em;
+	}
+	
+	#table04 {
+		font-size: 1em;
+	}
+	
+	#table03 {
+		font-size: 1em;
+	}
+	
+	#table01 {
+		font-size: 1em;
+	}
+	
+	#table14 {
+		font-size: 1em;
+	}
+	
+	#table12 {
+		font-size: 1em;
+	}
+	
+	#list01 {
+		font-size: 1em;
+	}
+	
+	#list01 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list01 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list06 {
+		font-size: 1em;
+	}
+	
+	#list06 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list06 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list20 {
+		font-size: 1em;
+	}
+	
+	#list20 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list20 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list09 {
+		font-size: 1em;
+	}
+	
+	#list09 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list09 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list10 {
+		font-size: 1em;
+	}
+	
+	#list10 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list10 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list08 {
+		font-size: 1em;
+	}
+	
+	#list08 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list08 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list21 {
+		font-size: 1em;
+	}
+	
+	#list21 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list21 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list22 {
+		font-size: 1em;
+	}
+	
+	#list22 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list22 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list23 {
+		font-size: 1em;
+	}
+	
+	#list23 ul li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list23 ul li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.703125rem;
+	}
+	
+	#list16 {
+		font-size: 1em;
+	}
+	
+	#list16 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list16 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list02 {
+		font-size: 1em;
+	}
+	
+	#list02 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list02 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list15 {
+		font-size: 1em;
+	}
+	
+	#list15 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list15 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list14 {
+		font-size: 1em;
+	}
+	
+	#list14 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list14 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list13 {
+		font-size: 1em;
+	}
+	
+	#list13 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list13 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list12 {
+		font-size: 1em;
+	}
+	
+	#list12 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list12 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list11 {
+		font-size: 1em;
+	}
+	
+	#list11 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list11 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list07 {
+		font-size: 1em;
+	}
+	
+	#list07 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list07 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list05 {
+		font-size: 1em;
+	}
+	
+	#list05 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list05 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list24 {
+		font-size: 1em;
+	}
+	
+	#list24 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list24 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list17 {
+		font-size: 1em;
+	}
+	
+	#list17 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list17 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list18 {
+		font-size: 1em;
+	}
+	
+	#list18 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list18 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list03 {
+		font-size: 1em;
+	}
+	
+	#list03 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list03 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
+	}
+	
+	#list04 {
+		font-size: 1em;
+	}
+	
+	#list04 ol li p {
+		padding-left: 0.625rem;
+	}
+	
+	#list04 ol li:before {
+		line-height: 1.5rem;
+		height: 1.5rem;
+		min-width: 0.75rem;
 	}
 }
