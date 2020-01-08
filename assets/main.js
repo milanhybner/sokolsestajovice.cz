@@ -124,6 +124,38 @@
 	
 			return a;
 	
+		},
+		thisHash = function() {
+	
+			var h = location.hash ? location.hash.substring(1) : null,
+				a;
+	
+			// Null? Bail.
+				if (!h)
+					return null;
+	
+			// Query string? Move before hash.
+				if (h.match(/\?/)) {
+	
+					// Split from hash.
+						a = h.split('?');
+						h = a[0];
+	
+					// Update hash.
+						history.replaceState(undefined, undefined, '#' + h);
+	
+					// Update search.
+						window.location.search = a[1];
+	
+				}
+	
+			// Prefix with "x" if not a letter.
+				if (h.length > 0
+				&&	!h.match(/^[a-zA-Z]/))
+					h = 'x' + h;
+	
+			return h;
+	
 		};
 	
 	// Animation.
@@ -292,10 +324,12 @@
 				// Show initial section.
 	
 					// Determine target.
-						h = location.hash ? location.hash.substring(1) : null;
+						h = thisHash();
 	
-						if (h && !h.match(/^[a-zA-Z]/))
-							h = 'x' + h;
+						// Contains invalid characters? Might be a third-party hashbang, so ignore it.
+							if (h
+							&&	!h.match(/^[a-zA-Z0-9\-]+$/))
+								h = null;
 	
 						// Scroll point.
 							if (e = $('[data-scroll-id="' + h + '"]')) {
@@ -312,6 +346,19 @@
 								initialScrollPoint = null;
 								initialSection = e;
 								initialId = initialSection.id;
+	
+							}
+	
+						// Missing initial section?
+							if (!initialSection) {
+	
+								// Default to index.
+									initialScrollPoint = null;
+									initialSection = $('#' + 'home' + '-section');
+									initialId = initialSection.id;
+	
+								// Clear index URL hash.
+									history.replaceState(undefined, undefined, '#');
 	
 							}
 	
@@ -375,7 +422,12 @@
 							return false;
 	
 					// Determine target.
-						h = location.hash ? location.hash.substring(1) : null;
+						h = thisHash();
+	
+						// Contains invalid characters? Might be a third-party hashbang, so ignore it.
+							if (h
+							&&	!h.match(/^[a-zA-Z0-9\-]+$/))
+								return false;
 	
 						// Scroll point.
 							if (e = $('[data-scroll-id="' + h + '"]')) {
@@ -395,9 +447,18 @@
 	
 							}
 	
-						// Bail.
-							else
-								return false;
+						// Anything else.
+							else {
+	
+								// Default to index.
+									scrollPoint = null;
+									section = $('#' + 'home' + '-section');
+									id = section.id;
+	
+								// Clear index URL hash.
+									history.replaceState(undefined, undefined, '#');
+	
+							}
 	
 					// No section? Bail.
 						if (!section)
