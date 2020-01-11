@@ -301,6 +301,61 @@
 						f();
 	
 				},
+				loadElements = function(parent) {
+	
+					var a, i;
+	
+					// IFRAMEs.
+	
+						// Get list of unloaded IFRAMEs.
+							a = parent.querySelectorAll('iframe[data-src]:not([data-src=""])');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Load.
+									a[i].src = a[i].dataset.src;
+	
+								// Mark as loaded.
+									a[i].dataset.src = "";
+	
+							}
+	
+				},
+				unloadElements = function(parent) {
+	
+					var a, i;
+	
+					// IFRAMEs.
+	
+						// Get list of loaded IFRAMEs.
+							a = parent.querySelectorAll('iframe[data-src=""]');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Mark as unloaded.
+									a[i].dataset.src = a[i].src;
+	
+								// Unload.
+									a[i].src = '';
+	
+							}
+	
+					// Video.
+	
+						// Get list of videos.
+							a = parent.querySelectorAll('video');
+	
+						// Step through list.
+							for (i=0; i < a.length; i++) {
+	
+								// Pause.
+									a[i].pause();
+	
+							}
+	
+				},
 				sections = {
 					'clenstvi': {
 						hideFooter: true,
@@ -397,6 +452,9 @@
 	
 					// Activate initial section.
 						initialSection.classList.add('active');
+	
+					// Load elements.
+						loadElements(initialSection);
 	
 				 	// Scroll to top.
 						doScroll(null, 'instant');
@@ -530,6 +588,9 @@
 										// Deactivate.
 											currentSection.classList.add('inactive');
 	
+										// Unload elements.
+											unloadElements(currentSection);
+	
 										// Hide.
 											setTimeout(function() {
 												currentSection.style.display = 'none';
@@ -613,6 +674,9 @@
 														// Clear target heights.
 															section.style.minHeight = '';
 															section.style.maxHeight = '';
+	
+														// Load elements.
+															loadElements(section);
 	
 													 	// Scroll to scroll point (if applicable).
 													 		if (scrollPoint)
