@@ -6416,6 +6416,10 @@ hr:before {
 	width: 28rem;
 }
 
+#image06 img {
+	width: 100vw;
+}
+
 #image04 img {
 	max-width: 100%;
 	width: auto;

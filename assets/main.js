@@ -45,6 +45,7 @@
 				a = [
 					['ios',			/([0-9_]+) like Mac OS X/,			function(v) { return v.replace('_', '.').replace('_', ''); }],
 					['ios',			/CPU like Mac OS X/,				function(v) { return 0 }],
+					['ios',			/iPad; CPU/,						function(v) { return 0 }],
 					['android',		/Android ([0-9\.]+)/,				null],
 					['mac',			/Macintosh.+Mac OS X ([0-9_]+)/,	function(v) { return v.replace('_', '.').replace('_', ''); }],
 					['windows',		/Windows NT ([0-9\.]+)/,			null],
@@ -63,6 +64,23 @@
 					}
 	
 				}
+	
+				// Hack: Detect iPads running iPadOS.
+					if (o.os == 'mac'
+					&&	('ontouchstart' in window)
+					&&	(
+	
+						// 12.9"
+							(screen.width == 1024 && screen.height == 1366)
+						// 10.2"
+							||	(screen.width == 834 && screen.height == 1112)
+						// 9.7"
+							||	(screen.width == 810 && screen.height == 1080)
+						// Legacy
+							||	(screen.width == 768 && screen.height == 1024)
+	
+					))
+						o.os = 'ios';
 	
 			// canUse.
 				var _canUse = document.createElement('div');
@@ -772,6 +790,9 @@
 	
 					})();
 	
+				// Apply "is-touch" class to body.
+					$body.classList.add('is-touch');
+	
 			}
 	
 		// iOS.
@@ -814,6 +835,9 @@
 								}, true);
 	
 						})();
+	
+				// Apply "is-touch" class to body.
+					$body.classList.add('is-touch');
 	
 			}
 	
