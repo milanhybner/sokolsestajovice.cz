@@ -6356,6 +6356,10 @@ hr:before {
 	display: block;
 }
 
+#image06 img {
+	width: 100vw;
+}
+
 #image01 img {
 	width: 14rem;
 }
@@ -15659,6 +15663,10 @@ th {
 	
 	#divider07:before {
 		width: 100%;
+	}
+	
+	#image06 img {
+		width: 100vw;
 	}
 	
 	#image01 img {
